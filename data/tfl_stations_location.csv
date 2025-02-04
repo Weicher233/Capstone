@@ -1,0 +1,464 @@
+station_name_tfl,lat,lon,common_name,id
+Acton Town,51.503057,-0.280462,Acton Town Underground Station,940GZZLUACT
+Barbican,51.520275,-0.097993,Barbican Underground Station,940GZZLUBBN
+Aldgate,51.514246,-0.075689,Aldgate Underground Station,940GZZLUALD
+Tower Hill,51.509971,-0.076546,Tower Hill Underground Station,940GZZLUTWH
+Tower Gateway,51.510617,-0.074818,Tower Gateway DLR Station,940GZZDLTWG
+Fenchurch Street,51.511646,-0.078897,London Fenchurch Street Rail Station,910GFENCHRS
+Aldgate East,51.515037,-0.072384,Aldgate East Underground Station,940GZZLUADE
+Stratford International DLR,51.545265,-0.009638,Stratford International DLR Station,940GZZDLSIT
+Stratford International NR,51.544828,-0.008778,Stratford International Rail Station,910GSTFODOM
+Alperton,51.540627,-0.29961,Alperton Underground Station,940GZZLUALP
+Amersham,51.674126,-0.607714,Amersham Underground Station,940GZZLUAMS
+Angel,51.532624,-0.105898,Angel Underground Station,940GZZLUAGL
+Archway,51.565478,-0.134819,Archway Underground Station,940GZZLUACY
+Upper Holloway,51.563631,-0.129513,Upper Holloway Rail Station,910GUPRHLWY
+Arnos Grove,51.616446,-0.133062,Arnos Grove Underground Station,940GZZLUASG
+Arsenal,51.558655,-0.107457,Arsenal Underground Station,940GZZLUASL
+Baker Street,51.522883,-0.15713,Baker Street Underground Station,940GZZLUBST
+Balham LU,51.443288,-0.152997,Balham Underground Station,940GZZLUBLM
+Balham NR,51.443259,-0.152707,Balham,HUBBAL
+Bank and Monument,51.513356,-0.088899,,
+Cannon Street LU,51.51151,-0.090432,Cannon Street Underground Station,940GZZLUCST
+Mansion House,51.512117,-0.094009,Mansion House Underground Station,940GZZLUMSH
+Cannon Street NR,51.511451,-0.090357,Cannon Street,HUBCST
+Barking,51.539495,0.080903,Barking Rail Station,910GBARKING
+Barking Riverside,51.51953,0.11596,Barking Riverside,910GBKRVS
+Barkingside,51.585689,0.088585,Barkingside Underground Station,940GZZLUBKE
+Barons Court,51.490311,-0.213427,Barons Court Underground Station,940GZZLUBSC
+Bayswater,51.512284,-0.187938,Bayswater Underground Station,940GZZLUBWT
+Becontree,51.540331,0.127016,Becontree Underground Station,940GZZLUBEC
+Belsize Park,51.550311,-0.164648,Belsize Park Underground Station,940GZZLUBZP
+Bethnal Green LU,51.527222,-0.055506,Bethnal Green Underground Station,940GZZLUBLG
+Blackfriars LU,51.511581,-0.103659,Blackfriars Underground Station,940GZZLUBKF
+Blackfriars NR,51.509613,-0.104166,Blackfriars,HUBBFR
+Blackhorse Road,51.586919,-0.04115,Blackhorse Road Underground Station,940GZZLUBLR
+King George V,51.502003,0.062624,King George V DLR Station,940GZZDLKGV
+Borough,51.501199,-0.09337,Borough Underground Station,940GZZLUBOR
+Boston Manor,51.495635,-0.324939,Boston Manor Underground Station,940GZZLUBOS
+Bounds Green,51.607034,-0.124235,Bounds Green Underground Station,940GZZLUBDS
+Bowes Park,51.607012,-0.120582,Bowes Park Rail Station,910GBOWESPK
+Bow Road,51.52694,-0.025128,Bow Road Underground Station,940GZZLUBWR
+Bow Church,51.527858,-0.020936,Bow Church DLR Station,940GZZDLBOW
+Brent Cross,51.57665,-0.213622,Brent Cross Underground Station,940GZZLUBTX
+Bromley-by-Bow,51.524839,-0.011538,Bromley-by-Bow Underground Station,940GZZLUBBB
+Buckhurst Hill,51.626605,0.046757,Buckhurst Hill Underground Station,940GZZLUBKH
+Burnt Oak,51.602774,-0.264048,Burnt Oak Underground Station,940GZZLUBTK
+London City Airport,51.503416,0.048739,London City Airport DLR Station,940GZZDLLCA
+Caledonian Road,51.548519,-0.118493,Caledonian Road Underground Station,940GZZLUCAR
+Camden Town,51.539292,-0.14274,Camden Town Underground Station,940GZZLUCTN
+Camden Road,51.541791,-0.138701,Camden Road Rail Station,910GCMDNRD
+Canons Park,51.607701,-0.294693,Canons Park Underground Station,940GZZLUCPK
+Pontoon Dock,51.502212,0.032115,Pontoon Dock DLR Station,940GZZDLPDK
+Chalfont & Latimer,51.667985,-0.560689,Chalfont & Latimer Underground Station,940GZZLUCAL
+Chalk Farm,51.544118,-0.153388,Chalk Farm Underground Station,940GZZLUCFM
+Chancery Lane,51.518247,-0.111583,Chancery Lane Underground Station,940GZZLUCHL
+Embankment,51.507058,-0.122666,Embankment Underground Station,940GZZLUEMB
+Charing Cross LU,51.50741,-0.127277,Charing Cross Underground Station,940GZZLUCHX
+Charing Cross NR,51.507819,-0.126137,Charing Cross,HUBCHX
+Chesham,51.705208,-0.611247,Chesham Underground Station,940GZZLUCSM
+Chigwell,51.617916,0.075041,Chigwell Underground Station,940GZZLUCWL
+Chiswick Park,51.494627,-0.267972,Chiswick Park Underground Station,940GZZLUCWP
+Chorleywood,51.654358,-0.518461,Chorleywood Underground Station,940GZZLUCYD
+Clapham Common,51.461742,-0.138317,Clapham Common Underground Station,940GZZLUCPC
+Clapham North,51.465135,-0.130016,Clapham North Underground Station,940GZZLUCPN
+Clapham High Street,51.465481,-0.132522,Clapham High Street Rail Station,910GCLPHHS
+Clapham South,51.452654,-0.147582,Clapham South Underground Station,940GZZLUCPS
+Cockfosters,51.65152,-0.149171,Cockfosters Underground Station,940GZZLUCKS
+Colindale,51.595424,-0.249919,Colindale Underground Station,940GZZLUCND
+Colliers Wood,51.41816,-0.178086,Colliers Wood Underground Station,940GZZLUCSD
+Covent Garden,51.513093,-0.124436,Covent Garden Underground Station,940GZZLUCGN
+Croxley,51.647044,-0.441718,Croxley Underground Station,940GZZLUCXY
+Dagenham East,51.544096,0.166017,Dagenham East Underground Station,940GZZLUDGE
+Dagenham Heathway,51.541639,0.147527,Dagenham Heathway Underground Station,940GZZLUDGY
+Debden,51.645386,0.083782,Debden Underground Station,940GZZLUDBN
+Dollis Hill,51.551955,-0.239068,Dollis Hill Underground Station,940GZZLUDOH
+West Silvertown,51.502838,0.02246,West Silvertown DLR Station,940GZZDLWSV
+Ealing Broadway,51.514841,-0.301752,Ealing Broadway Rail Station,910GEALINGB
+Ealing Common,51.51014,-0.288265,Ealing Common Underground Station,940GZZLUECM
+Earl's Court,51.492063,-0.193378,Earl's Court Underground Station,940GZZLUECT
+East Acton,51.516612,-0.247248,East Acton Underground Station,940GZZLUEAN
+Eastcote,51.576506,-0.397373,Eastcote Underground Station,940GZZLUEAE
+East Finchley,51.587131,-0.165012,East Finchley Underground Station,940GZZLUEFY
+East Ham,51.538948,0.051186,East Ham Underground Station,940GZZLUEHM
+Edgware,51.613653,-0.274928,Edgware Underground Station,940GZZLUEGW
+Edgware Road (DIS),51.519858,-0.167832,Edgware Road (Circle Line) Underground Station,940GZZLUERC
+Edgware Road (Bak),51.520299,-0.17015,Edgware Road (Bakerloo) Underground Station,940GZZLUERB
+Elephant & Castle LU,51.494536,-0.100606,Elephant & Castle Underground Station,940GZZLUEAC
+Elephant & Castle NR,51.494505,-0.099185,Elephant & Castle,HUBEPH
+Elm Park,51.549775,0.19864,Elm Park Underground Station,940GZZLUEPK
+Epping,51.69368,0.113767,Epping Underground Station,940GZZLUEPG
+Euston LU,51.527824,-0.131846,Euston Underground Station,940GZZLUEUS
+Euston Square,51.525604,-0.135829,Euston Square Underground Station,940GZZLUESQ
+Warren Street,51.524951,-0.138321,Warren Street Underground Station,940GZZLUWRR
+Euston NR,51.527365,-0.132754,Euston,HUBEUS
+Fairlop,51.595618,0.091004,Fairlop Underground Station,940GZZLUFLP
+Farringdon,51.520252,-0.104913,Farringdon Underground Station,940GZZLUFCN
+Finchley Central,51.600921,-0.192527,Finchley Central Underground Station,940GZZLUFYC
+Finchley Road,51.546825,-0.179845,Finchley Road Underground Station,940GZZLUFYR
+Finchley Road & Frognal,51.550266,-0.183141,Finchley Road & Frognal Rail Station,910GFNCHLYR
+Finsbury Park LU,51.564158,-0.106825,Finsbury Park Underground Station,940GZZLUFPK
+Finsbury Park NR,51.564778,-0.105876,Finsbury Park,HUBFPK
+Fulham Broadway,51.480081,-0.195422,Fulham Broadway Underground Station,940GZZLUFBY
+Gants Hill,51.576544,0.066185,Gants Hill Underground Station,940GZZLUGTH
+Gloucester Road,51.494316,-0.182658,Gloucester Road Underground Station,940GZZLUGTR
+Golders Green,51.572259,-0.194039,Golders Green Underground Station,940GZZLUGGN
+Goldhawk Road,51.502005,-0.226715,Goldhawk Road Underground Station,940GZZLUGHK
+Goodge Street,51.520599,-0.134361,Goodge Street Underground Station,940GZZLUGDG
+Grange Hill,51.613378,0.092066,Grange Hill Underground Station,940GZZLUGGH
+Great Portland Street,51.52384,-0.144262,Great Portland Street Underground Station,940GZZLUGPS
+Greenford,51.542424,-0.34605,Greenford Underground Station,940GZZLUGFD
+Green Park,51.506947,-0.142787,Green Park Underground Station,940GZZLUGPK
+Gunnersbury,51.491678,-0.275286,Gunnersbury Rail Station,910GGNRSBRY
+Hainault,51.603659,0.093482,Hainault Underground Station,940GZZLUHLT
+Hammersmith (DIS),51.4923,-0.22362,Hammersmith (Dist&Picc Line) Underground Station,940GZZLUHSD
+Hammersmith (H&C),51.49339,-0.22503,Hammersmith (H&C Line) Underground Station,940GZZLUHSC
+Hampstead,51.556239,-0.177464,Hampstead Underground Station,940GZZLUHTD
+Hanger Lane,51.530177,-0.292704,Hanger Lane Underground Station,940GZZLUHGR
+Park Royal,51.527123,-0.284341,Park Royal Underground Station,940GZZLUPKR
+Harlesden,51.536289,-0.257667,Harlesden Rail Station,910GHARLSDN
+Harrow & Wealdstone,51.592169,-0.334571,Harrow & Wealdstone Rail Station,910GHROW
+Harrow-on-the-Hill,51.579195,-0.337225,Harrow-on-the-Hill Underground Station,940GZZLUHOH
+Hendon Central,51.583301,-0.226424,Hendon Central Underground Station,940GZZLUHCL
+High Barnet,51.650541,-0.194298,High Barnet Underground Station,940GZZLUHBT
+Highbury & Islington,51.546177,-0.103764,Highbury & Islington Rail Station,910GHGHI
+Highgate,51.577532,-0.145857,Highgate Underground Station,940GZZLUHGT
+High Street Kensington,51.501055,-0.192792,High Street Kensington Underground Station,940GZZLUHSK
+Hillingdon,51.553715,-0.449828,Hillingdon Underground Station,940GZZLUHGD
+Holborn,51.51758,-0.120475,Holborn Underground Station,940GZZLUHBN
+Holland Park,51.507143,-0.205679,Holland Park Underground Station,940GZZLUHPK
+Holloway Road,51.552697,-0.113244,Holloway Road Underground Station,940GZZLUHWY
+Hornchurch,51.554093,0.219116,Hornchurch Underground Station,940GZZLUHCH
+Hounslow Central,51.471295,-0.366578,Hounslow Central Underground Station,940GZZLUHWC
+Hounslow East,51.473213,-0.356474,Hounslow East Underground Station,940GZZLUHWE
+Hounslow West,51.473469,-0.386544,Hounslow West Underground Station,940GZZLUHWT
+Hyde Park Corner,51.503035,-0.152441,Hyde Park Corner Underground Station,940GZZLUHPC
+Ickenham,51.56177,-0.442225,Ickenham Underground Station,940GZZLUICK
+West Ruislip,51.569688,-0.437886,West Ruislip Underground Station,940GZZLUWRP
+Kennington,51.488337,-0.105963,Kennington Underground Station,940GZZLUKNG
+Kensal Green,51.53054,-0.225088,Kensal Green Rail Station,910GKENSLG
+Kensington (Olympia),51.497899,-0.210364,Kensington (Olympia) Rail Station,910GKENOLYM
+Kentish Town,51.550312,-0.140733,Kentish Town Underground Station,940GZZLUKSH
+Kentish Town West,51.546548,-0.146655,Kentish Town West Rail Station,910GKNTSHTW
+Kenton,51.581802,-0.316981,Kenton Rail Station,910GKTON
+Northwick Park,51.578481,-0.318056,Northwick Park Underground Station,940GZZLUNKP
+Kew Gardens,51.477073,-0.285054,Kew Gardens Rail Station,910GKEWGRDN
+Kilburn,51.547183,-0.204248,Kilburn Underground Station,940GZZLUKBN
+Brondesbury,51.545166,-0.202309,Brondesbury Rail Station,910GBRBY
+Kilburn Park,51.534979,-0.194232,Kilburn Park Underground Station,940GZZLUKPK
+Kingsbury,51.584845,-0.27879,Kingsbury Underground Station,940GZZLUKBY
+King's Cross St. Pancras,51.530663,-0.123194,King's Cross St. Pancras Underground Station,940GZZLUKSX
+St. Pancras International,51.531683,-0.123538,King's Cross & St Pancras International,HUBKGX
+King's Cross,51.531683,-0.123538,King's Cross & St Pancras International,HUBKGX
+Knightsbridge,51.501669,-0.160508,Knightsbridge Underground Station,940GZZLUKNB
+Ladbroke Grove,51.517449,-0.210391,Ladbroke Grove Underground Station,940GZZLULAD
+Lambeth North,51.498808,-0.112315,Lambeth North Underground Station,940GZZLULBN
+Lancaster Gate,51.511723,-0.175494,Lancaster Gate Underground Station,940GZZLULGT
+Latimer Road,51.513389,-0.217799,Latimer Road Underground Station,940GZZLULRD
+Leicester Square,51.511386,-0.128426,Leicester Square Underground Station,940GZZLULSQ
+Leyton,51.556589,-0.005523,Leyton Underground Station,940GZZLULYN
+Leytonstone,51.568324,0.008194,Leytonstone Underground Station,940GZZLULYS
+Leytonstone High Road,51.563554,0.008416,Leytonstone High Road Rail Station,910GLYTNSHR
+London Bridge LU,51.505721,-0.088873,London Bridge Underground Station,940GZZLULNB
+London Bridge NR,51.505881,-0.086807,London Bridge,HUBLBG
+Loughton,51.641443,0.055476,Loughton Underground Station,940GZZLULGN
+Maida Vale,51.529777,-0.185758,Maida Vale Underground Station,940GZZLUMVL
+Manor House,51.570738,-0.096118,Manor House Underground Station,940GZZLUMRH
+Marble Arch,51.513424,-0.158953,Marble Arch Underground Station,940GZZLUMBA
+Mile End,51.525122,-0.03364,Mile End Underground Station,940GZZLUMED
+Mill Hill East,51.608229,-0.209986,Mill Hill East Underground Station,940GZZLUMHL
+Moor Park,51.629845,-0.432454,Moor Park Underground Station,940GZZLUMPK
+Morden,51.402142,-0.194839,Morden Underground Station,940GZZLUMDN
+Mornington Crescent,51.534679,-0.138789,Mornington Crescent Underground Station,940GZZLUMTC
+Neasden,51.553986,-0.249837,Neasden Underground Station,940GZZLUNDN
+Newbury Park,51.575726,0.090004,Newbury Park Underground Station,940GZZLUNBP
+North Acton,51.523524,-0.259755,North Acton Underground Station,940GZZLUNAN
+North Ealing,51.517505,-0.288868,North Ealing Underground Station,940GZZLUNEN
+Northfields,51.499319,-0.314719,Northfields Underground Station,940GZZLUNFD
+North Harrow,51.584872,-0.362408,North Harrow Underground Station,940GZZLUNHA
+Northolt,51.548236,-0.368699,Northolt Underground Station,940GZZLUNHT
+North Wembley,51.562596,-0.303984,North Wembley Rail Station,910GNWEMBLY
+Northwood,51.611053,-0.423829,Northwood Underground Station,940GZZLUNOW
+Northwood Hills,51.600572,-0.409464,Northwood Hills Underground Station,940GZZLUNWH
+Notting Hill Gate,51.509128,-0.196104,Notting Hill Gate Underground Station,940GZZLUNHG
+Oakwood,51.647726,-0.132182,Oakwood Underground Station,940GZZLUOAK
+Old Street,51.525864,-0.08777,Old Street Underground Station,940GZZLUODS
+Osterley,51.481274,-0.352224,Osterley Underground Station,940GZZLUOSY
+Oval,51.48185,-0.112439,Oval Underground Station,940GZZLUOVL
+Oxford Circus,51.515224,-0.141903,Oxford Circus Underground Station,940GZZLUOXC
+Parsons Green,51.475277,-0.20117,Parsons Green Underground Station,940GZZLUPSG
+Perivale,51.536717,-0.323446,Perivale Underground Station,940GZZLUPVL
+Piccadilly Circus,51.51005,-0.133798,Piccadilly Circus Underground Station,940GZZLUPCC
+Pinner,51.592901,-0.381161,Pinner Underground Station,940GZZLUPNR
+Plaistow,51.531341,0.017451,Plaistow Underground Station,940GZZLUPLW
+Preston Road,51.571972,-0.295107,Preston Road Underground Station,940GZZLUPRD
+Putney Bridge,51.468262,-0.208731,Putney Bridge Underground Station,940GZZLUPYB
+Queensbury,51.594188,-0.286219,Queensbury Underground Station,940GZZLUQBY
+Queen's Park,51.534158,-0.204574,Queen's Park Underground Station,940GZZLUQPS
+Queensway,51.510312,-0.187152,Queensway Underground Station,940GZZLUQWY
+Ravenscourt Park,51.494122,-0.235881,Ravenscourt Park Underground Station,940GZZLURVP
+Rayners Lane,51.575147,-0.371127,Rayners Lane Underground Station,940GZZLURYL
+Redbridge,51.576243,0.04536,Redbridge Underground Station,940GZZLURBG
+Regent's Park,51.523344,-0.146444,Regent's Park Underground Station,940GZZLURGP
+Richmond,51.463061,-0.301558,Richmond (London) Rail Station,910GRICHMND
+Rickmansworth,51.640207,-0.473703,Rickmansworth Underground Station,940GZZLURKW
+Roding Valley,51.617199,0.043647,Roding Valley Underground Station,940GZZLURVY
+Royal Oak,51.519113,-0.188748,Royal Oak Underground Station,940GZZLURYO
+Ruislip,51.571354,-0.421898,Ruislip Underground Station,940GZZLURSP
+Ruislip Gardens,51.560736,-0.41071,Ruislip Gardens Underground Station,940GZZLURSG
+Ruislip Manor,51.573202,-0.412973,Ruislip Manor Underground Station,940GZZLURSM
+Russell Square,51.523073,-0.124285,Russell Square Underground Station,940GZZLURSQ
+St. James's Park,51.499544,-0.133608,St. James's Park Underground Station,940GZZLUSJP
+St. John's Wood,51.534521,-0.173948,St. John's Wood Underground Station,940GZZLUSJW
+St. Paul's,51.514936,-0.097567,St. Paul's Underground Station,940GZZLUSPU
+Seven Sisters,51.582268,-0.07527,Seven Sisters Rail Station,910GSEVNSIS
+South Tottenham,51.580372,-0.072103,South Tottenham Rail Station,910GSTOTNHM
+Sloane Square,51.49227,-0.156377,Sloane Square Underground Station,940GZZLUSSQ
+Snaresbrook,51.580678,0.02144,Snaresbrook Underground Station,940GZZLUSNB
+South Ealing,51.501003,-0.307424,South Ealing Underground Station,940GZZLUSEA
+Southfields,51.445073,-0.206602,Southfields Underground Station,940GZZLUSFS
+Southgate,51.632315,-0.127816,Southgate Underground Station,940GZZLUSGT
+South Harrow,51.564888,-0.352492,South Harrow Underground Station,940GZZLUSHH
+South Kensington,51.494094,-0.174138,South Kensington Underground Station,940GZZLUSKS
+South Kenton,51.570214,-0.308462,South Kenton Rail Station,910GSKENTON
+South Ruislip,51.556853,-0.398915,South Ruislip Underground Station,940GZZLUSRP
+South Wimbledon,51.415309,-0.192005,South Wimbledon Underground Station,940GZZLUSWN
+South Woodford,51.591907,0.027338,South Woodford Underground Station,940GZZLUSWF
+Stamford Brook,51.494917,-0.245704,Stamford Brook Underground Station,940GZZLUSFB
+Stanmore,51.619839,-0.303266,Stanmore Underground Station,940GZZLUSTM
+Stepney Green,51.521858,-0.046596,Stepney Green Underground Station,940GZZLUSGN
+Stockwell,51.472184,-0.122644,Stockwell Underground Station,940GZZLUSKW
+Stonebridge Park,51.544111,-0.275828,Stonebridge Park Rail Station,910GSTNBGPK
+Stratford,51.541895,-0.003397,Stratford (London) Rail Station,910GSTFD
+Sudbury Hill,51.556946,-0.336435,Sudbury Hill Underground Station,940GZZLUSUH
+Sudbury Hill Harrow,51.558465,-0.335803,Sudbury Hill Harrow Rail Station,910GSDBRYHH
+Sudbury Town,51.550815,-0.315745,Sudbury Town Underground Station,940GZZLUSUT
+Swiss Cottage,51.543681,-0.174894,Swiss Cottage Underground Station,940GZZLUSWC
+Temple,51.511006,-0.11426,Temple Underground Station,940GZZLUTMP
+Theydon Bois,51.671759,0.103085,Theydon Bois Underground Station,940GZZLUTHB
+Tooting Bec,51.435678,-0.159736,Tooting Bec Underground Station,940GZZLUTBC
+Tooting Broadway,51.42763,-0.168374,Tooting Broadway Underground Station,940GZZLUTBY
+Tottenham Hale LU,51.588108,-0.060241,Tottenham Hale Underground Station,940GZZLUTMH
+Tottenham Hale NR,51.588315,-0.06024,Tottenham Hale,HUBTOM
+Totteridge & Whetstone,51.630597,-0.17921,Totteridge & Whetstone Underground Station,940GZZLUTAW
+Tufnell Park,51.556822,-0.138433,Tufnell Park Underground Station,940GZZLUTFP
+Turnham Green,51.495148,-0.254555,Turnham Green Underground Station,940GZZLUTNG
+Turnpike Lane,51.590272,-0.102953,Turnpike Lane Underground Station,940GZZLUTPN
+Upminster,51.559018,0.25088,Upminster Rail Station,910GUPMNSTR
+Upminster Bridge,51.55856,0.235809,Upminster Bridge Underground Station,940GZZLUUPB
+Upney,51.538372,0.10153,Upney Underground Station,940GZZLUUPY
+Upton Park,51.53534,0.035263,Upton Park Underground Station,940GZZLUUPK
+Uxbridge,51.546565,-0.477949,Uxbridge Underground Station,940GZZLUUXB
+Victoria LU,51.496359,-0.143102,Victoria Underground Station,940GZZLUVIC
+Victoria NR,51.495812,-0.143826,Victoria,HUBVIC
+Walthamstow Central,51.582919,-0.019815,Walthamstow Central Rail Station,910GWLTWCEN
+Walthamstow Queen's Road,51.581503,-0.023846,Walthamstow Queens Road Rail Station,910GWLTHQRD
+Wanstead,51.575501,0.028527,Wanstead Underground Station,940GZZLUWSD
+Warwick Avenue,51.523263,-0.183783,Warwick Avenue Underground Station,940GZZLUWKA
+Waterloo LU,51.503299,-0.11478,Waterloo Underground Station,940GZZLUWLO
+Southwark,51.50427,-0.105331,Southwark Underground Station,940GZZLUSWK
+Waterloo East,51.504076,-0.108898,London Waterloo East Rail Station,910GWLOE
+Waterloo NR,51.504269,-0.113356,Waterloo,HUBWAT
+Watford,51.657446,-0.417377,Watford Underground Station,940GZZLUWAF
+Stratford High Street,51.538196,-0.001078,Stratford High Street DLR Station,940GZZDLSHS
+Abbey Road,51.531926,0.003737,Abbey Road DLR Station,940GZZDLABR
+Wembley Central,51.552325,-0.296433,Wembley Central Rail Station,910GWMBY
+Wembley Park,51.563198,-0.279262,Wembley Park Underground Station,940GZZLUWYP
+West Acton,51.518001,-0.28098,West Acton Underground Station,940GZZLUWTA
+Westbourne Park,51.52111,-0.201065,Westbourne Park Underground Station,940GZZLUWSP
+West Brompton,51.487061,-0.195593,West Brompton Rail Station,910GWBRMPTN
+West Finchley,51.609426,-0.188362,West Finchley Underground Station,940GZZLUWFN
+West Ham,51.528136,0.005055,West Ham Underground Station,940GZZLUWHM
+West Hampstead LU,51.546638,-0.191059,West Hampstead Underground Station,940GZZLUWHP
+West Hampstead LO,51.547468,-0.191185,West Hampstead Rail Station,910GWHMDSTD
+West Hampstead NR,51.547533,-0.191357,West Hampstead,HUBWHD
+West Harrow,51.57971,-0.3534,West Harrow Underground Station,940GZZLUWHW
+West Kensington,51.490459,-0.206636,West Kensington Underground Station,940GZZLUWKN
+Westminster,51.50132,-0.124861,Westminster Underground Station,940GZZLUWSM
+Wood Lane,51.509669,-0.22453,Wood Lane Underground Station,940GZZLUWLA
+White City,51.511959,-0.224297,White City Underground Station,940GZZLUWCY
+Willesden Green,51.549146,-0.221537,Willesden Green Underground Station,940GZZLUWIG
+Willesden Junction,51.532497,-0.244548,Willesden Junction Rail Station,910GWLSDJHL
+Wimbledon,51.421207,-0.206573,Wimbledon Underground Station,940GZZLUWIM
+Wimbledon Park,51.434573,-0.199719,Wimbledon Park Underground Station,940GZZLUWIP
+Woodford,51.606899,0.03397,Woodford Underground Station,940GZZLUWOF
+Wood Green,51.597479,-0.109886,Wood Green Underground Station,940GZZLUWOG
+Woodside Park,51.618014,-0.18542,Woodside Park Underground Station,940GZZLUWOP
+Shepherd's Bush Market,51.505579,-0.226375,Shepherd's Bush Market Underground Station,940GZZLUSBM
+Pimlico,51.489097,-0.133761,Pimlico Underground Station,940GZZLUPCO
+Vauxhall LU,51.485743,-0.124204,Vauxhall Underground Station,940GZZLUVXL
+Vauxhall NR,51.485739,-0.123303,Vauxhall,HUBVXH
+Brixton LU,51.462618,-0.114888,Brixton Underground Station,940GZZLUBXN
+Brixton NR,51.462961,-0.114531,Brixton,HUBBRX
+Hatton Cross,51.466747,-0.423191,Hatton Cross Underground Station,940GZZLUHNX
+Bermondsey,51.49775,-0.063993,Bermondsey Underground Station,940GZZLUBMY
+Canada Water,51.49799,-0.04972,Canada Water Rail Station,910GCNDAW
+North Greenwich,51.50047,0.004287,North Greenwich Underground Station,940GZZLUNGW
+Nine Elms,51.479912,-0.128476,Nine Elms Underground Station,940GZZNEUGST
+Battersea Power Station,51.479932,-0.142142,Battersea Power Station Underground Station,940GZZBPSUST
+All Saints,51.511,-0.013135,All Saints DLR Station,940GZZDLALL
+Canary Wharf DLR,51.504838,-0.020997,Canary Wharf DLR Station,940GZZDLCAN
+Canary Wharf LU,51.503488,-0.018246,Canary Wharf Underground Station,940GZZLUCYF
+Heron Quays,51.503379,-0.021421,Heron Quays DLR Station,940GZZDLHEQ
+Langdon Park,51.515172,-0.01415,Langdon Park DLR Station,940GZZDLLDP
+Crossharbour,51.495728,-0.014606,Crossharbour DLR Station,940GZZDLCLA
+Island Gardens,51.487811,-0.010139,Island Gardens DLR Station,940GZZDLISL
+Mudchute,51.490704,-0.014738,Mudchute DLR Station,940GZZDLMUD
+Poplar,51.507744,-0.017384,Poplar DLR Station,940GZZDLPOP
+Pudding Mill Lane,51.534302,-0.012755,Pudding Mill Lane DLR Station,940GZZDLPUD
+Shadwell DLR,51.511693,-0.056643,Shadwell DLR Station,940GZZDLSHA
+Shadwell LO,51.511284,-0.056934,Shadwell Rail Station,910GSHADWEL
+South Quay,51.50005,-0.01597,South Quay DLR Station,940GZZDLSOQ
+Limehouse DLR,51.512393,-0.039809,Limehouse DLR Station,940GZZDLLIM
+Limehouse NR,51.512469,-0.039799,Limehouse,HUBLHS
+Westferry,51.509431,-0.02675,Westferry DLR Station,940GZZDLWFE
+West India Quay,51.50703,-0.020311,West India Quay DLR Station,940GZZDLWIQ
+Devons Road,51.522667,-0.017615,Devons Road DLR Station,940GZZDLDEV
+Cutty Sark,51.481671,-0.01081,Cutty Sark (for Maritime Greenwich) DLR Station,940GZZDLCUT
+Blackwall,51.507991,-0.006969,Blackwall DLR Station,940GZZDLBLA
+East India,51.509359,-0.002326,East India DLR Station,940GZZDLEIN
+Canning Town,51.513584,0.008322,Canning Town Underground Station,940GZZLUCGT
+Royal Victoria,51.509336,0.018497,Royal Victoria DLR Station,940GZZDLRVC
+Custom House,51.509436,0.027681,Custom House,910GCSTMHSXR
+Prince Regent,51.509263,0.034158,Prince Regent DLR Station,940GZZDLPRE
+Star Lane,51.520786,0.004156,Star Lane DLR Station,940GZZDLSTL
+Royal Albert,51.508357,0.045935,Royal Albert DLR Station,940GZZDLRAL
+Beckton Park,51.508793,0.054932,Beckton Park DLR Station,940GZZDLBPK
+Cyprus,51.508473,0.063925,Cyprus DLR Station,940GZZDLCYP
+Gallions Reach,51.508941,0.071555,Gallions Reach DLR Station,940GZZDLGAL
+Beckton,51.514362,0.061453,Beckton DLR Station,940GZZDLBEC
+Deptford Bridge,51.474215,-0.022438,Deptford Bridge DLR Station,940GZZDLDEP
+Elverson Road,51.469074,-0.016728,Elverson Road DLR Station,940GZZDLELV
+Greenwich,51.478087,-0.013673,Greenwich DLR Station,940GZZDLGRE
+Haggerston,51.538705,-0.075666,Haggerston Rail Station,910GHAGGERS
+Hoxton,51.531512,-0.075681,Hoxton Rail Station,910GHOXTON
+Shoreditch High Street,51.523375,-0.075246,Shoreditch High Street Rail Station,910GSHRDHST
+Rotherhithe,51.500817,-0.052048,Rotherhithe Rail Station,910GRTHERHI
+Surrey Quays,51.493196,-0.047519,Surrey Quays Rail Station,910GSURREYQ
+Wapping,51.504388,-0.055931,Wapping Rail Station,910GWAPPING
+Bushey,51.645402,-0.384799,Bushey Rail Station,910GBUSHYDC
+Hatch End,51.609417,-0.368601,Hatch End Rail Station,910GHTCHEND
+Watford Junction,51.663529,-0.396517,Watford Junction Rail Station,910GWATFJDC
+Acton Central,51.508716,-0.262971,Acton Central Rail Station,910GACTNCTL
+Gospel Oak,51.555335,-0.15077,Gospel Oak Rail Station,910GGOSPLOK
+Hampstead Heath,51.55521,-0.165705,Hampstead Heath Rail Station,910GHMPSTDH
+Kilburn High Road,51.537277,-0.192237,Kilburn High Road Rail Station,910GKLBRNHR
+Headstone Lane,51.602649,-0.35722,Headstone Lane Rail Station,910GHEDSTNL
+Brondesbury Park,51.540734,-0.210054,Brondesbury Park Rail Station,910GBRBYPK
+Caledonian Road & Barnsbury,51.543041,-0.116729,Caledonian Road & Barnsbury Rail Station,910GCLDNNRB
+Canonbury,51.548732,-0.092191,Canonbury Rail Station,910GCNNB
+Carpenders Park,51.628351,-0.385939,Carpenders Park Rail Station,910GCRPNDPK
+Dalston Kingsland,51.548148,-0.075701,Dalston Kingsland Rail Station,910GDALSKLD
+Dalston Junction,51.546116,-0.075137,Dalston Junction Rail Station,910GDALS
+Kensal Rise,51.534554,-0.219957,Kensal Rise Rail Station,910GKENR
+South Hampstead,51.541432,-0.178878,South Hampstead Rail Station,910GSHMPSTD
+South Acton,51.499695,-0.270157,South Acton Rail Station,910GSACTON
+Watford High Street,51.652655,-0.391711,Watford High Street Rail Station,910GWATFDHS
+Marylebone LU,51.522322,-0.163207,Marylebone Underground Station,940GZZLUMYB
+Marylebone NR,51.521602,-0.163013,Marylebone,HUBMYB
+Acton Main Line,51.51718,-0.266756,Acton Main Line Rail Station,910GACTONML
+Maidenhead,51.518669,-0.72266,Maidenhead Rail Station,910GMDNHEAD
+Reading,51.458786,-0.971863,Reading Rail Station,910GRDNGSTN
+Taplow,51.523562,-0.68137,Taplow Rail Station,910GTAPLOW
+Twyford,51.475534,-0.863293,Twyford Rail Station,910GTWYFORD
+Iver,51.508503,-0.506726,Iver Rail Station,910GIVER
+Langley,51.508062,-0.541756,Langley (Berks) Rail Station,910GLANGLEY
+Slough,51.51188,-0.59151,Slough Rail Station,910GSLOUGH
+West Drayton,51.510055,-0.472234,West Drayton Rail Station,910GWDRYTON
+Burnham,51.523506,-0.646374,Burnham (Berks) Rail Station,910GBNHAM
+Hayes & Harlington,51.503096,-0.420683,Hayes & Harlington Rail Station,910GHAYESAH
+Southall,51.505957,-0.37861,Southall Rail Station,910GSTHALL
+West Ealing,51.513506,-0.320133,West Ealing Rail Station,910GWEALING
+Hanwell,51.511835,-0.338583,Hanwell Rail Station,910GHANWELL
+Lewisham DLR,51.464665,-0.012874,Lewisham DLR Station,940GZZDLLEW
+Lewisham NR,51.465081,-0.013016,Lewisham,HUBLEW
+Penge East,51.419334,-0.05422,Penge East Rail Station,910GPNGEE
+Penge West,51.417555,-0.06084,Penge West Rail Station,910GPENEW
+New Cross,51.476344,-0.032441,New Cross ELL Rail Station,910GNWCRELL
+New Cross Gate,51.475128,-0.040399,New Cross Gate Rail Station,910GNEWXGTE
+Crystal Palace,51.418109,-0.07261,Crystal Palace Rail Station,910GCRYSTLP
+Forest Hill,51.43928,-0.053157,Forest Hill Rail Station,910GFORESTH
+Wandsworth Road,51.470216,-0.13852,Wandsworth Road Rail Station,910GWNDSWRD
+Norwood Junction,51.397019,-0.075221,Norwood Junction Rail Station,910GNORWDJ
+Anerley,51.412153,-0.065886,Anerley Rail Station,910GANERLEY
+Brockley,51.464649,-0.037537,Brockley Rail Station,910GBROCKLY
+West Croydon NR,51.378786,-0.101939,West Croydon,HUBWCY
+Honor Oak Park,51.449989,-0.045505,Honor Oak Park Rail Station,910GHONROPK
+Denmark Hill,51.468203,-0.089361,Denmark Hill Rail Station,910GDENMRKH
+Peckham Rye,51.470034,-0.069414,Peckham Rye Rail Station,910GPCKHMRY
+Queens Road Peckham,51.473566,-0.057313,Queens Road Peckham Rail Station,910GPCKHMQD
+Sydenham,51.427248,-0.054244,Sydenham Rail Station,910GSYDENHM
+Clapham Junction,51.464187,-0.170221,Clapham Junction Rail Station,910GCLPHMJ1
+East Putney,51.459205,-0.211,East Putney Underground Station,940GZZLUEPY
+Putney,51.461303,-0.216475,Putney Rail Station,910GPUTNEY
+Cheshunt,51.702876,-0.02396,Cheshunt Rail Station,910GCHESHNT
+Brentwood,51.613605,0.299586,Brentwood Rail Station,910GBRTWOOD
+Chadwell Heath,51.568039,0.128958,Chadwell Heath Rail Station,910GCHDWLHT
+Gidea Park,51.581904,0.205964,Gidea Park Rail Station,910GGIDEAPK
+Goodmayes,51.565579,0.110807,Goodmayes Rail Station,910GGODMAYS
+Harold Wood,51.592766,0.233129,Harold Wood Rail Station,910GHRLDWOD
+Ilford,51.559118,0.06968,Ilford Rail Station,910GILFORD
+Romford,51.574829,0.183237,Romford Rail Station,910GROMFORD
+Shenfield,51.630877,0.329851,Shenfield Rail Station,910GSHENFLD
+Seven Kings,51.564026,0.0971,Seven Kings Rail Station,910GSVNKNGS
+Bush Hill Park,51.641519,-0.069221,Bush Hill Park Rail Station,910GBHILLPK
+Chingford,51.633087,0.009897,Chingford Rail Station,910GCHINGFD
+Highams Park,51.60835,-0.000222,Highams Park Rail Station,910GHGHMSPK
+Clapton,51.561644,-0.057025,Clapton Rail Station,910GCLAPTON
+Stoke Newington,51.565233,-0.072887,Stoke Newington Rail Station,910GSTKNWNG
+Edmonton Green,51.624929,-0.061112,Edmonton Green Rail Station,910GEDMNGRN
+Southbury,51.648705,-0.052437,Southbury Rail Station,910GSBURY
+Theobalds Grove,51.692457,-0.034831,Theobalds Grove Rail Station,910GTHBLDSG
+Turkey Street,51.672628,-0.047217,Turkey Street Rail Station,910GTURKYST
+Wood Street,51.58658,-0.002405,Wood Street Rail Station,910GWDST
+White Hart Lane,51.605037,-0.070914,White Hart Lane Rail Station,910GWHHRTLA
+Bruce Grove,51.593959,-0.069867,Bruce Grove Rail Station,910GBRUCGRV
+Enfield Town,51.652026,-0.079328,Enfield Town Rail Station,910GENFLDTN
+Bethnal Green LO,51.523917,-0.059568,Bethnal Green Rail Station,910GBTHNLGR
+Cambridge Heath,51.531973,-0.057279,Cambridge Heath (London) Rail Station,910GCAMHTH
+London Fields,51.541153,-0.057753,London Fields Rail Station,910GLONFLDS
+Rectory Road,51.558502,-0.068267,Rectory Road Rail Station,910GRCTRYRD
+Stamford Hill,51.574467,-0.076682,Stamford Hill Rail Station,910GSTMFDHL
+Maryland,51.546081,0.005815,Maryland Rail Station,910GMRYLAND
+Silver Street,51.614688,-0.06724,Silver Street Rail Station,910GSIVRST
+St James Street,51.580981,-0.032918,St James Street (London) Rail Station,910GSTJMSST
+Hackney Downs,51.548757,-0.060819,Hackney Downs Rail Station,910GHAKNYNM
+Hackney Central,51.547105,-0.056058,Hackney Central Rail Station,910GHACKNYC
+Hackney Wick,51.54341,-0.02492,Hackney Wick Rail Station,910GHACKNYW
+Homerton,51.547012,-0.04236,Homerton Rail Station,910GHOMRTON
+Harringay,51.577358,-0.105136,Harringay Rail Station,910GHRGY
+Harringay Green Lanes,51.577182,-0.098144,Harringay Green Lanes Rail Station,910GHRGYGL
+Leyton Midland Road,51.569725,-0.008051,Leyton Midland Road Rail Station,910GLEYTNMR
+Crouch Hill,51.571302,-0.117149,Crouch Hill Rail Station,910GCROUCHH
+Forest Gate,51.549432,0.024353,Forest Gate Rail Station,910GFRSTGT
+Wanstead Park,51.551693,0.026213,Wanstead Park Rail Station,910GWNSTDPK
+Manor Park,51.552477,0.046342,Manor Park Rail Station,910GMANRPK
+Woodgrange Park,51.549264,0.044423,Woodgrange Park Rail Station,910GWDGRNPK
+Emerson Park,51.568642,0.220113,Emerson Park Rail Station,910GEMRSPKH
+Imperial Wharf,51.474949,-0.182823,Imperial Wharf Rail Station,910GCSEAH
+Shepherd's Bush LU,51.504376,-0.218813,Shepherd's Bush (Central) Underground Station,940GZZLUSBC
+Shepherd's Bush NR,51.504791,-0.219213,Shepherd's Bush,HUBSPB
+Abbey Wood,51.491241,0.121374,Abbey Wood,910GABWDXR
+Canary Wharf EL,51.506203,-0.018834,Canary Wharf,910GCANWHRF
+Custom House DLR,51.509716,0.026699,Custom House (for ExCel) DLR Station,940GZZDLCUS
+Custom House EL,51.509436,0.027681,Custom House,910GCSTMHSXR
+Moorgate,51.518176,-0.088322,Moorgate Underground Station,940GZZLUMGT
+Liverpool Street LU,51.517372,-0.083182,Liverpool Street Underground Station,940GZZLULVT
+Liverpool Street NR,51.51794,-0.083162,Liverpool Street,HUBLST
+Paddington TfL,51.516581,-0.175689,Paddington Underground Station,940GZZLUPAC
+Paddington NR,51.516981,-0.17616,Paddington,HUBPAD
+Paddington HEX,51.516981,-0.17616,Paddington,HUBPAD
+Whitechapel,51.519469,-0.059757,Whitechapel Rail Station,910GWCHAPEL
+Woolwich Arsenal,51.490009,0.069127,Woolwich Arsenal DLR Station,940GZZDLWLA
+Woolwich EL,51.49119,0.07072,Woolwich,910GWOLWXR
+Heathrow Terminals 123 LU,51.471235,-0.452265,Heathrow Terminals 2 & 3 Underground Station,940GZZLUHRC
+Heathrow Terminal 4 LU,51.458524,-0.445771,Heathrow Terminal 4 Underground Station,940GZZLUHR4
+Heathrow Terminal 5 LU,51.470052,-0.49056,Heathrow Terminal 5 Underground Station,940GZZLUHR5
+Heathrow Terminal 5 EL,51.470053,-0.490589,Heathrow Terminal 5 Rail Station,910GHTRWTM5
+Heathrow Terminals 2 & 3 EL,51.471987,-0.454788,Heathrow Terminals 2 & 3 Rail Station,910GHTRWAPT
+Heathrow Terminal 4 EL,51.458268,-0.445463,Heathrow Terminal 4 Rail Station,910GHTRWTM4
+Tottenham Court Road,51.516426,-0.13041,Tottenham Court Road Underground Station,940GZZLUTCR
+Bond Street,51.514304,-0.149723,Bond Street Underground Station,940GZZLUBND
+Bank LU,51.513356,-0.088899,Bank Underground Station,940GZZLUBNK
+Monument,51.5107,-0.085969,Monument Underground Station,940GZZLUMMT
+Bank DLR,51.513233,-0.088515,Bank DLR Station,940GZZDLBNK
