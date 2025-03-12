@@ -1,5 +1,5 @@
 # Capstone
-This repository is used privately by the team and is mainly used to collaborate on project changes and data storage.
+The aim of this study is to construct a set of data-driven transport stop optimisation models to enhance the efficiency of public transport operations and improve the travel convenience of the accessible population. To this end, we synthesise key literature results on bus stop optimisation and accessible travel. Based on the incorporation of previous research, we combine techniques such as GIS spatial analysis, data mining and multi-criteria decision-making techniques to optimise the spatial layout of bus stops, thereby providing decision support for public transport planning in London and promoting the sustainable development of bus stops.
 
 ## dataset
 TFL-NUMBAT(5): The dataset represents the travel demand on a typical autumn Monday, Tuesday to Thursday, Friday, Saturday and Sunday at all stations and lines of the London Underground, London Overground, Docklands Light Railway and Elizabeth Line. Data covers every 15-minute period throughout the traffic day and assumes a full train service operated as scheduled. 
