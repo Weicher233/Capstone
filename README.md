@@ -28,7 +28,7 @@ The aim of this study is to construct a set of data-driven transport stop optimi
   - [latest_bus_stops.csv](./latest_bus_stops.csv): Raw full list of TfL bus stops
   - [processed_bus_stops.csv](./processed_bus_stops.csv): Cleaned and feature-enhanced version for further analysis
   
-**2. [footfall_preprocess.ipynb](./footfall_preprocess.jpynb) — Station Footfall Data Preprocessing & Visualization**
+**2. [footfall_preprocess.ipynb](./footfall_preprocess.ipynb) — Station Footfall Data Preprocessing & Visualization**
 - Includes:
   - Loads, cleans, and combines annual station footfall datasets (2019–2024), including entry and exit counts.
   - Converts dates to datetime format, handles missing/invalid values, and calculates total footfall per station per day.
