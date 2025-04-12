@@ -44,6 +44,7 @@ The aim of this study is to construct a set of data-driven transport stop optimi
   - Utilizes [StationFootfall_Total.csv](./StationFootfall_Total.csv) to simulate 10,000 random Origin-Destination (OD) pairs using weighted probabilities.
   - Excludes same-origin-destination pairs and identifies the most frequently simulated OD routes.
   - Plots visualizations such as bar charts, sunburst diagrams, and network graphs to present top OD pairs and route structures.
+    (_Note: Due to GitHub's notebook preview limitations, the interactive sunburst chart does not render directly. [A static screenshot](./top_routes_sunburst_plot.png) has been included for reference._)
 
 - Output datasets:
   - [SimulatedRoute_Frequency.csv](./SimulatedRoute_Frequency.csv): Frequency of simulated OD pairs for later modeling
