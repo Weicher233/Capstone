@@ -9,7 +9,7 @@ The aim of this study is to construct a set of data-driven transport stop optimi
 - Description: Historical station-level passenger flow data from the London Underground (TfL)
 
 **1.3.2 Station Location Data**  
-- Bus Stop Locations (via TfL API): https://api.tfl.gov.uk/StopPoint/Mode/bus?page={page}
+- Bus Stop Locations: via [TfL API](https://api.tfl.gov.uk/StopPoint/Mode/bus?page={page})
 - Tube Station Locations: https://foi.tfl.gov.uk/FOI-2209-2122/Station%20locations.csv  
 
 **1.3.3 Accessibility Data**  
