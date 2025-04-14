@@ -49,18 +49,18 @@ The aim of this study is to construct a set of data-driven transport stop optimi
 - Output datasets:
   - [SimulatedRoute_Frequency.csv](./SimulatedRoute_Frequency.csv): Frequency of simulated OD pairs for later modeling
  
-**4.  [Accessibility%20for%20TFL.ipynb](./Accessibility%20for%20TFL.ipynb) - TFL Tube Station Data Collection & Consolidation and processing of station data**
+**4.  [Accessibility for TFL.ipynb](./Accessibility%20for%20TFL.ipynb) - TFL Tube Station Data Collection & Consolidation and processing of station data**
 - Includes:
   - Comprehensive analysis of the accessibility of the London Underground and bus systems, focusing on the coverage of accessible (step-free) routes.
 	- The data of Tube stations and bus stops are merged, and the adjacent stations are labeled based on spatial distance (0.5 miles), which is used to assess the transportation connectivity.
 	- Data processing includes: capturing bus station and subway line data through the TfL API, integrating station geolocation, and cleaning and merging station names.
 	- Charting included:
 	- Figure 1: Histogram of the distribution of the number of neighboring stops - showing the distribution of the number of neighboring stops within 0.5 miles of each stop, with the majority of stops having 10-20 neighbors, reflecting the density of the transportation network in the London area;
-	- Figure 2: Spatial Heat Map with Average Number of Neighbours - a geographically based visualization of the density of traffic around a site, revealing areas of accessibility difference.
+	- Figure 2[london_with_heatmap.html](./data/london_with_heatmap.html): Spatial Heat Map with Average Number of Neighbours - a geographically based visualization of the density of traffic around a site, revealing areas of accessibility difference.
 
 
 - Output datasets:
-	- [stations_location.csv](./stations_location.csv): metro station location data
-	- [tfl_stations_location.csv](./tfl_stations_location.csv): Matching results of TfL stations with location data.
-	- [merged_stations.csv](./merged_stations.csv): Merged bus and subway station information.
-	- [stations_with_neighbors.csv](./stations_with_neighbors.csv): Data table with 0.5 mile neighboring station information added.
+	- [stations_location.csv](./data/stations_location.csv): metro station location data
+	- [tfl_stations_location.csv](./data/tfl_stations_location.csv): Matching results of TfL stations with location data.
+	- [merged_stations.csv](./data/merged_stations.csv): Merged bus and subway station information.
+	- [stations_with_neighbors.csv](./data/stations_with_neighbors.csv): Data table with 0.5 mile neighboring station information added.
