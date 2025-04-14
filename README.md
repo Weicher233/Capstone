@@ -49,7 +49,7 @@ The aim of this study is to construct a set of data-driven transport stop optimi
 - Output datasets:
   - [SimulatedRoute_Frequency.csv](./SimulatedRoute_Frequency.csv): Frequency of simulated OD pairs for later modeling
  
-**4. [Accessibility_for_TFL.ipynb](./Accessibility_for_TFL.ipynb)-TFL Tube Station Data Collection & Consolidation and processing of station data**
+**4. [Accessibility_for_TFL.ipynb](./Accessibility_for_TFL.ipynb) - TFL Tube Station Data Collection & Consolidation and processing of station data**
 - Includes:
   - Comprehensive analysis of the accessibility of the London Underground and bus systems, focusing on the coverage of accessible (step-free) routes.
 	- The data of Tube stations and bus stops are merged, and the adjacent stations are labeled based on spatial distance (0.5 miles), which is used to assess the transportation connectivity.
@@ -60,7 +60,7 @@ The aim of this study is to construct a set of data-driven transport stop optimi
 
 
 - Output datasets:
-	- [stations_location.csv](./data/stations_location.csv): metro station location data
-	- [tfl_stations_location.csv](./data/tfl_stations_location.csv): Matching results of TfL stations with location data.
-	- [merged_stations.csv](./data/merged_stations.csv): Merged bus and subway station information.
-	- [stations_with_neighbors.csv](./data/stations_with_neighbors.csv): Data table with 0.5 mile neighboring station information added.
+	- [stations_location.csv](./stations_location.csv): metro station location data
+	- [tfl_stations_location.csv](./tfl_stations_location.csv): Matching results of TfL stations with location data.
+	- [merged_stations.csv](./merged_stations.csv): Merged bus and subway station information.
+	- [stations_with_neighbors.csv](./stations_with_neighbors.csv): Data table with 0.5 mile neighboring station information added.
