@@ -56,11 +56,10 @@ The aim of this study is to construct a set of data-driven transport stop optimi
 	- Data processing includes: capturing bus station and subway line data through the TfL API, integrating station geolocation, and cleaning and merging station names.
 	- Charting included:
 	- Figure 1: Histogram of the distribution of the number of neighboring stops - showing the distribution of the number of neighboring stops within 0.5 miles of each stop, with the majority of stops having 10-20 neighbors, reflecting the density of the transportation network in the London area;
-	- Figure 2[london_with_heatmap.html](./data/london_with_heatmap.html): Spatial Heat Map with Average Number of Neighbours - a geographically based visualization of the density of traffic around a site, revealing areas of accessibility difference.
+	- Figure 2[（london_station_heatmap.html）](./data/london_station_heatmap.html): Spatial Heat Map with Average Number of Neighbours - a geographically based visualization of the density of traffic around a site, revealing areas of accessibility difference.
 
 
 - Output datasets:
-	- [stations_location.csv](./data/stations_location.csv): metro station location data
-	- [tfl_stations_location.csv](./data/tfl_stations_location.csv): Matching results of TfL stations with location data.
+	- [Station locations.csv](./data/Station%20locations.csv): metro station location data
 	- [merged_stations.csv](./data/merged_stations.csv): Merged bus and subway station information.
 	- [stations_with_neighbors.csv](./data/stations_with_neighbors.csv): Data table with 0.5 mile neighboring station information added.
