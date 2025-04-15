@@ -15,8 +15,10 @@ The aim of this study is to construct a set of data-driven transport stop optimi
 **3. Accessibility Data**  
 - Step-free Access Information: https://content.tfl.gov.uk/step-free-tube-guide-map.pdf  
 - Note: Additional data sources will be explored to supplement this guide and ensure comprehensive coverage of accessibility infrastructure.
-- After manually transferring the chart data into an Excel spreadsheet：
-  - 
+- After manually transferring the chart data into an Excel spreadsheet: [FINISH_station_facility.xlsx](./FINISH_station_facility.xlsx)
+
+
+
 ## Notebooks
 **1. [Bus_stop_latest.ipynb](./Bus_stop_latest.ipynb) — TfL Bus Stop Data Collection & Processing**
 - Includes: 
