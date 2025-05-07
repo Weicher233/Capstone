@@ -66,3 +66,8 @@ The aim of this study is to construct a set of data-driven transport stop optimi
 	- [Station locations.csv](./data/Station%20locations.csv): metro station location data
 	- [merged_stations.csv](./data/merged_stations.csv): Merged bus and subway station information.
 	- [stations_with_neighbors.csv](./data/stations_with_neighbors.csv): Data table with 0.5 mile neighboring station information added.
+        - [NBT23FRI_outputs.xlsx](./data/NBT23FRI_outputs.xlsx):
+        - [NBT23MON_outputs.xlsx](./data/NBT23MON_outputs.xlsx):
+        - [NBT23SAT_outputs.xlsx](./data/NBT23SAT_outputs.xlsx):
+        - [NBT23SUN_outputs.xlsx](./data/NBT23SUN_outputs.xlsx):
+        - [NBT23TWT_outputs.xlsx](./data/NBT23TWT_outputs.xlsx):
