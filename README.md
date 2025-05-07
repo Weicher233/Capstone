@@ -72,3 +72,7 @@ The aim of this study is to construct a set of data-driven transport stop optimi
    - [NBT23SAT_outputs.xlsx](./data/NBT23SAT_outputs.xlsx)
    - [NBT23SUN_outputs.xlsx](./data/NBT23SUN_outputs.xlsx)
    - [NBT23TWT_outputs.xlsx](./data/NBT23TWT_outputs.xlsx)
+
+**5. [Data_Exploration_maps.ipynb](./Data_Exploration_maps.ipynb) - High-occupancy Tube station and bus analysis, mapping
+- Includes:
+  -The notebook integrates information on Tube station patronage, station facilities and bus stop locations to identify key nodes in the London Underground network that have high patronage but lack accessible lifts. Firstly, the raw data was cleaned, fuzzy matched and merged to filter out ‘lift-free’ stations with the highest average daily traffic throughout the day; next, the straight-line distances from each Tube station to the nearest bus stops were calculated using georeferenced projection and ranging algorithms; and lastly, interactive maps were created with Folium to visualise these overlooked locations. Finally, Folium was used to create an interactive map to visualise these overlooked locations.  
