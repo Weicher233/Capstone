@@ -73,6 +73,14 @@ The aim of this study is to construct a set of data-driven transport stop optimi
    - [NBT23SUN_outputs.xlsx](./data/NBT23SUN_outputs.xlsx)
    - [NBT23TWT_outputs.xlsx](./data/NBT23TWT_outputs.xlsx)
 
-**5.  [Data_Exploration_maps.ipynb](./Data_Exploration_maps.ipynb) - High-occupancy Tube station and bus analysis, mapping**
-- Includes:
-  -The notebook integrates information on Tube station patronage, station facilities and bus stop locations to identify key nodes in the London Underground network that have high patronage but lack accessible lifts. Firstly, the raw data was cleaned, fuzzy matched and merged to filter out ‘lift-free’ stations with the highest average daily traffic throughout the day; next, the straight-line distances from each Tube station to the nearest bus stops were calculated using georeferenced projection and ranging algorithms; and lastly, interactive maps were created with Folium to visualise these overlooked locations. Finally, Folium was used to create an interactive map to visualise these overlooked locations.  
+**5.  [Data_Exploration_maps.ipynb](./Data_Exploration_maps.ipynb) - High-occupancy Tube station and bus analysis, mapping**  
+This notebook analyzes London Underground stations with high passenger traffic but lacking step-free (lift) access. It integrates data on [station footfall](./StationFootfall_Total.csv), [facilities](./FINISH_station_facility.xlsx), [locations](./data/Station%20locations.csv), and [bus stop locations](./processed_bus_stops.csv) to identify underserved areas.    
+- Includes:  
+  - Cleaning and merging raw datasets to isolate ‘lift-free’ stations with the highest total passenger counts
+  - Calculating straight-line distances to the nearest bus stops using geospatial methods
+  - Generating interactive Folium maps to visualize critical locations and highlight problem areas
+
+- Output plots:
+  - [no_stepfree_stations_map.html](./no_stepfree_stations_map.html): All high-traffic Tube stations without lift access
+  - [crisis_stations_map.html](./crisis_stations_map.html): Top 200 critical stations with no lift access and poor bus proximity (>200m)  
+    *(Note: The current crisis map is a preliminary version. It only considers the straight-line distance from Tube stations to the nearest bus stops and does not yet account for factors like bus directions, transfer options, or service availability. Future updates will incorporate these factors for a more comprehensive analysis.)*
