@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_e1ffdb44e42542164b90464ea23ffb16 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_e1ffdb44e42542164b90464ea23ffb16" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_e1ffdb44e42542164b90464ea23ffb16 = L.map(
+                "map_e1ffdb44e42542164b90464ea23ffb16",
+                {
+                    center: [51.5074, -0.1278],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 11,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_49b2144e98d9ac51873dfa586c00a46b = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_49b2144e98d9ac51873dfa586c00a46b.addTo(map_e1ffdb44e42542164b90464ea23ffb16);
+        
+    
+            var marker_18593c30f0efc2ed0e763bee168aa690 = L.marker(
+                [51.585689, 0.088585],
+                {
+}
+            ).addTo(map_e1ffdb44e42542164b90464ea23ffb16);
+        
+    
+            var icon_df67f207226b28c6eeac7707f8f4b5ab = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0e24a7cbd15bc09469e73d10ac93ee29 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e078b32d2d9ac91620216e9866d585c3 = $(`<div id="html_e078b32d2d9ac91620216e9866d585c3" style="width: 100.0%; height: 100.0%;">Station: Barking<br>Total Flow: 85328204<br>Nearest Bus Distance: 296.9 m</div>`)[0];
+                popup_0e24a7cbd15bc09469e73d10ac93ee29.setContent(html_e078b32d2d9ac91620216e9866d585c3);
+            
+        
+
+        marker_18593c30f0efc2ed0e763bee168aa690.bindPopup(popup_0e24a7cbd15bc09469e73d10ac93ee29)
+        ;
+
+        
+    
+    
+                marker_18593c30f0efc2ed0e763bee168aa690.setIcon(icon_df67f207226b28c6eeac7707f8f4b5ab);
+            
+    
+            var marker_19baac9b66b85c832645a7fcaa70307b = L.marker(
+                [51.513093, -0.124436],
+                {
+}
+            ).addTo(map_e1ffdb44e42542164b90464ea23ffb16);
+        
+    
+            var icon_1d63e62f357024ef3b05381f85ebfa27 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2a29812e9da05101e758fb00e520a57e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5674119c0d312789f186e4af3707665a = $(`<div id="html_5674119c0d312789f186e4af3707665a" style="width: 100.0%; height: 100.0%;">Station: Covent Garden<br>Total Flow: 66404564<br>Nearest Bus Distance: 303.7 m</div>`)[0];
+                popup_2a29812e9da05101e758fb00e520a57e.setContent(html_5674119c0d312789f186e4af3707665a);
+            
+        
+
+        marker_19baac9b66b85c832645a7fcaa70307b.bindPopup(popup_2a29812e9da05101e758fb00e520a57e)
+        ;
+
+        
+    
+    
+                marker_19baac9b66b85c832645a7fcaa70307b.setIcon(icon_1d63e62f357024ef3b05381f85ebfa27);
+            
+    
+            var marker_c4ce19ee677d2535611e854247b53360 = L.marker(
+                [51.490311, -0.213427],
+                {
+}
+            ).addTo(map_e1ffdb44e42542164b90464ea23ffb16);
+        
+    
+            var icon_c1dd5d60ccf831256e4aed0c0c81043f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_955c140420b6cea6bd1d478c7b6d6ad3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_01970abe77781e5c9a1e5284c5430081 = $(`<div id="html_01970abe77781e5c9a1e5284c5430081" style="width: 100.0%; height: 100.0%;">Station: Barons Court<br>Total Flow: 27227345<br>Nearest Bus Distance: 396.7 m</div>`)[0];
+                popup_955c140420b6cea6bd1d478c7b6d6ad3.setContent(html_01970abe77781e5c9a1e5284c5430081);
+            
+        
+
+        marker_c4ce19ee677d2535611e854247b53360.bindPopup(popup_955c140420b6cea6bd1d478c7b6d6ad3)
+        ;
+
+        
+    
+    
+                marker_c4ce19ee677d2535611e854247b53360.setIcon(icon_c1dd5d60ccf831256e4aed0c0c81043f);
+            
+    
+            var marker_6f1f0eb791364194cf551046c7f1ac52 = L.marker(
+                [51.69368, 0.113767],
+                {
+}
+            ).addTo(map_e1ffdb44e42542164b90464ea23ffb16);
+        
+    
+            var icon_96d41657736ce189009de8e91e82601c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_162c3f8113696bc241ccb0181156c1a8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dde8f58e652447e1b420efb93c5c93aa = $(`<div id="html_dde8f58e652447e1b420efb93c5c93aa" style="width: 100.0%; height: 100.0%;">Station: Epping<br>Total Flow: 15589729<br>Nearest Bus Distance: 4143.9 m</div>`)[0];
+                popup_162c3f8113696bc241ccb0181156c1a8.setContent(html_dde8f58e652447e1b420efb93c5c93aa);
+            
+        
+
+        marker_6f1f0eb791364194cf551046c7f1ac52.bindPopup(popup_162c3f8113696bc241ccb0181156c1a8)
+        ;
+
+        
+    
+    
+                marker_6f1f0eb791364194cf551046c7f1ac52.setIcon(icon_96d41657736ce189009de8e91e82601c);
+            
+    
+            var marker_4b264862f5135ba4ceab2effdf2c5f63 = L.marker(
+                [51.702876, -0.02396],
+                {
+}
+            ).addTo(map_e1ffdb44e42542164b90464ea23ffb16);
+        
+    
+            var icon_bd51f485a6bccebdca9f50727ee6bee4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8e7d3340c7eded7603ccd66d9925dd58 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_54f3830e8e66deb2e41d49ba7b0ec536 = $(`<div id="html_54f3830e8e66deb2e41d49ba7b0ec536" style="width: 100.0%; height: 100.0%;">Station: Cheshunt<br>Total Flow: 8467080<br>Nearest Bus Distance: 1974.6 m</div>`)[0];
+                popup_8e7d3340c7eded7603ccd66d9925dd58.setContent(html_54f3830e8e66deb2e41d49ba7b0ec536);
+            
+        
+
+        marker_4b264862f5135ba4ceab2effdf2c5f63.bindPopup(popup_8e7d3340c7eded7603ccd66d9925dd58)
+        ;
+
+        
+    
+    
+                marker_4b264862f5135ba4ceab2effdf2c5f63.setIcon(icon_bd51f485a6bccebdca9f50727ee6bee4);
+            
+    
+            var marker_deac2940dd80f6b9754e7e71717aba9c = L.marker(
+                [51.47339, -0.45176],
+                {
+}
+            ).addTo(map_e1ffdb44e42542164b90464ea23ffb16);
+        
+    
+            var icon_a6e607e207e59b36bcd7fea1179a6d8e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_4f93377547049aff47a611a281319e40 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ad3d660d65f995847ae490d1893d9414 = $(`<div id="html_ad3d660d65f995847ae490d1893d9414" style="width: 100.0%; height: 100.0%;">Station: Heathrow T5 Tfl Rail/Hex<br>Total Flow: 8305813<br>Nearest Bus Distance: 213.8 m</div>`)[0];
+                popup_4f93377547049aff47a611a281319e40.setContent(html_ad3d660d65f995847ae490d1893d9414);
+            
+        
+
+        marker_deac2940dd80f6b9754e7e71717aba9c.bindPopup(popup_4f93377547049aff47a611a281319e40)
+        ;
+
+        
+    
+    
+                marker_deac2940dd80f6b9754e7e71717aba9c.setIcon(icon_a6e607e207e59b36bcd7fea1179a6d8e);
+            
+    
+            var marker_846c67475ed0e71a79f16a1f42adcaae = L.marker(
+                [51.508716, -0.262971],
+                {
+}
+            ).addTo(map_e1ffdb44e42542164b90464ea23ffb16);
+        
+    
+            var icon_db0e11aad0987b93768f66832b1b9dd8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "exclamation-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_bab925458e7d66045b10b876b2a12167 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_51343d1365b45f58db5cc6b1fd247076 = $(`<div id="html_51343d1365b45f58db5cc6b1fd247076" style="width: 100.0%; height: 100.0%;">Station: Acton Central<br>Total Flow: 8175569<br>Nearest Bus Distance: 241.1 m</div>`)[0];
+                popup_bab925458e7d66045b10b876b2a12167.setContent(html_51343d1365b45f58db5cc6b1fd247076);
+            
+        
+
+        marker_846c67475ed0e71a79f16a1f42adcaae.bindPopup(popup_bab925458e7d66045b10b876b2a12167)
+        ;
+
+        
+    
+    
+                marker_846c67475ed0e71a79f16a1f42adcaae.setIcon(icon_db0e11aad0987b93768f66832b1b9dd8);
+            
+    
+            tile_layer_49b2144e98d9ac51873dfa586c00a46b.addTo(map_e1ffdb44e42542164b90464ea23ffb16);
+        
+    
+                marker_18593c30f0efc2ed0e763bee168aa690.setIcon(icon_df67f207226b28c6eeac7707f8f4b5ab);
+            
+    
+                marker_19baac9b66b85c832645a7fcaa70307b.setIcon(icon_1d63e62f357024ef3b05381f85ebfa27);
+            
+    
+                marker_c4ce19ee677d2535611e854247b53360.setIcon(icon_c1dd5d60ccf831256e4aed0c0c81043f);
+            
+    
+                marker_6f1f0eb791364194cf551046c7f1ac52.setIcon(icon_96d41657736ce189009de8e91e82601c);
+            
+    
+                marker_4b264862f5135ba4ceab2effdf2c5f63.setIcon(icon_bd51f485a6bccebdca9f50727ee6bee4);
+            
+    
+                marker_deac2940dd80f6b9754e7e71717aba9c.setIcon(icon_a6e607e207e59b36bcd7fea1179a6d8e);
+            
+    
+                marker_846c67475ed0e71a79f16a1f42adcaae.setIcon(icon_db0e11aad0987b93768f66832b1b9dd8);
+            
+</script>
+</html>
