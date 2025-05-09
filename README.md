@@ -82,5 +82,5 @@ This notebook analyzes London Underground stations with high passenger traffic b
 
 - Output plots:
   - [no_stepfree_stations_map.html](./no_stepfree_stations_map.html): All high-traffic Tube stations without lift access
-  - [crisis_stations_map.html](./crisis_stations_map.html): Top 200 critical stations with no lift access and poor bus proximity (>200m)  
+  - [crisis_stations_map.html](./crisis_stations_map.html): Top critical stations with no lift access and poor bus proximity (>200m)  
     *(Note: The current crisis map is a preliminary version. It only considers the straight-line distance from Tube stations to the nearest bus stops and does not yet account for factors like bus directions, transfer options, or service availability. Future updates will incorporate these factors for a more comprehensive analysis.)*
