@@ -1,0 +1,135 @@
+route_station,status,lat,lng,source
+Cutty Sark,matched,51.481675,-0.010802,bus_data
+Shenfield,unmatched,,,
+Shepherd's Bush LU,matched,51.504791,-0.219213,geocoding
+Hendon Central,unmatched,,,
+Oxford Circus,unmatched,,,
+Baker Street,matched,51.66343,-0.07834,bus_data
+Clapham Junction,matched,51.463724,-0.168997,bus_data
+Forest Gate,matched,51.61547,0.00766,geocoding
+Slough,unmatched,,,
+Bounds Green,matched,51.51903,-0.44403,geocoding
+Clapham North,unmatched,,,
+Canning Town,matched,51.514029,0.008025,bus_data
+Dagenham Heathway,matched,51.54222,0.14773,geocoding
+Cockfosters,matched,51.64535,-0.14483,geocoding
+Perivale,matched,51.64311,-0.1307,geocoding
+Colliers Wood,unmatched,,,
+North Acton,matched,51.53218,-0.26003,geocoding
+Tottenham Court Road,matched,51.51602,-0.12874,bus_data
+Seven Kings,matched,51.56118,0.10001,geocoding
+Euston LU,matched,51.527365,-0.132754,geocoding
+Goodmayes,unmatched,,,
+Brixton LU,matched,51.462961,-0.114531,geocoding
+Southgate,unmatched,,,
+Barking,matched,51.539413,0.080988,bus_data
+Romford,unmatched,,,
+Golders Green,matched,51.51903,-0.44403,geocoding
+Battersea Power Station,matched,51.48066,-0.14063,bus_data
+East Finchley,unmatched,,,
+Manor Park,matched,51.45872,-0.00162,bus_data
+Woodford,unmatched,,,
+Willesden Junction,matched,51.532556,-0.243006,bus_data
+Archway,unmatched,,,
+Finchley Central,matched,51.60227,-0.19393,bus_data
+Gants Hill,unmatched,,,
+Hammersmith (H&C),unmatched,,,
+West Drayton,matched,51.52688,-0.43973,geocoding
+Headstone Lane,matched,51.6039,-0.35668,bus_data
+Canary Wharf EL,matched,51.503734,-0.019121,geocoding
+Elephant & Castle LU,matched,51.494505,-0.099185,geocoding
+Chadwell Heath,matched,51.58131,0.11665,geocoding
+Bank and Monument,unmatched,,,
+Enfield Town,unmatched,,,
+West Brompton,matched,51.487168,-0.195593,bus_data
+Waterloo LU,matched,51.504269,-0.113356,geocoding
+Epping,unmatched,,,
+Heron Quays,matched,51.503,-0.02515,bus_data
+Hampstead,matched,51.56826,-0.18402,geocoding
+Wimbledon Park,unmatched,,,
+Ladbroke Grove,matched,51.47403,0.02025,geocoding
+Queens Road Peckham,matched,51.47382,-0.05739,geocoding
+Finsbury Park LU,matched,51.564778,-0.105876,geocoding
+High Barnet,matched,51.51914,-0.34712,geocoding
+Oakwood,unmatched,,,
+Notting Hill Gate,matched,51.5096,-0.19299,geocoding
+Wood Green,matched,51.38772,-0.06858,geocoding
+Belsize Park,unmatched,,,
+Elm Park,unmatched,,,
+Chalk Farm,unmatched,,,
+Canary Wharf DLR,matched,51.503734,-0.019121,geocoding
+Clapham Common,unmatched,,,
+Kentish Town,matched,51.550409,-0.140545,bus_data
+Turnpike Lane,matched,51.47713,-0.3284,geocoding
+Watford Junction,matched,51.663908,-0.395928,bus_data
+King's Cross St. Pancras,unmatched,,,
+Liverpool Street LU,matched,51.51794,-0.083162,geocoding
+Southwark,matched,51.58103,-0.18766,geocoding
+Heathrow Terminals 123 LU,matched,51.47276,-0.45676,geocoding
+Victoria LU,matched,51.49647,-0.14598,geocoding
+Custom House EL,matched,51.51006,0.02524,geocoding
+Manor House,unmatched,,,
+Morden,unmatched,,,
+West Ealing,unmatched,,,
+Prince Regent,matched,51.50957,0.0342,bus_data
+Lewisham DLR,matched,51.47282,-0.01418,geocoding
+Edgware Road (Bak),matched,51.59321,-0.25777,geocoding
+Wood Lane,matched,51.54387,0.20249,bus_data
+Stratford,matched,51.541508,-0.00241,bus_data
+Borough,unmatched,,,
+Ealing Broadway,matched,51.514993,-0.302131,bus_data
+Ilford,unmatched,,,
+Woodside Park,unmatched,,,
+Uxbridge,unmatched,,,
+Beckton,unmatched,,,
+Putney Bridge,matched,51.46804,-0.21184,bus_data
+Woolwich Arsenal,matched,51.489962,0.06917,bus_data
+Reading,unmatched,,,
+Barkingside,unmatched,,,
+Tooting Broadway,matched,51.42856,-0.16743,geocoding
+Grange Hill,matched,51.59779,-0.19827,geocoding
+Parsons Green,matched,51.47287,-0.19925,bus_data
+Iver,unmatched,,,
+Westminster,matched,51.501603,-0.125984,bus_data
+Wembley Park,unmatched,,,
+London Bridge LU,matched,51.50966,-0.08757,geocoding
+North Greenwich,matched,51.500474,0.004295,bus_data
+Brentwood,unmatched,,,
+Fulham Broadway,matched,51.48023,-0.19812,bus_data
+Island Gardens,matched,51.46178,-0.39179,geocoding
+Balham LU,matched,51.443259,-0.152707,geocoding
+Euston NR,matched,51.5252,-0.14411,geocoding
+Wimbledon,matched,51.421505,-0.206444,bus_data
+St. Paul's,unmatched,,,
+Burnt Oak,unmatched,,,
+Seven Sisters,matched,51.582931,-0.073306,bus_data
+East Ham,unmatched,,,
+Stockwell,unmatched,,,
+Leicester Square,matched,51.51159,-0.12833,geocoding
+Paddington TfL,matched,51.516981,-0.17616,geocoding
+Bruce Grove,matched,51.50946,-0.28539,geocoding
+Tooting Bec,matched,51.43074,-0.14077,geocoding
+Heathrow Terminals 2 & 3 EL,matched,51.471618,-0.454037,geocoding
+Eastcote,unmatched,,,
+Leytonstone,unmatched,,,
+Harold Wood,unmatched,,,
+Southfields,matched,51.59555,-0.23382,bus_data
+Richmond,matched,51.463152,-0.301448,bus_data
+Abbey Wood,matched,51.491247,0.121057,bus_data
+Vauxhall LU,matched,51.485739,-0.123303,geocoding
+Tufnell Park,matched,51.55914,-0.12166,geocoding
+West Finchley,unmatched,,,
+Maidenhead,unmatched,,,
+Canada Water,matched,51.498053,-0.049667,bus_data
+Maryland,unmatched,,,
+Woolwich EL,matched,51.49186,0.07041,geocoding
+Edgware,unmatched,,,
+Green Park,matched,51.58497,-0.26906,geocoding
+Colindale,unmatched,,,
+Rayners Lane,matched,51.58948,-0.3774,bus_data
+Euston Square,matched,51.49486,-0.15267,geocoding
+Upminster,matched,51.558659,0.250855,bus_data
+Gidea Park,unmatched,,,
+Osterley,unmatched,,,
+Southall,unmatched,,,
+Maida Vale,matched,51.52787,-0.18086,bus_data

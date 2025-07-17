@@ -1,0 +1,120 @@
+Start_Station,End_Station,Frequency,collection_time,start_matched,end_matched,regular_total_time_min,regular_walking_time_min,regular_transfers,regular_distance_km,accessibility_total_time_min,accessibility_walking_time_min,accessibility_transfers,accessibility_distance_km,error
+Wimbledon,Parsons Green,316,2025-07-17 14:32:46,True,True,21.466666666666665,9.466666666666667,0.0,7.176,21.466666666666665,9.466666666666667,0.0,7.176,
+Euston NR,Willesden Junction,94,2025-07-17 14:32:47,True,True,27.65,13.583333333333334,0.0,9.692,27.65,13.583333333333334,0.0,9.692,
+Morden,Balham LU,94,2025-07-17 14:32:49,False,True,,,,,,,,,station_not_matched
+Tooting Broadway,Clapham North,91,2025-07-17 14:32:49,True,False,,,,,,,,,station_not_matched
+Barking,Elm Park,82,2025-07-17 14:32:49,True,False,,,,,,,,,station_not_matched
+Romford,Manor Park,80,2025-07-17 14:32:49,False,True,,,,,,,,,station_not_matched
+Hammersmith (H&C),Ladbroke Grove,65,2025-07-17 14:32:49,False,True,,,,,,,,,station_not_matched
+Uxbridge,Eastcote,65,2025-07-17 14:32:49,False,False,,,,,,,,,station_not_matched
+Stratford,Seven Kings,60,2025-07-17 14:32:49,True,True,22.516666666666666,9.133333333333333,0.0,8.081,22.516666666666666,9.133333333333333,0.0,8.081,
+Tooting Broadway,Morden,58,2025-07-17 14:32:50,True,False,,,,,,,,,station_not_matched
+Victoria LU,Clapham Common,58,2025-07-17 14:32:50,True,False,,,,,,,,,station_not_matched
+Euston NR,Maida Vale,58,2025-07-17 14:32:50,True,True,26.083333333333332,16.05,0.0,4.888,26.083333333333332,16.05,0.0,4.888,
+London Bridge LU,Canning Town,56,2025-07-17 14:32:51,True,True,21.1,10.083333333333334,0.0,9.285,21.1,10.083333333333334,0.0,9.285,
+Lewisham DLR,Island Gardens,55,2025-07-17 14:32:52,True,True,105.86666666666666,16.9,2.0,35.265,105.86666666666666,16.9,2.0,35.265,
+Paddington TfL,Southall,54,2025-07-17 14:32:54,True,False,,,,,,,,,station_not_matched
+Colindale,Belsize Park,50,2025-07-17 14:32:54,False,False,,,,,,,,,station_not_matched
+Balham LU,Morden,48,2025-07-17 14:32:54,True,False,,,,,,,,,station_not_matched
+Cutty Sark,Heron Quays,46,2025-07-17 14:32:54,True,True,24.866666666666667,12.833333333333334,0.0,4.366,24.866666666666667,12.833333333333334,0.0,4.366,
+Clapham Junction,Putney Bridge,46,2025-07-17 14:32:55,True,True,21.783333333333335,16.783333333333335,0.0,4.476,21.783333333333335,16.783333333333335,0.0,4.476,
+Custom House EL,Abbey Wood,43,2025-07-17 14:32:57,True,True,15.416666666666666,5.333333333333333,0.0,7.658,15.416666666666666,5.333333333333333,0.0,7.658,
+Fulham Broadway,Wimbledon Park,43,2025-07-17 14:32:58,True,False,,,,,,,,,station_not_matched
+Colliers Wood,Clapham Common,42,2025-07-17 14:32:58,False,False,,,,,,,,,station_not_matched
+Clapham Common,Colliers Wood,42,2025-07-17 14:32:58,False,False,,,,,,,,,station_not_matched
+Shepherd's Bush LU,Perivale,41,2025-07-17 14:32:58,True,True,69.13333333333334,15.7,1.0,24.473,69.13333333333334,15.7,1.0,24.473,
+London Bridge LU,Stockwell,40,2025-07-17 14:32:59,True,False,,,,,,,,,station_not_matched
+Ealing Broadway,Heathrow Terminals 2 & 3 EL,40,2025-07-17 14:32:59,True,True,20.333333333333332,5.316666666666666,0.0,14.661,20.333333333333332,5.316666666666666,0.0,14.661,
+Stratford,Woodford,38,2025-07-17 14:33:01,True,False,,,,,,,,,station_not_matched
+Romford,Shenfield,38,2025-07-17 14:33:01,False,False,,,,,,,,,station_not_matched
+King's Cross St. Pancras,Oxford Circus,38,2025-07-17 14:33:01,False,False,,,,,,,,,station_not_matched
+Reading,Slough,38,2025-07-17 14:33:01,False,False,,,,,,,,,station_not_matched
+Ilford,Gidea Park,37,2025-07-17 14:33:01,False,False,,,,,,,,,station_not_matched
+Upminster,Dagenham Heathway,37,2025-07-17 14:33:01,True,True,15.183333333333334,4.95,0.0,7.882,15.183333333333334,4.95,0.0,7.882,
+Turnpike Lane,Oakwood,37,2025-07-17 14:33:02,True,False,,,,,,,,,station_not_matched
+Brixton LU,Balham LU,37,2025-07-17 14:33:02,True,True,28.45,1.9666666666666666,0.0,5.677,28.45,1.9666666666666666,0.0,5.677,
+Clapham Junction,Queens Road Peckham,36,2025-07-17 14:33:03,True,True,23.45,6.433333333333334,0.0,9.546,23.45,6.433333333333334,0.0,9.546,
+Notting Hill Gate,North Acton,36,2025-07-17 14:33:05,True,True,37.1,26.116666666666667,0.0,7.51,37.11666666666667,26.116666666666667,0.0,7.51,
+Vauxhall LU,Balham LU,36,2025-07-17 14:33:06,True,True,17.516666666666666,4.433333333333334,1.0,5.775,17.516666666666666,4.433333333333334,1.0,5.775,
+Canary Wharf DLR,Island Gardens,36,2025-07-17 14:33:07,True,True,80.4,15.55,2.0,30.986,84.1,30.05,1.0,31.694,
+Waterloo LU,Battersea Power Station,36,2025-07-17 14:33:09,True,True,16.6,9.066666666666666,0.0,5.208,16.6,9.066666666666666,0.0,5.208,
+Maidenhead,Iver,36,2025-07-17 14:33:10,False,False,,,,,,,,,station_not_matched
+Epping,Woodford,35,2025-07-17 14:33:10,False,False,,,,,,,,,station_not_matched
+Woolwich Arsenal,Canning Town,35,2025-07-17 14:33:10,True,True,22.783333333333335,9.733333333333333,0.0,7.373,22.783333333333335,9.733333333333333,0.0,7.373,
+Brixton LU,Borough,35,2025-07-17 14:33:11,True,False,,,,,,,,,station_not_matched
+High Barnet,East Finchley,34,2025-07-17 14:33:11,True,False,,,,,,,,,station_not_matched
+Southfields,West Brompton,34,2025-07-17 14:33:11,True,True,72.96666666666667,8.683333333333334,1.0,18.126,72.96666666666667,8.683333333333334,1.0,18.126,
+Parsons Green,Wimbledon,34,2025-07-17 14:33:12,True,True,19.55,9.516666666666667,0.0,7.171,19.55,9.516666666666667,0.0,7.171,
+Tottenham Court Road,King's Cross St. Pancras,34,2025-07-17 14:33:14,True,False,,,,,,,,,station_not_matched
+Ealing Broadway,West Drayton,34,2025-07-17 14:33:14,True,True,39.03333333333333,2.716666666666667,1.0,12.291,39.03333333333333,2.716666666666667,1.0,12.291,
+Wood Green,Cockfosters,33,2025-07-17 14:33:15,True,True,102.73333333333333,17.166666666666668,2.0,41.923,102.73333333333333,17.166666666666668,2.0,41.923,
+King's Cross St. Pancras,Euston Square,33,2025-07-17 14:33:16,False,True,,,,,,,,,station_not_matched
+Stratford,Gants Hill,33,2025-07-17 14:33:16,True,False,,,,,,,,,station_not_matched
+Richmond,Willesden Junction,33,2025-07-17 14:33:16,True,True,24.033333333333335,6.183333333333334,0.0,9.577,24.033333333333335,6.183333333333334,0.0,9.577,
+Hendon Central,Chalk Farm,33,2025-07-17 14:33:18,False,False,,,,,,,,,station_not_matched
+Manor House,Southgate,33,2025-07-17 14:33:18,False,False,,,,,,,,,station_not_matched
+Putney Bridge,Wimbledon,32,2025-07-17 14:33:18,True,True,15.583333333333334,8.55,0.0,6.079,15.583333333333334,8.55,0.0,6.079,
+Canary Wharf EL,Abbey Wood,32,2025-07-17 14:33:19,True,True,22.2,8.2,0.0,11.116,22.2,8.2,0.0,11.116,
+Archway,Euston LU,32,2025-07-17 14:33:20,False,True,,,,,,,,,station_not_matched
+Finchley Central,Kentish Town,32,2025-07-17 14:33:20,True,True,13.566666666666666,4.566666666666666,0.0,7.75,13.566666666666666,4.566666666666666,0.0,7.75,
+King's Cross St. Pancras,Bank and Monument,32,2025-07-17 14:33:22,False,False,,,,,,,,,station_not_matched
+Edgware,Golders Green,32,2025-07-17 14:33:22,False,True,,,,,,,,,station_not_matched
+King's Cross St. Pancras,Baker Street,31,2025-07-17 14:33:22,False,True,,,,,,,,,station_not_matched
+Leicester Square,Green Park,31,2025-07-17 14:33:22,True,True,56.11666666666667,8.616666666666667,1.0,17.974,56.11666666666667,8.616666666666667,1.0,17.974,
+Bounds Green,Cockfosters,31,2025-07-17 14:33:23,True,True,133.93333333333334,16.633333333333333,1.0,53.542,133.93333333333334,16.633333333333333,1.0,53.542,
+Southfields,Wimbledon,31,2025-07-17 14:33:24,True,True,72.06666666666666,15.0,2.0,26.983,78.25,29.7,1.0,28.696,
+Harold Wood,Seven Kings,31,2025-07-17 14:33:25,False,True,,,,,,,,,station_not_matched
+Oxford Circus,King's Cross St. Pancras,30,2025-07-17 14:33:25,False,False,,,,,,,,,station_not_matched
+Colliers Wood,Morden,30,2025-07-17 14:33:25,False,False,,,,,,,,,station_not_matched
+Gants Hill,Stratford,30,2025-07-17 14:33:25,False,True,,,,,,,,,station_not_matched
+Victoria LU,Stockwell,30,2025-07-17 14:33:25,True,False,,,,,,,,,station_not_matched
+Elephant & Castle LU,Clapham Common,30,2025-07-17 14:33:25,True,False,,,,,,,,,station_not_matched
+Heathrow Terminals 123 LU,Osterley,30,2025-07-17 14:33:25,True,False,,,,,,,,,station_not_matched
+King's Cross St. Pancras,Tottenham Court Road,30,2025-07-17 14:33:25,False,True,,,,,,,,,station_not_matched
+Tottenham Court Road,St. Paul's,30,2025-07-17 14:33:25,True,False,,,,,,,,,station_not_matched
+Paddington TfL,Baker Street,29,2025-07-17 14:33:25,True,True,77.11666666666666,8.333333333333334,2.0,26.284,81.71666666666667,22.283333333333335,1.0,26.267,
+London Bridge LU,Southwark,29,2025-07-17 14:33:27,True,True,45.583333333333336,10.2,1.0,16.08,45.583333333333336,10.2,1.0,16.08,
+London Bridge LU,Westminster,29,2025-07-17 14:33:28,True,True,15.85,7.266666666666667,0.0,3.866,15.85,7.266666666666667,0.0,3.866,
+Liverpool Street LU,Canada Water,29,2025-07-17 14:33:29,True,True,38.45,7.4,0.0,5.182,38.45,7.4,0.0,5.182,
+Bank and Monument,King's Cross St. Pancras,29,2025-07-17 14:33:31,False,False,,,,,,,,,station_not_matched
+North Greenwich,Stratford,29,2025-07-17 14:33:31,True,True,15.716666666666667,6.716666666666667,0.0,5.254,15.716666666666667,6.716666666666667,0.0,5.254,
+Tottenham Court Road,Green Park,29,2025-07-17 14:33:32,True,True,57.0,10.75,1.0,17.541,57.0,10.75,1.0,17.541,
+Paddington TfL,Edgware Road (Bak),28,2025-07-17 14:33:33,True,True,53.46666666666667,18.6,1.0,17.658,53.46666666666667,18.6,1.0,17.658,
+Paddington TfL,Oxford Circus,28,2025-07-17 14:33:35,True,False,,,,,,,,,station_not_matched
+Ealing Broadway,West Ealing,28,2025-07-17 14:33:35,True,False,,,,,,,,,station_not_matched
+Goodmayes,Maryland,28,2025-07-17 14:33:35,False,False,,,,,,,,,station_not_matched
+Victoria LU,Tottenham Court Road,28,2025-07-17 14:33:35,True,True,27.833333333333332,6.716666666666667,0.0,3.467,27.833333333333332,6.716666666666667,0.0,3.467,
+Wood Lane,Hammersmith (H&C),28,2025-07-17 14:33:36,True,False,,,,,,,,,station_not_matched
+East Finchley,High Barnet,28,2025-07-17 14:33:36,False,True,,,,,,,,,station_not_matched
+Tooting Bec,Morden,28,2025-07-17 14:33:36,True,False,,,,,,,,,station_not_matched
+Brentwood,Goodmayes,28,2025-07-17 14:33:36,False,False,,,,,,,,,station_not_matched
+King's Cross St. Pancras,Finsbury Park LU,28,2025-07-17 14:33:36,False,True,,,,,,,,,station_not_matched
+Burnt Oak,Hampstead,28,2025-07-17 14:33:36,False,True,,,,,,,,,station_not_matched
+Ladbroke Grove,Hammersmith (H&C),28,2025-07-17 14:33:36,True,False,,,,,,,,,station_not_matched
+Golders Green,Edgware,27,2025-07-17 14:33:36,True,False,,,,,,,,,station_not_matched
+Victoria LU,Green Park,27,2025-07-17 14:33:36,True,True,52.083333333333336,19.166666666666668,1.0,19.068,52.083333333333336,19.166666666666668,1.0,19.068,
+Waterloo LU,Bank and Monument,27,2025-07-17 14:33:37,True,False,,,,,,,,,station_not_matched
+Woolwich EL,Abbey Wood,27,2025-07-17 14:33:37,True,True,7.7,2.7,0.0,3.636,7.7,2.7,0.0,3.636,
+Waterloo LU,Green Park,27,2025-07-17 14:33:38,True,True,48.45,16.433333333333334,0.0,19.846,48.45,16.433333333333334,0.0,19.846,
+Forest Gate,Chadwell Heath,27,2025-07-17 14:33:40,True,True,61.85,8.183333333333334,2.0,12.288,61.85,8.183333333333334,2.0,12.288,
+Enfield Town,Bruce Grove,27,2025-07-17 14:33:41,False,True,,,,,,,,,station_not_matched
+Cutty Sark,Lewisham DLR,27,2025-07-17 14:33:41,True,True,8.833333333333334,5.1,0.0,1.288,8.833333333333334,5.1,0.0,1.288,
+Maidenhead,Reading,27,2025-07-17 14:33:42,False,False,,,,,,,,,station_not_matched
+Gants Hill,Grange Hill,27,2025-07-17 14:33:42,False,True,,,,,,,,,station_not_matched
+Chalk Farm,Hendon Central,27,2025-07-17 14:33:42,False,False,,,,,,,,,station_not_matched
+East Ham,North Greenwich,27,2025-07-17 14:33:42,False,True,,,,,,,,,station_not_matched
+Paddington TfL,Wood Lane,27,2025-07-17 14:33:42,True,True,67.75,21.266666666666666,1.0,29.116,67.75,21.266666666666666,1.0,29.116,
+Tufnell Park,West Finchley,27,2025-07-17 14:33:43,True,False,,,,,,,,,station_not_matched
+Archway,Woodside Park,27,2025-07-17 14:33:43,False,False,,,,,,,,,station_not_matched
+Goodmayes,Brentwood,26,2025-07-17 14:33:43,False,False,,,,,,,,,station_not_matched
+Wembley Park,Rayners Lane,26,2025-07-17 14:33:43,False,True,,,,,,,,,station_not_matched
+King's Cross St. Pancras,Seven Sisters,26,2025-07-17 14:33:43,False,True,,,,,,,,,station_not_matched
+Slough,Reading,26,2025-07-17 14:33:43,False,False,,,,,,,,,station_not_matched
+Chadwell Heath,Shenfield,25,2025-07-17 14:33:43,True,False,,,,,,,,,station_not_matched
+Watford Junction,Headstone Lane,25,2025-07-17 14:33:43,True,True,16.916666666666668,3.9,0.0,8.512,16.916666666666668,3.9,0.0,8.512,
+Southgate,Manor House,25,2025-07-17 14:33:45,False,False,,,,,,,,,station_not_matched
+Waterloo LU,Oxford Circus,25,2025-07-17 14:33:45,True,False,,,,,,,,,station_not_matched
+Slough,Southall,25,2025-07-17 14:33:45,False,False,,,,,,,,,station_not_matched
+Beckton,Prince Regent,25,2025-07-17 14:33:45,False,True,,,,,,,,,station_not_matched
+Leytonstone,Barkingside,25,2025-07-17 14:33:45,False,False,,,,,,,,,station_not_matched
+Golders Green,Euston LU,25,2025-07-17 14:33:45,True,True,71.38333333333334,11.55,1.0,32.756,71.38333333333334,11.55,1.0,32.756,
