@@ -1,0 +1,139 @@
+route_station,status,lat,lng,source
+Clapham North,matched,51.4656,-0.1304,manual
+Waterloo LU,matched,51.504269,-0.113356,bus_data
+Parsons Green,matched,51.47287,-0.19925,bus_data
+Stratford,matched,51.541508,-0.00241,bus_data
+Epping,matched,51.6944,0.1038,manual
+Gants Hill,matched,51.5765,0.0664,manual
+Hendon Central,matched,51.5829,-0.2259,manual
+Greenwich,matched,51.478235,-0.014096,bus_data
+Southgate,matched,51.6322,-0.128,manual
+Brentwood,matched,51.6119,0.3019,manual
+Charing Cross LU,matched,51.507819,-0.126137,bus_data
+Manor Park,matched,51.45872,-0.00162,bus_data
+Maidenhead,matched,51.5218,-0.7195,manual
+Woolwich Arsenal,matched,51.489962,0.06917,bus_data
+Cockfosters,matched,51.64535,-0.14483,bus_data
+Woodside Park,matched,51.6178,-0.1856,manual
+Euston LU,matched,51.527365,-0.132754,bus_data
+West Ealing,matched,51.513,-0.3215,manual
+Leicester Square,matched,51.51159,-0.12833,bus_data
+East Putney,matched,51.46002,-0.21232,bus_data
+King's Cross St. Pancras,matched,51.5308,-0.1238,manual
+Manor House,matched,51.5715,-0.0955,manual
+Rectory Road,matched,51.54022,0.15432,bus_data
+Royal Oak,matched,51.628039,0.183162,bus_data
+Heathrow Terminals 123 LU,matched,51.47276,-0.45676,bus_data
+Balham LU,matched,51.443259,-0.152707,bus_data
+Finchley Central,matched,51.60227,-0.19393,bus_data
+Golders Green,matched,51.51903,-0.44403,bus_data
+Tottenham Court Road,matched,51.51602,-0.12874,bus_data
+Custom House,matched,51.51006,0.02524,bus_data
+Custom House EL,matched,51.51006,0.02524,bus_data
+East Finchley,matched,51.5874,-0.1648,manual
+Eastcote,matched,51.5756,-0.3967,manual
+Notting Hill Gate,matched,51.5096,-0.19299,bus_data
+Upminster,matched,51.558659,0.250855,bus_data
+Colindale,matched,51.5952,-0.2496,manual
+Wood Green,matched,51.38772,-0.06858,bus_data
+Clapham South,matched,51.45301,-0.14843,bus_data
+Southfields,matched,51.59555,-0.23382,bus_data
+East Ham,matched,51.5189,0.0519,manual
+North Greenwich,matched,51.500474,0.004295,bus_data
+Wimbledon Park,matched,51.4343,-0.1998,manual
+Chalk Farm,matched,51.5441,-0.1538,manual
+Victoria LU,matched,51.49647,-0.14598,bus_data
+Farringdon,matched,51.520214,-0.105054,bus_data
+Paddington TfL,matched,51.516981,-0.17616,bus_data
+Goodmayes,matched,51.567,0.1123,manual
+Piccadilly Circus,matched,51.5105,-0.13421,bus_data
+Barking,matched,51.539413,0.080988,bus_data
+Woolwich EL,matched,51.49186,0.07041,bus_data
+High Barnet,matched,51.51914,-0.34712,bus_data
+Vauxhall LU,matched,51.485739,-0.123303,bus_data
+Honor Oak Park,matched,51.4404,-0.05796,bus_data
+Shenfield,matched,51.6311,0.3258,manual
+Wembley Park,matched,51.5635,-0.2795,manual
+West Brompton,matched,51.487168,-0.195593,bus_data
+Hammersmith (H&C),matched,51.492304,-0.223619,bus_data
+Heathrow Terminal 5 LU,matched,51.47316,-0.48985,bus_data
+Southall,matched,51.5062,-0.3756,manual
+Gallions Reach,matched,51.50875,0.07196,bus_data
+Clapham Common,matched,51.4618,-0.1379,manual
+West Hampstead LU,matched,51.547533,-0.191357,bus_data
+Oxford Circus,matched,51.5152,-0.1414,manual
+Hounslow East,matched,51.45851,-0.40446,bus_data
+Archway,matched,51.5654,-0.1353,manual
+Canary Wharf DLR,matched,51.503734,-0.019121,bus_data
+Island Gardens,matched,51.46178,-0.39179,bus_data
+Willesden Junction,matched,51.532556,-0.243006,bus_data
+Chadwell Heath,matched,51.58131,0.11665,bus_data
+Osterley,matched,51.4814,-0.3524,manual
+Morden,matched,51.4022,-0.1948,manual
+Stoke Newington,matched,51.56266,-0.06985,bus_data
+Stockwell,matched,51.4723,-0.1227,manual
+Heron Quays,matched,51.503,-0.02515,bus_data
+Seven Sisters,matched,51.582931,-0.073306,bus_data
+Highgate,matched,51.58162,-0.14673,bus_data
+Canary Wharf LU,matched,51.503734,-0.019121,bus_data
+Clapton,matched,51.5568,-0.05569,bus_data
+Walthamstow Queen's Road,matched,51.581503,51.581503,bus_data
+Elm Park,matched,51.5489,0.1977,manual
+Green Park,matched,51.58497,-0.26906,bus_data
+Acton Main Line,matched,51.51785,-0.26631,bus_data
+Reading,matched,51.4584,-0.9692,manual
+Abbey Wood,matched,51.491247,0.121057,bus_data
+Seven Kings,matched,51.56118,0.10001,bus_data
+Canary Wharf EL,matched,51.503734,-0.019121,bus_data
+Dagenham Heathway,matched,51.54222,0.14773,bus_data
+Bank and Monument,matched,51.5133,-0.0886,manual
+Iver,matched,51.5334,-0.5189,manual
+Blackhorse Road,matched,51.586768,-0.041185,bus_data
+London Bridge LU,matched,51.50966,-0.08757,bus_data
+Kentish Town,matched,51.550409,-0.140545,bus_data
+Belsize Park,matched,51.5506,-0.1653,manual
+Canning Town,matched,51.514029,0.008025,bus_data
+Totteridge & Whetstone,matched,51.63008,-0.17676,bus_data
+Turnpike Lane,matched,51.47713,-0.3284,bus_data
+Fulham Broadway,matched,51.48023,-0.19812,bus_data
+Putney Bridge,matched,51.46804,-0.21184,bus_data
+Maryland,matched,51.5419,-0.0586,manual
+Heathrow Terminals 2 & 3 EL,matched,51.471618,-0.454037,bus_data
+Tooting Broadway,matched,51.42856,-0.16743,bus_data
+West Drayton,matched,51.52688,-0.43973,bus_data
+South Ruislip,matched,51.556893,-0.399076,bus_data
+Shepherd's Bush LU,matched,51.504791,-0.219213,bus_data
+Lewisham DLR,matched,51.47282,-0.01418,bus_data
+South Wimbledon,matched,51.41572,-0.19051,bus_data
+Queens Road Peckham,matched,51.47382,-0.05739,bus_data
+Canada Water,matched,51.498053,-0.049667,bus_data
+South Quay,matched,51.50013,-0.01658,bus_data
+Slough,matched,51.5105,-0.595,manual
+Colliers Wood,matched,51.418,-0.1778,manual
+Ilford,matched,51.5588,0.0681,manual
+Baker Street,matched,51.66343,-0.07834,bus_data
+Euston NR,matched,51.5252,-0.14411,bus_data
+Romford,matched,51.5747,0.1821,manual
+Richmond,matched,51.463152,-0.301448,bus_data
+Gidea Park,matched,51.5826,0.2046,manual
+North Acton,matched,51.53218,-0.26003,bus_data
+Ealing Broadway,matched,51.514993,-0.302131,bus_data
+Cutty Sark,matched,51.481675,-0.010802,bus_data
+Wimbledon,matched,51.421505,-0.206444,bus_data
+Edgware,matched,51.6137,-0.2648,manual
+Shepherd's Bush Market,matched,51.50462,-0.22105,bus_data
+Woodford,matched,51.6073,0.034,manual
+Oakwood,matched,51.647,-0.131,manual
+Battersea Power Station,matched,51.48066,-0.14063,bus_data
+Ladbroke Grove,matched,51.47403,0.02025,bus_data
+Hayes & Harlington,matched,51.50351,-0.42037,bus_data
+Marble Arch,matched,51.51161,-0.15835,bus_data
+Brixton LU,matched,51.462961,-0.114531,bus_data
+Wood Lane,matched,51.54387,0.20249,bus_data
+Uxbridge,matched,51.5461,-0.4787,manual
+Tooting Bec,matched,51.43074,-0.14077,bus_data
+Maida Vale,matched,51.52787,-0.18086,bus_data
+Walthamstow Central,matched,51.582948,-0.019842,bus_data
+Borough,matched,51.5011,-0.0943,manual
+Perivale,matched,51.64311,-0.1307,bus_data
+Clapham Junction,matched,51.463724,-0.168997,bus_data
