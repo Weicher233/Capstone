@@ -85,8 +85,8 @@ This notebook analyzes London Underground stations with high passenger traffic b
   - [crisis_stations_map.html](./crisis_stations_map.html): Top critical stations with no lift access and poor bus proximity (>200m)  
     *(Note: The current crisis map is a preliminary version. It only considers the straight-line distance from Tube stations to the nearest bus stops and does not yet account for factors like bus directions, transfer options, or service availability. Future updates will incorporate these factors for a more comprehensive analysis.)*
 
-**6. [P-median_ratio.ipynb](./P-median_ratio.ipynb)**
-Purpose: Ratio-based analysis using the accessibility efficiency metric η and P-Median recommendation.
+**6. [P-median_ratio.ipynb](./P-median_ratio.ipynb)**  
+Purpose: Ratio-based analysis using the accessibility efficiency metric η and P-Median recommendation.  
 - Includes:  
   - Compute η = (step-free travel time) / (ideal shortest time) per OD pair
   - Plot histogram and CDF of η; determine threshold (η ≈ 3.74) using elbow method
