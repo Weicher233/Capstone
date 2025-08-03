@@ -1,0 +1,124 @@
+final_frequent_routes_with_commute (1)
+Start_Station,End_Station,Count,commute_time,Modified_time
+Wimbledon,Parsons Green,300,54,54
+Tooting Broadway,Clapham North,93,16,32
+Euston NR,Maida Vale,87,26,38
+Hammersmith (H&C),Ladbroke Grove,83,16,30
+Euston NR,Willesden Junction,78,43,14
+Morden,Balham LU,78,28,28
+Romford,Manor Park,75,ERROR,79
+Stratford,Seven Kings,70,ERROR,38
+Barking,Elm Park,67,469,22
+Uxbridge,Eastcote,66,92,46
+London Bridge LU,Canning Town,60,ERROR,29
+Ilford,Gidea Park,58,ERROR,52
+Clapham Junction,Putney Bridge,56,30,30
+Colindale,Belsize Park,55,32,67
+Paddington TfL,Southall,55,ERROR,25
+Brixton LU,Balham LU,53,25,25
+Stratford,Woodford,53,ERROR,74
+Victoria LU,Clapham Common,52,ERROR,31
+Lewisham DLR,Island Gardens,51,ERROR,10
+Shepherd's Bush LU,Perivale,50,56,41
+Clapham Common,Colliers Wood,48,13,35
+Tooting Broadway,Morden,46,26,36
+Clapham Junction,Queens Road Peckham,46,41,17
+Wood Green,Cockfosters,44,27,53
+London Bridge LU,Stockwell,44,ERROR,37
+Edgware,Golders Green,43,50,50
+Turnpike Lane,Oakwood,42,ERROR,42
+Balham LU,Morden,42,29,29
+Woolwich EL,Abbey Wood,40,15,15
+Canary Wharf EL,Abbey Wood,39,70,35
+Canary Wharf DLR,Island Gardens,39,ERROR,9
+Brixton LU,Borough,36,ERROR,30
+Parsons Green,Wimbledon,36,ERROR,61
+Woolwich Arsenal,Canning Town,35,65,26
+Heathrow Terminals 123 LU,Osterley,35,46,24
+Hendon Central,Chalk Farm,34,26,48
+Cutty Sark,Heron Quays,34,22,18
+Walthamstow Central,Stoke Newington,34,27,52
+Heathrow Terminal 5 LU,Hounslow East,34,38,11
+Manor House,Southgate,34,856,51
+Goodmayes,Maryland,33,ERROR,52
+Colliers Wood,Clapham Common,33,18,44
+Tottenham Court Road,King's Cross St. Pancras,33,11,16
+East Putney,Wimbledon,33,58,45
+Finchley Central,Kentish Town,32,26,47
+Shenfield,Chadwell Heath,32,54,54
+Southfields,West Brompton,32,ERROR,63
+Archway,Woodside Park,32,918,43
+Paddington TfL,Wood Lane,32,ERROR,37
+North Acton,South Ruislip,31,73,73
+Shepherd's Bush Market,Royal Oak,31,ERROR,88
+Tooting Bec,Morden,31,31,52
+Paddington TfL,Baker Street,31,ERROR,19
+Farringdon,King's Cross St. Pancras,31,10,14
+Southgate,Manor House,31,ERROR,51
+Archway,Euston LU,31,ERROR,29
+Waterloo LU,Bank and Monument,31,20,19
+Reading,Slough,30,ERROR,21
+Ealing Broadway,Heathrow Terminals 2 & 3 EL,30,59,24
+Ealing Broadway,West Ealing,30,10,16
+Golders Green,Edgware,30,50,50
+King's Cross St. Pancras,Farringdon,30,10,16
+Leicester Square,Green Park,30,ERROR,12
+Upminster,Dagenham Heathway,30,17,17
+Southfields,Wimbledon,30,701,27
+High Barnet,East Finchley,30,66,51
+Notting Hill Gate,North Acton,30,38,58
+Tottenham Court Road,Green Park,29,ERROR,23
+Barking,Walthamstow Queen's Road,29,ERROR,14
+Richmond,Willesden Junction,29,ERROR,16
+Colindale,Edgware,29,40,40
+Maidenhead,Iver,29,ERROR,16
+Waterloo LU,Battersea Power Station,29,ERROR,35
+Highgate,Totteridge & Whetstone,29,ERROR,35
+Waterloo LU,Green Park,29,ERROR,17
+Tottenham Court Road,Bank and Monument,29,25,25
+King's Cross St. Pancras,Oxford Circus,29,14,4
+King's Cross St. Pancras,Bank and Monument,29,31,12
+Ealing Broadway,West Drayton,29,69,17
+Shepherd's Bush LU,Marble Arch,29,20,39
+Paddington TfL,Oxford Circus,28,18,18
+Chalk Farm,Hendon Central,28,23,54
+Victoria LU,Charing Cross LU,28,1344,19
+Canary Wharf LU,Waterloo LU,28,ERROR,17
+Clapham South,South Wimbledon,28,17,43
+Hayes & Harlington,Acton Main Line,28,,24
+Cutty Sark,Lewisham DLR,28,11,19
+West Hampstead LU,Wembley Park,28,65,32
+North Greenwich,Stratford,27,ERROR,18
+Stratford,Canada Water,27,ERROR,39
+Woodford,Stratford,27,ERROR,23
+Goodmayes,Brentwood,27,ERROR,38
+Victoria LU,Tottenham Court Road,27,ERROR,27
+Colliers Wood,Morden,27,23,23
+Blackhorse Road,Rectory Road,27,ERROR,47
+Clapham Common,Victoria LU,26,ERROR,30
+Custom House,Gallions Reach,26,ERROR,26
+Oxford Circus,Tottenham Court Road,26,10,10
+Clapton,Seven Sisters,26,224,206
+South Wimbledon,Clapham South,26,16,39
+Canary Wharf LU,Honor Oak Park,26,73,73
+Fulham Broadway,Wimbledon Park,26,37,37
+Slough,Reading,26,ERROR,24
+Victoria LU,Stockwell,26,ERROR,22
+Canary Wharf EL,Woolwich EL,26,57,15
+Waterloo LU,Oxford Circus,26,ERROR,25
+East Ham,North Greenwich,26,52,33
+Canary Wharf LU,London Bridge LU,25,ERROR,22
+Romford,Shenfield,25,22,22
+Belsize Park,Colindale,25,33,67
+Piccadilly Circus,Tottenham Court Road,25,14,18
+Tottenham Court Road,Piccadilly Circus,25,13,16
+Epping,Woodford,25,ERROR,57
+Custom House EL,Abbey Wood,25,ERROR,80
+Leicester Square,Bank and Monument,25,20,31
+Wood Lane,Paddington TfL,25,ERROR,38
+King's Cross St. Pancras,Seven Sisters,25,212,154
+Putney Bridge,Wimbledon,25,57,57
+Gants Hill,Stratford,25,ERROR,45
+Victoria LU,Oxford Circus,25,,4
+Vauxhall LU,Balham LU,25,ERROR,36
+Greenwich,South Quay,25,ERROR,31
