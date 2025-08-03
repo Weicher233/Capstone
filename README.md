@@ -87,7 +87,7 @@ This notebook analyzes London Underground stations with high passenger traffic b
 
 **6. [P-median_ratio.ipynb](./P-median_ratio.ipynb)**  
 Purpose: Ratio-based analysis using the accessibility efficiency metric η and P-Median recommendation.  
-- Includes:  
+- Includes:   
   - Compute η = (step-free travel time) / (ideal shortest time) per OD pair  
   - Plot histogram and CDF of η; determine threshold (η ≈ 3.74) using elbow method  
   - Aggregate excess burden (η − threshold) across stations to rank candidates  
