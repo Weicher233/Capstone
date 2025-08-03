@@ -88,15 +88,15 @@ This notebook analyzes London Underground stations with high passenger traffic b
 **6. [P-median_ratio.ipynb](./P-median_ratio.ipynb)**  
 Purpose: Ratio-based analysis using the accessibility efficiency metric η and P-Median recommendation.  
 - Includes:   
-  - Compute η = (step-free travel time) / (ideal shortest time) per OD pair  
-  - Plot histogram and CDF of η; determine threshold (η ≈ 3.74) using elbow method  
-  - Aggregate excess burden (η − threshold) across stations to rank candidates  
-  - Use P-Median (with p=3) to identify optimal locations for new accessible stops  
-  - Perform sensitivity analysis on the efficiency threshold η and facility number p to verify the reasonableness of the parameters
+   - Compute η = (step-free travel time) / (ideal shortest time) per OD pair  
+   - Plot histogram and CDF of η; determine threshold (η ≈ 3.74) using elbow method  
+   - Aggregate excess burden (η − threshold) across stations to rank candidates  
+   - Use P-Median (with p=3) to identify optimal locations for new accessible stops  
+   - Perform sensitivity analysis on the efficiency threshold η and facility number p to verify the reasonableness of the parameters
 
 **7. [Monte_Carlo_P-median_withnotes.ipynb](./Monte_Carlo_P-median_withnotes.ipynb)**
 Purpose: Evaluate commute time uncertainty via Monte Carlo simulation and apply P-Median for location selection.
-- Includes: 
+- Includes:   
   -  Introduce random disturbances to walking and waiting times along OD routes and simulate N iterations  
   -  Annotate assumptions in detail (e.g. walking speed distribution, error model, outlier handling)  
   -  Build a weighted “burden matrix” and solve P-Median using greedy or LP approaches  
@@ -104,6 +104,6 @@ Purpose: Evaluate commute time uncertainty via Monte Carlo simulation and apply 
 
 **8. [FINAL_wheelchair_accessible__commute_time.ipynb](./FINAL_wheelchair_accessible__commute_time.ipynb)**
 Purpose: Batch retrieval and processing of wheelchair-accessible public transport commute times.
-- Includes: 
+- Includes:   
    - Clean origin-destination station names from raw input lists  
    - Simulate requests to the Google Maps API to extract travel duration (standard vs. accessible), number of transfers, etc.  
