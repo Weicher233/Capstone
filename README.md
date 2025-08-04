@@ -98,12 +98,23 @@ Purpose: Ratio-based analysis using the accessibility efficiency metric η and P
 	- [OD_Routes.csv](./data/OD_Routes.csv):The data in this document includes travel time data (regular and accessible) for 63 origin-destination (OD) paths.The data here comes from [‘final_route_analysis_results.csv’](./data/final_route_analysis_results.csv) and [‘final_complete_accessible_routes.csv’](./final_complete_accessible_routes.csv), which provide regular travel times and accessible travel times, respectively.
 
 **7. [Monte_Carlo_P-median_withnotes.ipynb](./Monte_Carlo_P-median_withnotes.ipynb)**
-Purpose: Evaluate commute time uncertainty via Monte Carlo simulation and apply P-Median for location selection.
-- Includes:   
-  -  Introduce random disturbances to walking and waiting times along OD routes and simulate N iterations  
-  -  Annotate assumptions in detail (e.g. walking speed distribution, error model, outlier handling)  
-  -  Build a weighted “burden matrix” and solve P-Median using greedy or LP approaches  
-  -  Visualise simulation results and selection logic for interpretability  
+
+This notebook proposes a novel approach to improving step-free public transport accessibility in London, using Monte Carlo simulations and a P-Median heuristic to identify optimal locations for additional bus stops.
+
+- Includes:
+	- Simulates realistic passenger flows based on OD pair frequencies and entry/exit probabilities derived from station footfall data
+ 	- Evaluates travel burden using absolute commute time for step-free (accessible) routes, collected via Google Maps crawling
+  	- Implements a P-Median model to suggest new bus stop placements that minimize the total commute time for step-free accessible users
+  	- Efficiently solves the optimization problem under constraints like max_new_stops = 2 or 3 and returns reduced travel cost and station suggestions
+
+- Additional Notes:
+	- Earlier experimental code using walking time as the cost metric is preserved for record-keeping and model evolution documentation
+ 	- Final optimization is based on realistic commute times ([final_complete_accessible_routes.csv](./final_complete_accessible_routes.csv)) instead of synthetic walk-time datasets
+
+- Outputs:
+	- Suggested high-impact new bus stop locations
+ 	- Reduced total weighted travel burden for step-free routes
+  
 
 **8. [FINAL_wheelchair_accessible__commute_time.ipynb](./FINAL_wheelchair_accessible__commute_time.ipynb)**
 Purpose: Batch retrieval and processing of wheelchair-accessible public transport commute times.
