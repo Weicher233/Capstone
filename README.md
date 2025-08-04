@@ -66,6 +66,7 @@ The aim of this study is to construct a set of data-driven transport stop optimi
 	- [Station locations.csv](./data/Station%20locations.csv): metro station location data
 	- [merged_stations.csv](./data/merged_stations.csv): Merged bus and subway station information.
 	- [stations_with_neighbors.csv](./data/stations_with_neighbors.csv): Data table with 0.5 mile neighboring station information added.
+	- [final_route_analysis_results.csv](./data/final_route_analysis_results.csv):The file contains route information returned from Google Maps API: the travel time for the shortest route, including walking time.
  - NUMBAT: A typical day represents 0500-0459 for each daytype in autumn each year. Data is collected for each weekday, Saturday and Sunday in each autumn, with days affected by major disruptions, events and closures excluded. These typical day counts generally represent a busier time of the year with more consistent travel patterns. (Initial exploration of NUMBAT data is included in [Accessibility for TFL.ipynb](./Accessibility%20for%20TFL.ipynb))
    - [NBT23FRI_outputs.xlsx](./data/NBT23FRI_outputs.xlsx)
    - [NBT23MON_outputs.xlsx](./data/NBT23MON_outputs.xlsx)
@@ -88,11 +89,13 @@ This notebook analyzes London Underground stations with high passenger traffic b
 **6. [P-median_ratio.ipynb](./P-median_ratio.ipynb)**  
 Purpose: Ratio-based analysis using the accessibility efficiency metric η and P-Median recommendation.  
 - Includes:   
-   - Compute η = (step-free travel time) / (ideal shortest time) per OD pair  
-   - Plot histogram and CDF of η; determine threshold (η ≈ 3.74) using elbow method  
-   - Aggregate excess burden (η − threshold) across stations to rank candidates  
-   - Use P-Median (with p=3) to identify optimal locations for new accessible stops  
-   - Perform sensitivity analysis on the efficiency threshold η and facility number p to verify the reasonableness of the parameters
+	- Compute η = (step-free travel time) / (ideal shortest time) per OD pair  
+	- Plot histogram and CDF of η; determine threshold (η ≈ 3.74) using elbow method  
+	- Aggregate excess burden (η − threshold) across stations to rank candidates  
+	- Use P-Median (with p=3) to identify optimal locations for new accessible stops  
+	- Perform sensitivity analysis on the efficiency threshold η and facility number p to verify the reasonableness of the parameters
+- Input Datasets:
+	- [OD_Routes.csv](./data/OD_Routes.csv):The data in this document includes travel time data (regular and accessible) for 63 origin-destination (OD) paths.  
 
 **7. [Monte_Carlo_P-median_withnotes.ipynb](./Monte_Carlo_P-median_withnotes.ipynb)**
 Purpose: Evaluate commute time uncertainty via Monte Carlo simulation and apply P-Median for location selection.
