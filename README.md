@@ -66,6 +66,7 @@ The aim of this study is to construct a set of data-driven transport stop optimi
 	- [Station locations.csv](./data/Station%20locations.csv): metro station location data
 	- [merged_stations.csv](./data/merged_stations.csv): Merged bus and subway station information.
 	- [stations_with_neighbors.csv](./data/stations_with_neighbors.csv): Data table with 0.5 mile neighboring station information added.
+        - [final_route_analysis_results.csv](./data/final_route_analysis_results.csv):The file contains route information returned from Google Maps API: the travel time for the shortest route, including walking time.
  - NUMBAT: A typical day represents 0500-0459 for each daytype in autumn each year. Data is collected for each weekday, Saturday and Sunday in each autumn, with days affected by major disruptions, events and closures excluded. These typical day counts generally represent a busier time of the year with more consistent travel patterns. (Initial exploration of NUMBAT data is included in [Accessibility for TFL.ipynb](./Accessibility%20for%20TFL.ipynb))
    - [NBT23FRI_outputs.xlsx](./data/NBT23FRI_outputs.xlsx)
    - [NBT23MON_outputs.xlsx](./data/NBT23MON_outputs.xlsx)
