@@ -89,11 +89,13 @@ This notebook analyzes London Underground stations with high passenger traffic b
 **6. [P-median_ratio.ipynb](./P-median_ratio.ipynb)**  
 Purpose: Ratio-based analysis using the accessibility efficiency metric η and P-Median recommendation.  
 - Includes:   
-   - Compute η = (step-free travel time) / (ideal shortest time) per OD pair  
-   - Plot histogram and CDF of η; determine threshold (η ≈ 3.74) using elbow method  
-   - Aggregate excess burden (η − threshold) across stations to rank candidates  
-   - Use P-Median (with p=3) to identify optimal locations for new accessible stops  
-   - Perform sensitivity analysis on the efficiency threshold η and facility number p to verify the reasonableness of the parameters
+	- Compute η = (step-free travel time) / (ideal shortest time) per OD pair  
+	- Plot histogram and CDF of η; determine threshold (η ≈ 3.74) using elbow method  
+	- Aggregate excess burden (η − threshold) across stations to rank candidates  
+	- Use P-Median (with p=3) to identify optimal locations for new accessible stops  
+	- Perform sensitivity analysis on the efficiency threshold η and facility number p to verify the reasonableness of the parameters
+- Input Datasets:
+	- [OD_Routes.csv](./data/OD_Routes.csv):The data in this document includes travel time data (regular and accessible) for 63 origin-destination (OD) paths.  
 
 **7. [Monte_Carlo_P-median_withnotes.ipynb](./Monte_Carlo_P-median_withnotes.ipynb)**
 Purpose: Evaluate commute time uncertainty via Monte Carlo simulation and apply P-Median for location selection.
