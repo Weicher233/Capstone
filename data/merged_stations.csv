@@ -9,7 +9,7 @@ Abbey Road,51.52935,-0.2699,bus,"187, 224, 226",490003028E
 Abbey Road,51.53867,-0.27916,bus,112,490003029W
 Abbey Road,51.53918,-0.18908,bus,"31, N28, N31",490003027E
 Abbey Road,51.53997,-0.18668,bus,"31, N28, N31",490003027W
-Abbey Road DLR Station,51.531926,51.531926,dlr,dlr,940GZZDLABR
+Abbey Road DLR Station,51.531926,-0.1258805,dlr,dlr,940GZZDLABR
 Abbey Road Studios / Grove End Road,51.53244,-0.17784,bus,"139, 189",490003030N
 Abbey School,51.54777,0.0928,bus,145,490003032S
 Abbey Sports Centre,51.53479,0.07971,bus,"287, 368, 62, 687",490003033W
@@ -72,7 +72,7 @@ Ackroyd Drive,51.5202,-0.02611,bus,323,490016349X
 Ackroyd Drive,51.52037,-0.02613,bus,323,490016349E
 Acland Burghley School,51.55734,-0.13889,bus,4,490008592E
 Acorn Gardens,51.4098,-0.0812,bus,410,490003069S
-Acton Central Rail Station,51.508716,51.508716,overground,mildmay,910GACTNCTL
+Acton Central Rail Station,51.508716,-0.259755,overground,mildmay,910GACTNCTL
 Acton Central Station,51.50647,-0.26405,bus,"207, 218, 70, N207, N266, N7, SL8",490001002J
 Acton Central Station,51.50655,-0.26287,bus,"207, 218, 70, N207, N266, N7, SL8",490001002H
 Acton Fire Station,51.50744,-0.27705,bus,"70, E3, N11",490003075Q
@@ -80,7 +80,7 @@ Acton Green,51.4961,-0.26447,bus,94,490003076W
 Acton Green,51.49638,-0.26425,bus,94,490003076C
 Acton Lane,51.52879,-0.26803,bus,"260, 440, 487",490003078S
 Acton Lane,51.53441,-0.24808,bus,"220, 228, 266, 487, N266",490003079R
-Acton Main Line Rail Station,51.51718,51.51718,elizabeth-line,elizabeth,910GACTONML
+Acton Main Line Rail Station,51.51718,-0.259755,elizabeth-line,elizabeth,910GACTONML
 Acton Main Line Station,51.51759,-0.26592,bus,"266, 440, N266",490001003H
 Acton Main Line Station,51.51785,-0.26631,bus,"260, 266, 440, N266",490001003J
 Acton Market Place,51.50852,-0.27148,bus,unknown,490000042Z2
@@ -423,7 +423,7 @@ Amen Corner,51.42367,-0.16189,bus,"127, 264, 270, 280, 333, 355, 44, 57, 77, N44
 Amersham,51.674207,-0.60759,bus,"Chiltern Railways, Metropolitan",HUBAMR
 Amersham Road,51.47334,-0.03214,bus,"136, 21, 321, 436, N136, N21",490003298S
 Amersham Road,51.47353,-0.03344,bus,"136, 171, 172, 21, 321, 436, N136, N171, N21",490003298N
-Amersham Underground Station,51.674126,51.674126,tube,metropolitan,940GZZLUAMS
+Amersham Underground Station,51.674126,-0.03344,tube,metropolitan,940GZZLUAMS
 Amesbury Drive,51.63745,-0.01227,bus,215,490003299S
 Amesbury Drive,51.63851,-0.01215,bus,215,490003299N
 Amherst Close,51.39368,0.10461,bus,R3,490000398Y
@@ -467,7 +467,7 @@ Anerley Park,51.41325,-0.06877,bus,"157, 249, 358, 432, N3",490003319N
 Anerley Park / Anerley Road,51.41284,-0.06788,bus,354,490003319S
 Anerley Park / Anerley Road,51.41326,-0.06792,bus,354,490008537N
 Anerley Park Road / Thicket Road,51.41619,-0.06669,bus,354,490015448N
-Anerley Rail Station,51.412153,51.412153,overground,windrush,910GANERLEY
+Anerley Rail Station,51.412153,-0.06581,overground,windrush,910GANERLEY
 Anerley Road / Anerley Station,51.41189,-0.06683,bus,"157, 249, 354, 358, 432, N3",490001007AB
 Anerley Road / Anerley Station,51.41208,-0.0669,bus,"157, 249, 354, 358, 432, N3",490001007AA
 Anerley Road / Croydon Road,51.40922,-0.06007,bus,"157, 354, 358, N3",490003317AH
@@ -488,7 +488,7 @@ Angel Islington,51.53084,-0.10421,bus,"274, 4, 56",490003327K
 Angel Islington,51.53168,-0.10519,bus,"205, 214, 274, 394, 4, 43, 56, N205",490003327J
 Angel Islington / City Road,51.53165,-0.10474,bus,"205, 214, 274, 394, 4, 43, 56, N205",490003327H
 Angel Lane,51.54285,-0.00044,bus,"158, 241, 308",490003328U
-Angel Road,0.0,0.0,bus,unknown,490G00001008
+Angel Road,51.61451,-0.04837,bus,unknown,490G00001008
 Angel Road,51.61451,-0.04837,bus,192,4900HC188N
 Angel Road,51.6146,-0.04813,bus,192,490006440S
 Angel Station,51.53191,-0.10767,bus,"205, 214, N205",490015108S
@@ -633,7 +633,7 @@ Arnos Grove Station,51.61599,-0.13376,bus,"251, 298",490000009W1
 Arnos Grove Station,51.61618,-0.13346,bus,"184, 232, 34, 382, N91, SL1",490000009A
 Arnos Grove Station,51.61621,-0.13388,bus,"251, 298",490000009E1
 Arnos Grove Swimming Pool,51.61567,-0.13003,bus,"184, 232, 34, N91",490017817W
-Arnos Grove Underground Station,51.616446,51.616446,tube,piccadilly,940GZZLUASG
+Arnos Grove Underground Station,51.616446,-0.13346,tube,piccadilly,940GZZLUASG
 Arnsberg Way,51.45724,0.14533,bus,unknown,490003975W1
 Arragon Gardens,51.41669,-0.12598,bus,"109, 250, 255, 50, G1, N109, N250",490003389N
 Arragon Gardens,51.41711,-0.12615,bus,"109, 250, 255, 50, G1, N109, N250",490003389S
@@ -880,11 +880,11 @@ Baker Street Station,51.52285,-0.15794,bus,"113, 13, 139, 189, 274, N113",490000
 Baker Street Station,51.52342,-0.15803,bus,unknown,490000011S1
 Baker Street Station,51.52351,-0.15813,bus,"13, 189, 274, 74, N74",490000011A
 Baker Street Station,51.52489,-0.15982,bus,unknown,490000011ZY
-Baker Street Underground Station,51.522883,51.522883,tube,bakerloo,940GZZLUBST
-Baker Street Underground Station,51.522883,51.522883,tube,circle,940GZZLUBST
-Baker Street Underground Station,51.522883,51.522883,tube,hammersmith-city,940GZZLUBST
-Baker Street Underground Station,51.522883,51.522883,tube,jubilee,940GZZLUBST
-Baker Street Underground Station,51.522883,51.522883,tube,metropolitan,940GZZLUBST
+Baker Street Underground Station,51.522883,-0.07834,tube,bakerloo,940GZZLUBST
+Baker Street Underground Station,51.522883,-0.07834,tube,circle,940GZZLUBST
+Baker Street Underground Station,51.522883,-0.07834,tube,hammersmith-city,940GZZLUBST
+Baker Street Underground Station,51.522883,-0.07834,tube,jubilee,940GZZLUBST
+Baker Street Underground Station,51.522883,-0.07834,tube,metropolitan,940GZZLUBST
 Bakers Avenue,51.5762,-0.0148,bus,"20, 230, 257, 357, 55, 69, 97, N26, N38, W15, W19",490015099A
 Balaam Park Health Centre,51.52632,0.02382,bus,"241, 325, 678",490006106N
 Balaam Street,51.52216,0.02196,bus,"115, 276, 300, 330, 5, N15",490003551E
@@ -917,7 +917,7 @@ Balham Station,51.44287,-0.15336,bus,"155, 249, 355, N155",490000012B
 Balham Station,51.44304,-0.15155,bus,315,490000012A
 Balham Station,51.44391,-0.15207,bus,"155, 249, 255, 355, N155",490000012C
 Balham Station  / Balham Station Road,51.44302,-0.15091,bus,255,490000012J
-Balham Underground Station,51.443288,51.443288,tube,northern,940GZZLUBLM
+Balham Underground Station,51.443288,-0.15091,tube,northern,940GZZLUBLM
 Ballards Road,51.52965,0.15365,bus,"145, 174, 175, 287, 687",490003565W
 Ballards Road,51.53814,0.16722,bus,103,490009126W
 Ballards Road,51.5384,0.16725,bus,103,490003566E
@@ -945,7 +945,7 @@ Banister House,51.548,-0.04533,bus,"236, 276, 394, 425, 488, W15",490006082A
 Banister Road,51.53047,-0.2163,bus,"28, 316, 52",490003583S
 Banister Road,51.53057,-0.21652,bus,"28, 316, 52",490003583N
 Bank,51.513395,-0.089095,bus,"133, 141, 149, 21, 25, 26, 344, 35, 388, 43, 47, 8, Central, DLR, N133, N21, N242, N25, N26, N550, N551, N8, Northern, Waterloo & City",HUBBAN
-Bank DLR Station,51.513233,51.513233,dlr,dlr,940GZZDLBNK
+Bank DLR Station,51.513233,-0.090475,dlr,dlr,940GZZDLBNK
 Bank Station  / Cornhill,51.51327,-0.08775,bus,"25, 26, 8, N242, N25, N26, N550, N551, N8",490000013E
 Bank Station  / Cornhill,51.51338,-0.0876,bus,"25, 26, 8, N242, N25, N26, N550, N551, N8",490000013D
 Bank Station  / King William Street,51.51226,-0.08805,bus,"133, 141, 21, 43, N21",490000013F
@@ -953,9 +953,9 @@ Bank Station  / Poultry,51.51374,-0.09146,bus,"25, 26, 8, N242, N25, N26, N550, 
 Bank Station  / Princes Street,51.51396,-0.08926,bus,"141, 21, 43",490011218B
 Bank Station  / Princes Street,51.51431,-0.08965,bus,"141, 21, 43",490011218A
 Bank Station  / Threadneedle Street,51.51381,-0.08787,bus,unknown,490000013C
-Bank Underground Station,51.513132,51.513132,tube,central,940GZZLUBNK
-Bank Underground Station,51.513132,51.513132,tube,northern,940GZZLUBNK
-Bank Underground Station,51.513132,51.513132,tube,waterloo-city,940GZZLUBNK
+Bank Underground Station,51.513132,-0.090475,tube,central,940GZZLUBNK
+Bank Underground Station,51.513132,-0.090475,tube,northern,940GZZLUBNK
+Bank Underground Station,51.513132,-0.090475,tube,waterloo-city,940GZZLUBNK
 Bankhurst Road,51.44858,-0.02969,bus,284,490003579Z
 Bankside Pier,51.508388,-0.096384,bus,"344, RB1, RB2, RB6, Thames River Services",930GSWK
 Bankside Pier,51.50839,-0.09634,bus,unknown,4900SWK0
@@ -982,9 +982,9 @@ Barbauld Road,51.55836,-0.08247,bus,"476, 73, N73",490003591N
 Barbauld Road,51.55893,-0.08243,bus,"476, 73, N73",490004808S
 Barbican Station,51.5203,-0.0977,bus,"153, 4, 56",490000014A
 Barbican Station,51.5209,-0.09738,bus,"153, 4, 56",490000014B
-Barbican Underground Station,51.520275,51.520275,tube,circle,940GZZLUBBN
-Barbican Underground Station,51.520275,51.520275,tube,hammersmith-city,940GZZLUBBN
-Barbican Underground Station,51.520275,51.520275,tube,metropolitan,940GZZLUBBN
+Barbican Underground Station,51.520275,-0.0975399999999999,tube,circle,940GZZLUBBN
+Barbican Underground Station,51.520275,-0.0975399999999999,tube,hammersmith-city,940GZZLUBBN
+Barbican Underground Station,51.520275,-0.0975399999999999,tube,metropolitan,940GZZLUBBN
 Barden Street,51.47671,0.08951,bus,291,490003593N
 Barfield Road,51.39932,0.05669,bus,R7,490018905E
 Barfield Road / Blackbrook Lane,51.39929,0.05698,bus,R7,490018905W
@@ -1018,8 +1018,8 @@ Barking Bus Garage / Faircross,51.54493,0.09452,bus,62,490003605N
 Barking Community Hospital,51.54023,0.0998,bus,62,490003608S
 Barking Industrial Park,51.53339,0.10606,bus,"287, 368, 62, 687",490013224W
 Barking Industrial Park,51.53359,0.106,bus,"287, 368, 62, 687",490013224E
-Barking Rail Station,51.539495,51.539495,overground,suffragette,910GBARKING
-Barking Riverside,51.51953,51.51953,overground,suffragette,910GBKRVS
+Barking Rail Station,51.539495,0.081735,overground,suffragette,910GBARKING
+Barking Riverside,51.51953,0.081735,overground,suffragette,910GBKRVS
 Barking Riverside Station,51.51903,0.11758,bus,"EL1, EL3",490002272YX
 Barking Riverside Station,51.51945,0.11803,bus,"EL1, EL3",490002272YY
 Barking Road,51.52275,0.02258,bus,"241, 325, 678",490003549S
@@ -1040,8 +1040,8 @@ Barking Town Centre,51.53794,0.0778,bus,"169, 238, 287, 366, 368, 5, 62, 687, N1
 Barking Town Centre,51.53805,0.07836,bus,"238, 287, 366, 368, 5, 62, 687, N15, SL2",490003616C
 Barking Town Centre,51.53816,0.07825,bus,"169, 287, 366, 687, SL2",490003616D
 Barking Town Centre,51.53834,0.07856,bus,"238, 368, 5, 62, N15",490003616E
-Barking Underground Station,51.539321,51.539321,tube,district,940GZZLUBKG
-Barking Underground Station,51.539321,51.539321,tube,hammersmith-city,940GZZLUBKG
+Barking Underground Station,51.539321,0.081735,tube,district,940GZZLUBKG
+Barking Underground Station,51.539321,0.081735,tube,hammersmith-city,940GZZLUBKG
 Barkingside High Street,51.59025,0.08123,bus,"128, 462",490003612H
 Barkingside High Street,51.59039,0.08116,bus,"128, 462",490003612P
 Barkingside Magistrates Court,51.58799,0.08127,bus,"169, 247",490003613R
@@ -1050,7 +1050,7 @@ Barkingside Station,51.58725,0.08511,bus,"169, 247",490000016S
 Barkingside Station,51.5874,0.0852,bus,169,490000016U
 Barkingside Station,51.58777,0.08423,bus,247,490003623B
 Barkingside Tesco,51.58673,0.08141,bus,275,490003614V
-Barkingside Underground Station,51.585689,51.585689,tube,central,940GZZLUBKE
+Barkingside Underground Station,51.585689,0.08134,tube,central,940GZZLUBKE
 Barlby Gardens,51.52364,-0.21785,bus,"316, 70",490003618P
 Barlby Gardens,51.52369,-0.21732,bus,"316, 70",490003618Q
 Barlby Road,51.52343,-0.21364,bus,"228, 23, 295, 452, 52, 70",490003619M
@@ -1121,8 +1121,8 @@ Barnhill Community High School,51.52984,-0.39825,bus,"140, 696, 697, N140",49000
 Barnmead Road,51.54452,0.14358,bus,364,490003648N
 Barnsbury Road,51.53533,-0.11109,bus,"153, 274",490005581S
 Baron Street / Chapel Market,51.53228,-0.10929,bus,"30, 476, 73, N277, N73",490003650T
-Barons Court Underground Station,51.490311,51.490311,tube,district,940GZZLUBSC
-Barons Court Underground Station,51.490311,51.490311,tube,piccadilly,940GZZLUBSC
+Barons Court Underground Station,51.49037,-0.21355,tube,district,940GZZLUBSC
+Barons Court Underground Station,51.49037,-0.21355,tube,piccadilly,940GZZLUBSC
 Barra Hall Road,51.51456,-0.43147,bus,350,490003651W
 Barra Hall Road,51.51471,-0.43206,bus,350,490003651E
 Barrack Road,51.4627,-0.38862,bus,"116, 117, 235, 635",490008395W
@@ -1343,7 +1343,7 @@ Beckton District Park,51.51658,0.04434,bus,"262, 300, N551",490003748E
 Beckton Dlr Depot,51.51065,0.07842,bus,"262, 366, N551",490018760W
 Beckton Dlr Depot,51.51082,0.07921,bus,"262, 366, N551",490018760E
 Beckton DLR Station,51.514362,0.061453,dlr,"101, 104, 173, 262, 300, 366, 376, 474, 673, 678, DLR, N551, SL2",940GZZDLBEC
-Beckton Park DLR Station,51.508793,51.508793,dlr,dlr,940GZZDLBPK
+Beckton Park DLR Station,51.508793,0.06064,dlr,dlr,940GZZDLBPK
 Beckton Park Station,51.50904,0.0562,bus,"376, 678",490002012X
 Beckton Park Station,51.50922,0.05409,bus,"376, 678",490002012Z
 Beckton Station,51.51369,0.06093,bus,"262, 366, 376, 474, 678, N551",490002011H
@@ -1554,7 +1554,7 @@ Belsize Lane,51.54667,-0.17576,bus,"46, 603",490009643S
 Belsize Lane,51.54722,-0.17595,bus,"46, 603",490009643N
 Belsize Park Station,51.5507,-0.16528,bus,"1, C11, N5",490000020K
 Belsize Park Station,51.55075,-0.16519,bus,"1, C11, N5",490000020L
-Belsize Park Underground Station,51.550529,51.550529,tube,northern,940GZZLUBZP
+Belsize Park Underground Station,51.550529,-0.17245,tube,northern,940GZZLUBZP
 Belsize Road,51.53897,-0.18647,bus,"139, 189",490003027N
 Belsize Road,51.5402,-0.1879,bus,"139, 189",490003027S
 Belsize Road,51.60993,-0.34663,bus,182,490003847W
@@ -1657,7 +1657,7 @@ Bermondsey Station,51.49796,-0.06494,bus,"188, 381, 47, C10, N199, N381",4900000
 Bermondsey Station,51.49808,-0.06549,bus,"188, 381, 47, C10, N199, N381",490012729D
 Bermondsey Street,51.49783,-0.0806,bus,C10,490017363E
 Bermondsey Street,51.49806,-0.08238,bus,C10,490017363W
-Bermondsey Underground Station,51.49775,51.49775,tube,jubilee,940GZZLUBMY
+Bermondsey Underground Station,51.49775,-0.057755,tube,jubilee,940GZZLUBMY
 Bernard Road,51.56874,0.16609,bus,499,490020320W
 Berriman Road,51.55966,-0.11042,bus,"153, 253, 254, 259, 29, 4, N253, N279, N29",490003929S
 Berry's Green,51.31517,0.05638,bus,R8,490020281E
@@ -1690,12 +1690,12 @@ Bethel Road,51.46029,0.12125,bus,"486, 89, 96, B16, N89",490003948E
 Bethel Road,51.46036,0.12013,bus,"486, 89, 96, B16, N89",490003948W
 Bethell Avenue,51.56924,0.06461,bus,"123, 128, 150, 167, 179, 296, 396, 462, 667, 677, 679",490003947S
 Bethell Avenue,51.57024,0.06389,bus,"123, 128, 150, 167, 179, 296, 396, 462, 667, 677, 679",490003947N
-Bethnal Green Rail Station,51.523917,51.523917,overground,weaver,910GBTHNLGR
+Bethnal Green Rail Station,51.523917,-0.056145,overground,weaver,910GBTHNLGR
 Bethnal Green Station,51.52688,-0.05564,bus,"106, 254, N253",490000022C
 Bethnal Green Station,51.5274,-0.05455,bus,"309, 8, D6, N8",490000022B
 Bethnal Green Station,51.52746,-0.05665,bus,"388, 8, D3, N8",490000022D
 Bethnal Green Station,51.52813,-0.05511,bus,"106, 254, 309, 388, D3, D6, N253",490000022A
-Bethnal Green Underground Station,51.527222,51.527222,tube,central,940GZZLUBLG
+Bethnal Green Underground Station,51.527222,-0.056145,tube,central,940GZZLUBLG
 Bethnal Grn Rd / Shoreditch High St Stn,51.52372,-0.07654,bus,"388, 8, N8",490006398J
 Bethune Road,51.52436,-0.26116,bus,440,490000157N
 Bethune Road,51.5746,-0.08422,bus,"253, 254, 310, N253",490003304W
@@ -1914,8 +1914,8 @@ Blackfriars Station  / North Entrance,51.51239,-0.1043,bus,"40, 63, N63, N89",49
 Blackfriars Station / North Entrance,51.51239,-0.1043,bus,"40, 63, N63, N89",490000023J
 Blackfriars Station / South Entrance,51.50821,-0.1043,bus,"40, 63, N63, N89",490013934S
 Blackfriars Station / South Entrance,51.5088,-0.10462,bus,"40, 63, N63, N89",490013934N
-Blackfriars Underground Station,51.511581,51.511581,tube,circle,940GZZLUBKF
-Blackfriars Underground Station,51.511581,51.511581,tube,district,940GZZLUBKF
+Blackfriars Underground Station,51.511581,-0.104068,tube,circle,940GZZLUBKF
+Blackfriars Underground Station,51.511581,-0.104068,tube,district,940GZZLUBKF
 Blackheath / Royal Standard,51.47758,0.0191,bus,"108, 286, 335, 386, 422",490004065BA
 Blackheath / Royal Standard,51.47771,0.02041,bus,"108, 202, 286, 335, 380, 386, 422, 53, 54, N53",490015264W1
 Blackheath / Royal Standard,51.47801,0.01996,bus,202,490004065BB
@@ -1932,12 +1932,12 @@ Blackhorse Lane,51.38554,-0.07273,bus,197,490002017B
 Blackhorse Lane,51.38605,-0.07131,bus,197,490002017A
 Blackhorse Rd Stn   / Blackhorse Lane,51.58717,-0.04169,bus,"123, N73",490000024D
 Blackhorse Road,51.586768,-0.041185,bus,"Suffragette, Victoria",HUBBHO
-Blackhorse Road Rail Station,51.586605,51.586605,overground,suffragette,910GBLCHSRD
+Blackhorse Road Rail Station,51.586605,-0.04169,overground,suffragette,910GBLCHSRD
 Blackhorse Road Station,51.58622,-0.03981,bus,"158, 230, W11",490000024B
 Blackhorse Road Station,51.58659,-0.04046,bus,"158, W11",490000024A
 Blackhorse Road Station,51.58713,-0.04179,bus,unknown,490000024Z
 Blackhorse Road Stn   / Blackhorse Ln,51.58703,-0.04142,bus,"123, 230, N73",490000024C
-Blackhorse Road Underground Station,51.586919,51.586919,tube,victoria,940GZZLUBLR
+Blackhorse Road Underground Station,51.586919,-0.04169,tube,victoria,940GZZLUBLR
 Blackness Lane,51.34343,0.03218,bus,"246, 320, 664, 684, R2",490004073S
 Blackness Lane,51.34367,0.03233,bus,"246, 320, 664, 684, R2",490004073N
 Blackshaw Road,51.42491,-0.17698,bus,"155, 264, 280",490004076E
@@ -1945,7 +1945,7 @@ Blacksmiths Lane,51.39232,0.11475,bus,R4,490004078S
 Blacksmiths Lane,51.39244,0.11456,bus,R4,490004078N
 Blackthorn Court,51.4817,-0.38767,bus,H28,490016385S
 Blackthorn Court,51.48208,-0.38757,bus,H28,490016385N
-Blackwall DLR Station,51.507991,51.507991,dlr,dlr,940GZZDLBLA
+Blackwall DLR Station,51.507991,-0.00733,dlr,dlr,940GZZDLBLA
 Blackwall Lane,51.49186,0.00786,bus,unknown,490015296S
 Blackwall Station,51.50829,-0.00697,bus,15,490002018AP
 Blackwall Station,51.50831,-0.00733,bus,15,490002018P
@@ -2044,8 +2044,8 @@ Bonar Road,51.47644,-0.06958,bus,"363, 381, 63, 78, N381, N63",490004140S
 Bond Street,51.51232,-0.30628,elizabeth-line,"65, N65",490004143N
 Bond Street,51.51301,-0.30655,elizabeth-line,"207, 483, 65, E11, E2, E7, E8, N11, N207, N65, N83, SL8",490019653E
 Bond Street,51.513362,-0.148795,elizabeth-line,"139, 390, 7, 94, 98, Central, Elizabeth line, Jubilee, N113, N137, N207, N7, N98",HUBBDS
-Bond Street Underground Station,51.514304,51.514304,tube,central,940GZZLUBND
-Bond Street Underground Station,51.514304,51.514304,tube,jubilee,940GZZLUBND
+Bond Street Underground Station,51.514304,-0.140895,tube,central,940GZZLUBND
+Bond Street Underground Station,51.514304,-0.140895,tube,jubilee,940GZZLUBND
 Bonner Road,51.53162,-0.05013,bus,"309, D3",490003951W
 Bonner Street,51.52928,-0.04664,bus,"8, D6, N8",490004144E
 Bonner Street,51.52934,-0.04629,bus,"8, D6, N8",490012204W
@@ -2094,7 +2094,7 @@ Boston Manor Road,51.48794,-0.31452,bus,H91,490007424O
 Boston Manor Station,51.49566,-0.32432,bus,unknown,490000027S
 Boston Manor Station,51.49573,-0.32401,bus,"195, E8",490000027B
 Boston Manor Station,51.49592,-0.32497,bus,"195, E8",490000027A
-Boston Manor Underground Station,51.495635,51.495635,tube,piccadilly,940GZZLUBOS
+Boston Manor Underground Station,51.495635,-0.31605,tube,piccadilly,940GZZLUBOS
 Boston Road,51.60616,-0.26471,bus,302,490004170N
 Bosworth Road,51.52568,-0.20765,bus,23,490004171W
 Bosworth Road,51.5259,-0.20817,bus,23,490004171E
@@ -2129,7 +2129,7 @@ Bounds Green Station,51.60704,-0.12457,bus,"221, N91",490000028A
 Bounds Green Station,51.60727,-0.12535,bus,"221, N91",490000028B
 Bounds Green Station,51.60754,-0.12365,bus,"102, 184, 299",490000028D
 Bounds Green Station,51.60806,-0.12359,bus,"102, 184, 299",490000028C
-Bounds Green Underground Station,51.607034,51.607034,tube,piccadilly,940GZZLUBDS
+Bounds Green Underground Station,51.607034,-0.12457,tube,piccadilly,940GZZLUBDS
 Bourne Court,51.284479,-0.07884,bus,"407, 434",40004410108B
 Bourne Court,51.28501,-0.079392,bus,"407, 434",40004410108A
 Bourne Hill,51.62276,-0.10488,bus,"329, 616, 629, N29, W6",490004196N
@@ -2164,8 +2164,8 @@ Bow Interchange,51.52878,-0.01326,bus,"488, D8",490004421T
 Bow Road,51.52752,-0.02156,bus,108,490004209Y
 Bow Road Station,51.52702,-0.02603,bus,"205, 25, 425, N205, N25",490000029Q
 Bow Road Station,51.52735,-0.02403,bus,"205, 25, 425, N205, N25",490000029Z
-Bow Road Underground Station,51.52694,51.52694,tube,district,940GZZLUBWR
-Bow Road Underground Station,51.52694,51.52694,tube,hammersmith-city,940GZZLUBWR
+Bow Road Underground Station,51.52694,-0.02082,tube,district,940GZZLUBWR
+Bow Road Underground Station,51.52694,-0.02082,tube,hammersmith-city,940GZZLUBWR
 Bowater Place,51.47603,0.02568,bus,386,490004360W
 Bowater Place,51.47606,0.02613,bus,386,490004360E
 Bowen Drive,51.42769,-0.08258,bus,450,490008839W1
@@ -2335,7 +2335,7 @@ Brentwood High Street,51.620907,0.304564,bus,"498, 608",1500IM212
 Brentwood High Street,51.621107,0.304892,bus,"498, 608",1500IM212B
 Brentwood Police Station,51.618653,0.295247,bus,498,150037002003
 Brentwood Police Station,51.61879,0.295557,bus,"498, 608",150037002004
-Brentwood Rail Station,51.613605,51.613605,elizabeth-line,elizabeth,910GBRTWOOD
+Brentwood Rail Station,51.613605,0.21086,elizabeth-line,elizabeth,910GBRTWOOD
 Brentwood Road,51.57033,0.18644,bus,"248, 252, N15",490013483S
 Brentwood Road,51.5708,0.18569,bus,"165, 193, 248, 252, 294, 674, N15",490013483N
 Brentwood Sainsbury's,51.621698,0.304141,bus,498,1500BD1
@@ -2463,7 +2463,7 @@ Brixton Station,51.46297,-0.11359,bus,322,490000031E
 Brixton Station,51.46305,-0.1144,bus,322,490000031W
 Brixton Station Road,51.46339,-0.10826,bus,"345, 35, 45, P4",490015389E
 Brixton Station Road,51.46421,-0.10988,bus,"345, 35, 45, P4",490014794W
-Brixton Underground Station,51.462618,51.462618,tube,victoria,940GZZLUBXN
+Brixton Underground Station,51.462618,-0.11419,tube,victoria,940GZZLUBXN
 Brixton Water Lane,51.45458,-0.11351,bus,"2, 415, 432, N2",490015275N2
 Brixton Water Lane,51.45484,-0.11344,bus,"196, 2, 3, 37, 415, 432, 690, N2, N3",490015275S2
 Brixton Water Lane,51.45518,-0.11257,bus,"196, 3, 37, 690, N3",490015275W
@@ -2534,7 +2534,7 @@ Brockley Jack,51.45259,-0.03903,bus,"122, 171, 172, N171, P4",490004395C
 Brockley Jack,51.45341,-0.03818,bus,"122, 171, 172, N171, P4",490004395D
 Brockley Park,51.44434,-0.04275,bus,"122, 171, N171",490004396N
 Brockley Park,51.44503,-0.04261,bus,"122, 171, N171",490004396S
-Brockley Rail Station,51.464649,51.464649,overground,windrush,910GBROCKLY
+Brockley Rail Station,51.464649,-0.04054,overground,windrush,910GBROCKLY
 Brockley Rise,51.44904,-0.04287,bus,"P12, P4",490004397HD
 Brockley Rise / Chandos,51.44822,-0.0409,bus,"172, P12",490004399J
 Brockley Rise / Chandos,51.44824,-0.04131,bus,"122, 171, 172, N171, P12",490004399H
@@ -2612,8 +2612,8 @@ Bromley South Station,51.40066,0.01694,bus,"119, 138, 146, 162, 246, 314, 352, 3
 Bromley Town Hall,51.406,0.0166,bus,"119, 138, 146, 246, 269, 352, 367, 61, N3, SL3",490004435Q
 Bromley Town Hall,51.40604,0.01685,bus,"119, 126, 138, 146, 208, 227, 246, 261, 269, 314, 320, 336, 352, 354, 358, 367, 61, 638, N199, N3, SL3",4900004408P
 Bromley Town Hall,51.40624,0.01781,bus,"208, 227, 320, 358, N199",490004435K
-Bromley-by-Bow Underground Station,51.524839,51.524839,tube,district,940GZZLUBBB
-Bromley-by-Bow Underground Station,51.524839,51.524839,tube,hammersmith-city,940GZZLUBBB
+Bromley-by-Bow Underground Station,51.524839,-0.011538,tube,district,940GZZLUBBB
+Bromley-by-Bow Underground Station,51.524839,-0.011538,tube,hammersmith-city,940GZZLUBBB
 Brompton Square,51.49743,-0.16749,bus,"14, 74, C1, N74, N97",490004437W
 Brompton Square,51.49762,-0.16767,bus,"14, 74, C1, N74, N97",490004437E
 Brondesbury Park,51.54448,-0.22201,bus,206,490015532S
@@ -2624,7 +2624,7 @@ Brondesbury Park Station,51.54107,-0.21112,bus,unknown,490018851S
 Brondesbury Park Station,51.5411,-0.21131,bus,unknown,490018851N
 Brondesbury Park Stn  / the Avenue,51.54172,-0.2111,bus,206,490013248N
 Brondesbury Park Stn  / the Avenue,51.54194,-0.2112,bus,206,490013248S
-Brondesbury Rail Station,51.545166,51.545166,overground,mildmay,910GBRBY
+Brondesbury Rail Station,51.545166,-0.2099,overground,mildmay,910GBRBY
 Brondesbury Road,51.53651,-0.19946,bus,206,490004441E
 Brondesbury Road,51.53752,-0.19328,bus,"16, 316, 32, 632, N32",490001170S
 Brondesbury Road,51.53798,-0.19357,bus,"16, 206, 316, 32, 632, 98, N32, N98",490001170R
@@ -2896,7 +2896,7 @@ Burlington Court,51.38777,-0.31094,bus,unknown,490000787Z
 Burnbury Road,51.44345,-0.13686,bus,255,490020149F
 Burney Avenue,51.39673,-0.29627,bus,K4,490004603S
 Burney Avenue,51.39767,-0.29633,bus,K4,490004603N
-Burnham (Berks) Rail Station,51.523506,51.523506,elizabeth-line,elizabeth,910GBNHAM
+Burnham (Berks) Rail Station,51.523506,-0.066025,elizabeth-line,elizabeth,910GBNHAM
 Burnham Gardens,51.38295,-0.07955,bus,197,490004605S
 Burnham Street,51.52772,-0.0525,bus,"309, 8, D6, N8",490004606K
 Burnley Road,51.55312,-0.2437,bus,"302, N98",490004607W
@@ -2976,7 +2976,7 @@ Bushey,51.645582,-0.384752,bus,"142, 258, Lioness, West Midlands Trains",HUBBSH
 Bushey Arches,51.647552,-0.384939,bus,"142, 258",210021902140
 Bushey Arches,51.647574,-0.385256,bus,"142, 258",210021903600
 Bushey Heath Three Crowns,51.63719,-0.347923,bus,"142, 258",210021007890
-Bushey Rail Station,51.645402,51.645402,overground,lioness,910GBUSHYDC
+Bushey Rail Station,51.645402,-0.23057,overground,lioness,910GBUSHYDC
 Bushey Railway Station East,51.645229,-0.383446,bus,"142, 258",210G3126
 Bushey Road,51.40555,-0.22931,bus,163,490004647S
 Bushey Road,51.4062,-0.22947,bus,163,490004647N
@@ -3081,7 +3081,7 @@ Cambridge Gardens / St Marks Road,51.51702,-0.21587,bus,"295, 316",490004699W
 Cambridge Gardens / St Marks Road,51.51723,-0.21527,bus,"295, 316",490004699E
 Cambridge Grove,51.4089,-0.28676,bus,"131, N87",490004703W
 Cambridge Grove,51.40896,-0.28654,bus,"131, N87",490004703E
-Cambridge Heath (London) Rail Station,51.531973,51.531973,overground,weaver,910GCAMHTH
+Cambridge Heath (London) Rail Station,51.531973,-0.08642,overground,weaver,910GCAMHTH
 Cambridge Heath Road,51.51969,-0.05751,bus,"254, N253",490009873E
 Cambridge Heath Station,51.53209,-0.05709,bus,"106, 254, 388, D6, N253",490001044M
 Cambridge Heath Station,51.5324,-0.0581,bus,"26, 55, N26, N55",490001044N
@@ -3159,8 +3159,8 @@ Canada Water Bus Station,51.49795,-0.05,bus,"1, 188, 199, 225, 381, 47, C10, N19
 Canada Water Bus Station,51.49805,-0.05003,bus,"188, 381, 47, C10, N199, N381",490004733B
 Canada Water Bus Station,51.49814,-0.04994,bus,"1, 199, 225, C10, P12",490004733D
 Canada Water Bus Station,51.49835,-0.05011,bus,unknown,490000037A
-Canada Water Rail Station,51.49799,51.49799,overground,windrush,910GCNDAW
-Canada Water Underground Station,51.497931,51.497931,tube,jubilee,940GZZLUCWR
+Canada Water Rail Station,51.49799,-0.0497535,overground,windrush,910GCNDAW
+Canada Water Underground Station,51.497931,-0.0497535,tube,jubilee,940GZZLUCWR
 Canadian Avenue,51.44,-0.0231,bus,336,490008431N
 Canadian Avenue,51.44015,-0.02251,bus,unknown,490001983XY
 Canadian Avenue,51.44252,-0.0223,bus,unknown,490008431ZZ
@@ -3169,7 +3169,7 @@ Canal Side Walk,51.66801,-0.01546,bus,"121, 491",490004735S
 Canal Side Walk,51.66859,-0.01539,bus,"121, 491",490004735N
 Canal Walk,51.53801,-0.08622,bus,"141, 76",490015282S
 Canary Wharf,51.503734,-0.019121,elizabeth-line,"135, 277, D3, D7, D8, DLR, Elizabeth line, Jubilee, N277, N550",HUBCAW
-Canary Wharf DLR Station,51.504838,51.504838,dlr,dlr,940GZZDLCAN
+Canary Wharf DLR Station,51.504838,-0.020775,dlr,dlr,940GZZDLCAN
 Canary Wharf Pier,51.505692,-0.028482,bus,"135, 277, D3, D7, D8, N277, N550, RB1, RB2, RB4, RB6",930GCAW
 Canary Wharf Pier.,51.50542,-0.02809,bus,unknown,4900CAW0
 Canary Wharf Station,51.5028,-0.01982,bus,"135, 277, D7, N277, N550",490016668L
@@ -3177,7 +3177,7 @@ Canary Wharf Station,51.50287,-0.01819,bus,"135, 277, D7, N277, N550",490016668K
 Canary Wharf Station,51.50472,-0.02105,bus,"135, 277, D3, D7, D8, N277, N550",490000038G
 Canary Wharf Station,51.50543,-0.02064,bus,unknown,490000038Z
 Canary Wharf Station,51.50547,-0.02091,bus,"135, 277, D3, D7, D8, N277, N550",490000038F
-Canary Wharf Underground Station,51.503488,51.503488,tube,jubilee,940GZZLUCYF
+Canary Wharf Underground Station,51.503488,-0.020775,tube,jubilee,940GZZLUCYF
 Canbury Mews,51.43164,-0.07121,bus,"202, 356",490004742W
 Canbury Mews,51.43172,-0.07054,bus,"202, 356",490004742E
 Canbury Park Road,51.41304,-0.29837,bus,K5,490017352W
@@ -3200,11 +3200,11 @@ Canning Town Bus Station,51.51426,0.00926,bus,unknown,490000039Z
 Canning Town Bus Station,51.51431,0.00866,bus,"323, 474, 69",490000039E
 Canning Town Bus Station,51.51443,0.00827,bus,"115, N15",490000039G
 Canning Town Bus Station,51.5145,0.00848,bus,"115, 300, 330, 5, N15",490000039F
-Canning Town DLR Station,51.514127,51.514127,dlr,dlr,940GZZDLCGT
+Canning Town DLR Station,51.514127,0.0084949999999999,dlr,dlr,940GZZDLCGT
 Canning Town Recreation Ground,51.51488,0.02547,bus,"241, 300, 325, 678",490011814S
 Canning Town Recreation Ground,51.51557,0.02513,bus,"241, 300, 325, 678",490016788N
 Canning Town Station,51.51455,0.00818,bus,"147, 300, 309, 323, 5, 69, N550",490000039A
-Canning Town Underground Station,51.513584,51.513584,tube,jubilee,940GZZLUCGT
+Canning Town Underground Station,51.513584,0.0084949999999999,tube,jubilee,940GZZLUCGT
 Cannon Lane,51.58576,-0.38114,bus,H11,490013601W
 Cannon Lane,51.58842,-0.3833,bus,H13,490004755W1
 Cannon Lane,51.58888,-0.38243,bus,"H11, H12, H13",490004755N
@@ -3212,8 +3212,8 @@ Cannon Street,51.511451,-0.090357,bus,"Circle, District, Southeastern",HUBCST
 Cannon Street Station,51.51044,-0.09023,bus,unknown,490004756E
 Cannon Street Station,51.51134,-0.08918,bus,"15, 17, N15, N199",490000040A
 Cannon Street Station,51.51192,-0.09106,bus,"133, 15, 17, N15, N199, N21",490000040B
-Cannon Street Underground Station,51.51151,51.51151,tube,circle,940GZZLUCST
-Cannon Street Underground Station,51.51151,51.51151,tube,district,940GZZLUCST
+Cannon Street Underground Station,51.51151,-0.09658,tube,circle,940GZZLUCST
+Cannon Street Underground Station,51.51151,-0.09658,tube,district,940GZZLUCST
 Cannonbury Avenue,51.5808,-0.38146,bus,H12,490004752S
 Cannonbury Avenue,51.58136,-0.3816,bus,H12,490004752N
 Canonbury Grove,51.54248,-0.09923,bus,"21, N271",490007687S
@@ -3325,7 +3325,7 @@ Carnegie Street,51.53575,-0.11676,bus,"17, 259, 91, N91",490004811S
 Carnegie Street,51.53613,-0.11681,bus,"17, 259, 91, N91",490004811N
 Caroline Gardens,51.47946,-0.05963,bus,P12,490004813S
 Caroline Gardens,51.47951,-0.05983,bus,P12,490004813N
-Carpenders Park Rail Station,51.628351,51.628351,overground,lioness,910GCRPNDPK
+Carpenders Park Rail Station,51.568642,0.21974,overground,lioness,910GCRPNDPK
 Carpenters Primary School,51.53717,-0.00536,bus,108,490020228SE
 Carronade Place,51.49374,0.08075,bus,"244, 380",490004816S
 Carronade Place,51.49424,0.08094,bus,"244, 380",490004816N
@@ -3548,7 +3548,7 @@ Chalcombe Road,51.49392,0.11202,bus,"177, 469",490004957W
 Chaldon Way Gardens,51.3131,-0.13464,bus,"60, N68",490004958S
 Chaldon Way Gardens,51.31348,-0.13491,bus,"60, N68",490004958N
 Chalfont & Latimer,51.668109,-0.560519,bus,"Chiltern Railways, Metropolitan",HUBCFO
-Chalfont & Latimer Underground Station,51.667985,51.667985,tube,metropolitan,940GZZLUCAL
+Chalfont & Latimer Underground Station,51.667985,-0.3177845,tube,metropolitan,940GZZLUCAL
 Chalgrove Avenue,51.39507,-0.20183,bus,"154, 80, 93",490004960S
 Chalgrove Avenue,51.39526,-0.20192,bus,"154, 80, 93",490004960N
 Chalgrove Road,51.59922,-0.05879,bus,"318, 341, 476",490004961W
@@ -3558,7 +3558,7 @@ Chalk Farm Station,51.54388,-0.15422,bus,"31, N28, N31",490000043CB
 Chalk Farm Station,51.54397,-0.15403,bus,"31, N28, N31",490000043CA
 Chalk Farm Station,51.54437,-0.15393,bus,"1, 393, N5",490000043CC
 Chalk Farm Station,51.54464,-0.15374,bus,"1, 393, N5",490000043CD
-Chalk Farm Underground Station,51.544118,51.544118,tube,northern,940GZZLUCFM
+Chalk Farm Underground Station,51.544118,-0.15398,tube,northern,940GZZLUCFM
 Chalk Pit Avenue,51.40032,0.1203,bus,R4,490020256W
 Chalk Pit Avenue,51.40052,0.12141,bus,R4,490020256E
 Chalk Pit Way,51.36127,-0.18954,bus,"407, 627, N44",490015833S
@@ -3618,8 +3618,8 @@ Charing Cross Hospital,51.48711,-0.22153,bus,"190, 211, 220, 295, N11, N33, N72,
 Charing Cross Station,51.50843,-0.12552,bus,"139, 15, 176, 23, 9, N15, N21, N343, N550, N551, N89, N9",490013766H
 Charing Cross Stn  / Trafalgar Square,51.50816,-0.12619,bus,"15, 26, 91, N15, N26, N550, N551, N91",490013766F
 Charing Cross Stn / Trafalgar Square,51.50804,-0.12649,bus,"23, 87, 9, N155, N44, N87, N9",490013766E
-Charing Cross Underground Station,51.50741,51.50741,tube,bakerloo,940GZZLUCHX
-Charing Cross Underground Station,51.50741,51.50741,tube,northern,940GZZLUCHX
+Charing Cross Underground Station,51.50741,-0.12649,tube,bakerloo,940GZZLUCHX
+Charing Cross Underground Station,51.50741,-0.12649,tube,northern,940GZZLUCHX
 Charlbury Crescent,51.60488,0.21008,bus,"174, 256, 499, 608, 646, 674, 686, N86",490012895W
 Charlbury Crescent,51.60533,0.21101,bus,"174, 256, 499, 608, 646, 674, 686, N86",490012895E
 Charlbury Grove,51.51927,-0.31061,bus,"297, E10",490004993S
@@ -3729,7 +3729,7 @@ Chattern Hill,51.432718,-0.451395,bus,117,40004402103A
 Chaucer Road,51.47148,0.09632,bus,"51, 625, 658",490005053S
 Chaucer Road,51.4719,0.09595,bus,"51, 625, 658",490005053N
 Chaucer Road / Effra Parade,51.45527,-0.11027,bus,"196, 3, 37, 690, N3",490005054N
-Chauntler Close / Cundy Park,0.0,0.0,bus,unknown,490G00002264
+Chauntler Close / Cundy Park,51.50994,0.0295,bus,unknown,490G00002264
 Chauntler Close / Cundy Park,51.50994,0.0295,bus,"147, 241, 300, 304, 325, 474, 678, N551",490001079A
 Chauntler Close / Cundy Park,51.51001,0.02825,bus,"147, 241, 300, 304, 325, 474, 678, N551",490001079B
 Cheam Broadway,51.35755,-0.21699,bus,S2,490005056B
@@ -3814,8 +3814,8 @@ Chertsey Road,51.45797,-0.32282,bus,"110, 969, H37",490005103N
 Chertsey Road,51.458,-0.32269,bus,H37,490005103S
 Chesham Avenue / Woodhurst Avenue,51.3856,0.06792,bus,R3,490020294W
 Chesham Avenue / Woodhurst Avenue,51.38588,0.06815,bus,R3,490020294E
-Chesham Underground Station,51.705208,51.705208,tube,metropolitan,940GZZLUCSM
-Cheshunt Rail Station,51.702876,51.702876,overground,weaver,910GCHESHNT
+Chesham Underground Station,51.705208,0.0654849999999999,tube,metropolitan,940GZZLUCSM
+Cheshunt Rail Station,51.702876,0.03252,overground,weaver,910GCHESHNT
 Cheshunt Road,51.54232,0.03252,bus,"330, 58",490005112N
 Chessholme Road,51.427574,-0.447296,bus,216,40004402096A
 Chessholme Road,51.427926,-0.448737,bus,216,400G4402096A
@@ -3991,7 +3991,7 @@ Chobham Road,51.54999,0.00509,bus,"257, 69, N8",490005214N
 Chorleywood,51.654249,-0.518312,bus,"Chiltern Railways, Metropolitan",HUBCLW
 Chorleywood Crescent,51.40484,0.09947,bus,"B14, R1, R11",490005216E
 Chorleywood Crescent,51.40495,0.09853,bus,"B14, R1, R11",490005216W
-Chorleywood Underground Station,51.654358,51.654358,tube,metropolitan,940GZZLUCYD
+Chorleywood Underground Station,51.654358,0.09853,tube,metropolitan,940GZZLUCYD
 Choumert Road,51.46767,-0.07245,bus,P13,490005218W
 Chrisp Street Market,51.5118,-0.01353,bus,108,490005222K
 Chrisp Street Market,51.51192,-0.01374,bus,"108, 309",490005222J
@@ -4184,13 +4184,13 @@ Clapham Common Station,51.46152,-0.13851,bus,"155, 50, 88, N155",490000050D
 Clapham Common Station,51.46152,-0.13821,bus,"137, 322, 345, 35, 37, 417, 88, N137",490000050K
 Clapham Common Station,51.46188,-0.13867,bus,"137, 417, N137",490015234A
 Clapham Common Underground Station,51.461742,-0.138317,tube,"137, 249, 345, 35, 37, 417, N137, Northern",940GZZLUCPC
-Clapham High Street Rail Station,51.465481,51.465481,overground,windrush,910GCLPHHS
+Clapham High Street Rail Station,51.465481,-0.14255,overground,windrush,910GCLPHHS
 Clapham Junction,51.463724,-0.168997,bus,"170, 219, 295, 319, 337, 344, 345, 35, 37, 39, 49, 639, 670, 77, C3, G1, Mildmay, N19, N31, South Western Railway, Southern, Windrush",HUBCLJ
 Clapham Junction / the Northcote,51.46128,-0.16726,bus,"219, 319, 337, 35, 37, 49, 77, G1",490005333Y
 Clapham Junction / the Northcote,51.46175,-0.16766,bus,"219, 319, 337, 35, 37, 49, 77, G1",490005333V
-Clapham Junction Rail Station,51.464187,51.464187,overground,mildmay,910GCLPHMJ1
-Clapham Junction Rail Station,51.464188,51.464188,overground,mildmay,910GCLPHMJC
-Clapham Junction Rail Station,51.464187,51.464187,overground,windrush,910GCLPHMJ1
+Clapham Junction Rail Station,51.464187,-0.14255,overground,mildmay,910GCLPHMJ1
+Clapham Junction Rail Station,51.464188,-0.14255,overground,mildmay,910GCLPHMJC
+Clapham Junction Rail Station,51.464187,-0.14255,overground,windrush,910GCLPHMJ1
 Clapham Junction Station,51.46301,-0.17048,bus,"170, 295, 337, 344, 37, 639, 670, N19",490001069C
 Clapham Junction Station,51.4631,-0.1698,bus,"295, 344, C3, N19, N31",490015060L
 Clapham Junction Station,51.46339,-0.1687,bus,"156, 170, 337, 37, 39, 639, 670, 87, N87",490001069M
@@ -4218,7 +4218,7 @@ Clapham South Station,51.45243,-0.14798,bus,"155, 249, 355, N155",490000052SC
 Clapham South Station,51.45243,-0.14753,bus,"155, 249, 355, N155",490000052SD
 Clapham South Station,51.45286,-0.15029,bus,"690, G1",490000052SA
 Clapham South Station,51.45301,-0.14843,bus,"690, G1",490000052SB
-Clapham South Underground Station,51.452654,51.452654,tube,northern,940GZZLUCPS
+Clapham South Underground Station,51.452654,-0.14255,tube,northern,940GZZLUCPS
 Clapton Common,51.57127,-0.06597,bus,"253, 254, N253",490005339N
 Clapton Common,51.57132,-0.06563,bus,"253, 254, N253",490005339S
 Clapton Girls' Academy,51.55285,-0.05284,bus,"106, 253, 254, 55, N253, N55",490009195S1
@@ -4439,7 +4439,7 @@ Cockfosters Road,51.64535,-0.14483,bus,"299, 307, N91",490005455E
 Cockfosters Station,51.65148,-0.14994,bus,"299, 384, N91",490000053N2
 Cockfosters Station,51.65151,-0.14976,bus,"298, 299, 384, 699, N91",490000053B
 Cockfosters Station,51.65168,-0.1501,bus,"298, 699",490000053A
-Cockfosters Underground Station,51.65152,51.65152,tube,piccadilly,940GZZLUCKS
+Cockfosters Underground Station,51.65152,-0.14994,tube,piccadilly,940GZZLUCKS
 Cockmannings Road,51.38253,0.1217,bus,R4,490020262E
 Cockmannings Road,51.38292,0.11987,bus,R4,490020261E
 Coin Street,51.50622,-0.10939,bus,"381, N343, N381",490005457W
@@ -4529,7 +4529,7 @@ Colliers Wood Station,51.41765,-0.17795,bus,"152, 200, 655",490015237B
 Colliers Wood Station,51.41772,-0.17813,bus,"152, 200, 470, 655",490005223C
 Colliers Wood Station,51.41856,-0.17771,bus,"131, 219, 57, N155",490000055A
 Colliers Wood Station,51.41889,-0.17755,bus,"131, 219, 57, N155",490000055D
-Colliers Wood Underground Station,51.41816,51.41816,tube,northern,940GZZLUCSD
+Colliers Wood Underground Station,51.41816,-0.178025,tube,northern,940GZZLUCSD
 Colliers Wood United Football Club,51.42023,-0.25183,bus,265,490014648S
 Colliers Wood United Football Club,51.42126,-0.25334,bus,265,490014648N
 Collingham Road / Sainsbury's,51.49477,-0.18736,bus,"74, N74, N97",490010779E
@@ -4852,7 +4852,7 @@ Covelees Wall,51.51209,0.06474,bus,"262, 376, 678, N551",490006389E
 Covelees Wall,51.5121,0.06338,bus,"262, 376, 678, N551",490G00006389
 Covent Garden Market East Side,51.48234,-0.12751,bus,"196, 452, 77, 87, N87",490005678N
 Covent Garden Market East Side,51.48347,-0.12698,bus,"196, 452, 77, 87, N87",490005678X
-Covent Garden Underground Station,51.513093,51.513093,tube,piccadilly,940GZZLUCGN
+Covent Garden Underground Station,51.513093,0.06756,tube,piccadilly,940GZZLUCGN
 Coventry Cross Estate,51.52222,-0.01046,bus,D8,490005679N
 Coventry Road,51.56292,0.06776,bus,"123, 128, 145, 150, 167, 179, 296, 364, 366, 396, 462, 667, 677, 679",490013311OB
 Coventry Road,51.56327,0.06756,bus,"128, 145, 150, 366, 679",490013311OA
@@ -5101,7 +5101,7 @@ Cross Way,51.54228,-0.23683,bus,"206, 226",49003192HB
 Crossbow Road,51.61214,0.10811,bus,362,490016629W
 Crossbow Road,51.61247,0.10774,bus,362,490016629E
 Crossharbour Asda,51.4945,-0.01381,bus,"135, 277, D6, D8, N277",490008507N2
-Crossharbour DLR Station,51.495728,51.495728,dlr,dlr,940GZZDLCLA
+Crossharbour DLR Station,51.495728,-0.01397,dlr,dlr,940GZZDLCLA
 Crossharbour Station,51.49584,-0.01397,bus,"135, D6, D8",490002025B
 Crossharbour Station,51.496,-0.01428,bus,"135, D6, D8",490002025A
 Crossness Road,51.52507,0.10416,bus,unknown,490005811W
@@ -5169,7 +5169,7 @@ Croxdale Road,51.660197,-0.284308,bus,292,210021003370
 Croxdale Road,51.660563,-0.284714,bus,292,210021003440
 Croxley Green,51.40879,0.10638,bus,"B14, R1, R11",490005849W
 Croxley Green,51.40902,0.1081,bus,"B14, R11",490005849E
-Croxley Underground Station,51.647044,51.647044,tube,metropolitan,940GZZLUCXY
+Croxley Underground Station,51.647044,0.10724,tube,metropolitan,940GZZLUCXY
 Croxted Close,51.44813,-0.09801,bus,"201, 3, N3",490005850N
 Croxted Road / Thurlow Park Road,51.44069,-0.09283,bus,"201, 3, N3",490013657N
 Croxted Road / Thurlow Park Road,51.44157,-0.09309,bus,"201, 3, N3",490013657S
@@ -5230,7 +5230,7 @@ Crystal Palace Park Road,51.42631,-0.06924,bus,"122, 227, 450",490005872W
 Crystal Palace Park Road,51.42635,-0.07235,bus,"122, 227, 450",490005872E
 Crystal Palace Park Road / Westwood Hill,51.42564,-0.06911,bus,227,490014535W
 Crystal Palace Pk Rd / Charleville Cir,51.42548,-0.06833,bus,227,490014535S2
-Crystal Palace Rail Station,51.418109,51.418109,overground,windrush,910GCRYSTLP
+Crystal Palace Rail Station,51.418109,-0.07595,overground,windrush,910GCRYSTLP
 Crystal Palace Road,51.45073,-0.07633,bus,"176, 185, 40",490005874N
 Crystal Palace Road,51.4508,-0.07595,bus,"176, 185, 40",490005874S
 Crystal Palace Road,51.45474,-0.07184,bus,P13,490005875W
@@ -5307,12 +5307,12 @@ Curzon Crescent,51.52761,0.09573,bus,"EL1, EL2",490005911E
 Curzon Crescent,51.54546,-0.25231,bus,"260, 266, N266",490005257N
 Curzon Crescent,51.54549,-0.25197,bus,"260, 266, N266",490005302S
 Custom House,51.51006,0.02524,elizabeth-line,elizabeth,490001079Z
-Custom House (for ExCel) DLR Station,51.509716,51.509716,dlr,dlr,940GZZDLCUS
+Custom House (for ExCel) DLR Station,51.509716,0.025355,dlr,dlr,940GZZDLCUS
 Custom House Station,51.50986,0.02522,bus,"147, 304, 474, N551",490015080C
 Custom House Station,51.50998,0.02517,bus,"147, 474, N551",490015080D
 Custom House Station,51.51003,0.02547,bus,304,490001079ZZ
 Cutty Sark,51.481675,-0.010802,bus,DLR,HUBCUT
-Cutty Sark (for Maritime Greenwich) DLR Station,51.481671,51.481671,dlr,dlr,940GZZDLCUT
+Cutty Sark (for Maritime Greenwich) DLR Station,51.481671,-0.009666,dlr,dlr,940GZZDLCUT
 Cygnet Avenue,51.45051,-0.3995,bus,H26,490012369E
 Cypress Road,51.40749,-0.08003,bus,410,490005914S
 Cypress Road,51.40877,-0.0813,bus,410,490005914N
@@ -5474,7 +5474,7 @@ Deansway,51.62416,-0.08127,bus,"217, 231, 616, 617",490006010S
 Deansway,51.62548,-0.0811,bus,"217, 231, 616, 617",490006010N
 Dearsley Road,51.65101,-0.05678,bus,"217, 317",490003544N
 Dearsley Road,51.65111,-0.05658,bus,"217, 317",490003544S
-Debden Underground Station,51.645386,51.645386,tube,central,940GZZLUDBN
+Debden Underground Station,51.645386,0.11872,tube,central,940GZZLUDBN
 Deepdene Avenue,51.237641,-0.323783,bus,465,400G4408114A
 Deepdene Avenue Road,51.237641,-0.323783,bus,465,40004408114A
 Deepdene Road,51.46158,-0.09171,bus,"42, 468, 68, N68",490013027S
@@ -5519,7 +5519,7 @@ Denmark Hill / Camberwell Green,51.47265,-0.09325,bus,"345, 35, 40, 42, 45",4900
 Denmark Hill / Camberwell Green,51.47306,-0.09329,bus,"148, 176, 185, 468, 484, 68, N68",490004687S
 Denmark Hill / Camberwell Green,51.47322,-0.09305,bus,"148, 176, 185, 345, 35, 40, 42, 45, 468, 484, 68, N68",490004687Q
 Denmark Hill / Camberwell Green,51.47357,-0.09295,bus,"148, 176, 185, 40, 484",490004687P
-Denmark Hill Rail Station,51.468203,51.468203,overground,windrush,910GDENMRKH
+Denmark Hill Rail Station,51.468203,-0.093,overground,windrush,910GDENMRKH
 Denmark Hill Station,51.46757,-0.09027,bus,"176, 185, 40, 484",490001083H2
 Denmark Hill Station,51.46808,-0.0888,bus,"176, 185, 40, 484",490001083H7
 Denmark Street,51.51434,-0.1298,bus,"14, 176, 19, 24, 29, 38, N19, N20, N279, N29, N38, N41, N5",490004695A
@@ -5536,7 +5536,7 @@ Deptford Bridge,51.47445,-0.02231,bus,"177, 53, N53, N89",490002029W
 Deptford Bridge,51.47461,-0.02287,bus,453,490002029S
 Deptford Bridge,51.4755,-0.02325,bus,47,490002029N
 Deptford Bridge,51.47557,-0.02352,bus,47,490002029P
-Deptford Bridge DLR Station,51.474215,51.474215,dlr,dlr,940GZZDLDEP
+Deptford Bridge DLR Station,51.474215,-0.02627,dlr,dlr,940GZZDLDEP
 Deptford Bridge Station,51.47442,-0.02319,bus,"177, 453, 53, N53, N89",490002029T
 Deptford Church Street / Creek Road,51.48007,-0.02296,bus,47,490005733J
 Deptford Fire Station,51.48534,-0.03433,bus,"188, 199, 47, N1, N199",490006049N
@@ -5572,7 +5572,7 @@ Devon Close,51.31858,-0.08634,bus,"407, 434",490006064N
 Devon Close,51.31913,-0.08697,bus,"407, 434",490006064S
 Devons Road,51.51759,-0.02258,bus,309,490004211S
 Devons Road,51.51834,-0.02318,bus,309,490004211N
-Devons Road DLR Station,51.522667,51.522667,dlr,dlr,940GZZDLDEV
+Devons Road DLR Station,51.522667,-0.0228799999999999,dlr,dlr,940GZZDLDEV
 Devons Road Station,51.52281,-0.01852,bus,108,490002030S
 Devons Road Station,51.52287,-0.01578,bus,323,490002030B
 Devons Road Station,51.52294,-0.01638,bus,323,490002030A
@@ -5925,7 +5925,7 @@ Ealing / Christchurch,51.5129,-0.3053,bus,"207, 483, E8, N207, N83, SL8",4900052
 Ealing / Christchurch,51.51313,-0.30588,bus,"207, 483, 65, E8, N207, N65, N83, SL8",490G000455
 Ealing Broadway,51.514993,-0.302131,bus,"112, 207, 226, 483, 65, Central, District, E1, E10, E8, E9, Elizabeth line, Great Western Railway, N207, N65, N83, SL8",HUBEAL
 Ealing Broadway Centre,51.51218,-0.30472,bus,"65, N65",490006291L
-Ealing Broadway Rail Station,51.514841,51.514841,elizabeth-line,elizabeth,910GEALINGB
+Ealing Broadway Rail Station,51.514841,-0.305635,elizabeth-line,elizabeth,910GEALINGB
 Ealing Broadway Station,51.51397,-0.29975,bus,"207, 483, E11, N207, N7, N83, SL8",490000062K
 Ealing Broadway Station,51.514,-0.30298,bus,"207, 483, E11, N207, N83, SL8",490000062H
 Ealing Broadway Station,51.51416,-0.30091,bus,unknown,490000062RB
@@ -5934,12 +5934,12 @@ Ealing Broadway Station,51.51519,-0.30227,bus,"65, N65",490000062C
 Ealing Broadway Station,51.51548,-0.30228,bus,unknown,490000062X2
 Ealing Broadway Station   / Haven Green,51.51565,-0.30225,bus,"297, E7, E8, E9, N11, N7",490000062A
 Ealing Broadway Stn   / Haven Green,51.51576,-0.30443,bus,"297, E1, E10, E2, E9, N7",490007913Z4
-Ealing Broadway Underground Station,51.515017,51.515017,tube,central,940GZZLUEBY
-Ealing Broadway Underground Station,51.515017,51.515017,tube,district,940GZZLUEBY
+Ealing Broadway Underground Station,51.515017,-0.305635,tube,central,940GZZLUEBY
+Ealing Broadway Underground Station,51.515017,-0.305635,tube,district,940GZZLUEBY
 Ealing Common Station,51.51011,-0.28744,bus,"207, N207, N7, SL8",490000063U
 Ealing Common Station,51.5107,-0.28837,bus,"207, N207, N7, SL8",490000063S
-Ealing Common Underground Station,51.51014,51.51014,tube,district,940GZZLUECM
-Ealing Common Underground Station,51.51014,51.51014,tube,piccadilly,940GZZLUECM
+Ealing Common Underground Station,51.51014,-0.305635,tube,district,940GZZLUECM
+Ealing Common Underground Station,51.51014,-0.305635,tube,piccadilly,940GZZLUECM
 Ealing Hospital,51.50773,-0.34698,bus,"483, N83",490015231T
 Ealing Hospital,51.50791,-0.34701,bus,92,490006292S
 Ealing Hospital,51.50792,-0.3468,bus,"483, N83",490006292U
@@ -6026,7 +6026,7 @@ East Finchley Station,51.58659,-0.16425,bus,"102, 143, 234, 603, H3, N20, N271",
 East Finchley Station,51.58667,-0.16401,bus,"143, 234, 263, 603, N20, N271",490000067G
 East Finchley Station,51.58689,-0.16405,bus,"102, H3",490000067H
 East Finchley Station,51.58699,-0.16428,bus,263,490000067F
-East Finchley Underground Station,51.587131,51.587131,tube,northern,940GZZLUEFY
+East Finchley Underground Station,51.587131,-0.091261,tube,northern,940GZZLUEFY
 East Hall Lane,51.50894,0.20957,bus,372,490006357W
 East Hall Lane,51.50904,0.20973,bus,372,490006357E
 East Ham / Central Park,51.52739,0.05636,bus,"101, 115, 304, 474, 58",490006358S1
@@ -6036,8 +6036,8 @@ East Ham Fire Station,51.52365,0.05755,bus,"101, 300, 304, 474",490006359S
 East Ham Manor Way,51.5121,0.06338,bus,"262, 376, 678, N551",490006389W
 East Ham Station,51.53938,0.05105,bus,"101, 147, 238, 300, 304, 325, 376, 474",490000068B
 East Ham Station,51.54003,0.05097,bus,"101, 147, 238, 300, 304, 325, 376, 474",490000068A
-East Ham Underground Station,51.538948,51.538948,tube,district,940GZZLUEHM
-East Ham Underground Station,51.538948,51.538948,tube,hammersmith-city,940GZZLUEHM
+East Ham Underground Station,51.538948,-0.091261,tube,district,940GZZLUEHM
+East Ham Underground Station,51.538948,-0.091261,tube,hammersmith-city,940GZZLUEHM
 East Hill,51.30422,0.02063,bus,R2,490023099Z
 East Hill / Alma Road,51.45771,-0.18552,bus,"156, 170, 337, 37, 39, 639, 670, 87, N87",490003259E
 East India DLR Station,51.509359,-0.002326,dlr,"D3, DLR, N550",940GZZDLEIN
@@ -6190,7 +6190,7 @@ Edgware Road,51.5195,-0.16581,bus,"205, 27, N205",490015043Z
 Edgware Road,51.51977,-0.17173,bus,"16, 18, N18",490010713F
 Edgware Road,51.52013,-0.17151,bus,"18, N18",490010713E
 Edgware Road,51.59321,-0.25777,bus,303,490014986W
-Edgware Road (Bakerloo) Underground Station,51.520299,51.520299,tube,bakerloo,940GZZLUERB
+Edgware Road (Bakerloo) Underground Station,51.520299,-0.27311,tube,bakerloo,940GZZLUERB
 Edgware Road (Circle Line) Underground Station,51.519858,-0.167832,tube,"18, 205, 23, 27, 36, 6, Circle, District, Hammersmith & City, N18, N205, N27, N32",940GZZLUERC
 Edgware Road / Praed Street,51.51889,-0.16842,bus,"23, 36, 6, N32",490013046M
 Edgware Road / the Hyde,51.58405,-0.24948,bus,"183, 653, 683, 83, N83",490014469E
@@ -6241,7 +6241,7 @@ Edmonton Green Bus Station,51.62539,-0.05858,bus,"192, 616, W6, W8",490009983E
 Edmonton Green Bus Station,51.62541,-0.059,bus,"102, 144, 149, 259, 279, 349, 491, N279",490009983G
 Edmonton Green Bus Station,51.62546,-0.05798,bus,"102, 144, 149, 191, 192, 259, 279, 349, 491, 616, N279, W6, W8",490009983C
 Edmonton Green Bus Station,51.62548,-0.0582,bus,unknown,490009983D
-Edmonton Green Rail Station,51.624929,51.624929,overground,weaver,910GEDMNGRN
+Edmonton Green Rail Station,51.624929,-0.06074,overground,weaver,910GEDMNGRN
 Edmonton Green Shopping Centre,51.62504,-0.05591,bus,192,490012727Z
 Edmonton Green Shopping Centre,51.62534,-0.05589,bus,192,490012727Y
 Edmonton Green Station,51.62451,-0.06074,bus,"102, 144, 149, 192, 259, 279, 349, 491, N279",490006442R
@@ -6296,8 +6296,8 @@ Elephant & Castle Station,51.49396,-0.10072,bus,"133, 136, 333, 343, 35, 415, N1
 Elephant & Castle Station,51.49421,-0.10075,bus,"155, 196, 40, P5",490000073T
 Elephant & Castle Station,51.49424,-0.10049,bus,"196, 333, N133",490000073P
 Elephant & Castle Station,51.49447,-0.10085,bus,"12, 148, 171, 176, 468, 68, N155, N171, N68, N89",490000073V
-Elephant & Castle Underground Station,51.494536,51.494536,tube,bakerloo,940GZZLUEAC
-Elephant & Castle Underground Station,51.494536,51.494536,tube,northern,940GZZLUEAC
+Elephant & Castle Underground Station,51.494536,-0.099855,tube,bakerloo,940GZZLUEAC
+Elephant & Castle Underground Station,51.494536,-0.099855,tube,northern,940GZZLUEAC
 Elephant Park,51.49232,-0.09593,bus,"136, 343, N343",490000715Z
 Elephant Park,51.49235,-0.09653,bus,"136, 343, N343",490008122Y
 Elers Road,51.49874,-0.43526,bus,"696, U4",490006469S
@@ -6486,19 +6486,19 @@ Elthorne Road,51.56449,-0.1319,bus,"17, 263, 43, N271, N41",490006550P
 Elton Avenue,51.64693,-0.19577,bus,326,490002253Z
 Elverson Road,51.46814,-0.0185,bus,"225, 47",490002035B
 Elverson Road,51.46871,-0.01903,bus,"225, 47",490002035A
-Elverson Road DLR Station,51.469074,51.469074,dlr,dlr,940GZZDLELV
+Elverson Road DLR Station,51.469074,-0.0187649999999999,dlr,dlr,940GZZDLELV
 Elwick Road,51.506341,0.293388,bus,370,1590008801
 Elwick Road,51.507414,0.292779,bus,370,1590008901
 Elwill Way,51.39757,-0.01607,bus,unknown,490006554N
 Embankment Station,51.50811,-0.12134,bus,unknown,490006557C
 Embankment Station,51.50843,-0.12085,bus,unknown,49000655740C
 Embankment Station,51.50886,-0.12042,bus,unknown,490000075F
-Embankment Underground Station,51.507058,51.507058,tube,bakerloo,940GZZLUEMB
-Embankment Underground Station,51.507058,51.507058,tube,circle,940GZZLUEMB
-Embankment Underground Station,51.507058,51.507058,tube,district,940GZZLUEMB
-Embankment Underground Station,51.507058,51.507058,tube,northern,940GZZLUEMB
+Embankment Underground Station,51.507058,-0.12085,tube,bakerloo,940GZZLUEMB
+Embankment Underground Station,51.507058,-0.12085,tube,circle,940GZZLUEMB
+Embankment Underground Station,51.507058,-0.12085,tube,district,940GZZLUEMB
+Embankment Underground Station,51.507058,-0.12085,tube,northern,940GZZLUEMB
 Emerson Park Academy,51.5697,0.24275,bus,"650, 656",490006560W
-Emerson Park Rail Station,51.568642,51.568642,overground,liberty,910GEMRSPKH
+Emerson Park Rail Station,51.568642,0.21974,overground,liberty,910GEMRSPKH
 Emerson Park Station,51.56826,0.21926,bus,"165, 256, 370, 646",490001098A
 Emerson Park Station,51.56965,0.21974,bus,"165, 256, 370, 646",490001098B
 Emmanuel Church,51.60803,-0.41582,bus,"282, H11",490006563N
@@ -6583,7 +6583,7 @@ Envoy Avenue,51.46865,-0.42187,bus,"285, 423, 90",490017652E
 Envoy Avenue,51.46912,-0.41958,bus,"285, 423, 90",490017652W
 Epping Forest College,51.646936,0.079473,bus,397,1500420021Y0
 Epping Forest College,51.646948,0.077739,bus,397,150042002100
-Epping Underground Station,51.69368,51.69368,tube,central,940GZZLUEPG
+Epping Underground Station,51.69368,0.078606,tube,central,940GZZLUEPG
 Epsom Clock Tower,51.333261,-0.268835,bus,166,40004406038B
 Epsom Clock Tower,51.333272,-0.268404,bus,"293, 406, 418, S2",40004406038A
 Epsom College,51.326517,-0.244143,bus,166,40004406054A
@@ -6700,9 +6700,9 @@ Euston Bus Station,51.52761,-0.13229,bus,"253, 68, N20, N253, N5",490000077G
 Euston Road,51.5252,-0.14411,bus,88,490019675D
 Euston Square Station,51.5256,-0.13685,bus,"18, 205, 30, 390, 73, N20, N205, N253, N5, N73",490000078Q
 Euston Square Station,51.52569,-0.13534,bus,"18, 205, 30, 390, 73, N20, N205, N253, N5, N73",490000078P
-Euston Square Underground Station,51.525604,51.525604,tube,circle,940GZZLUESQ
-Euston Square Underground Station,51.525604,51.525604,tube,hammersmith-city,940GZZLUESQ
-Euston Square Underground Station,51.525604,51.525604,tube,metropolitan,940GZZLUESQ
+Euston Square Underground Station,51.525604,-0.132822,tube,circle,940GZZLUESQ
+Euston Square Underground Station,51.525604,-0.132822,tube,hammersmith-city,940GZZLUESQ
+Euston Square Underground Station,51.525604,-0.132822,tube,metropolitan,940GZZLUESQ
 Euston Station,51.52651,-0.13289,bus,"18, 205, 30, 390, 73, N205, N73",490000077H
 Euston Station,51.52653,-0.13301,bus,unknown,490000077W
 Euston Station,51.52666,-0.1329,bus,18,490000077AZ
@@ -6711,8 +6711,8 @@ Euston Station,51.52773,-0.1326,bus,"390, 91, N20, N5, N91",490000077C
 Euston Station,51.52777,-0.1317,bus,"18, 68",490000077E
 Euston Station,51.52861,-0.13213,bus,"1, 253, N20, N253, N5",490000077B
 Euston Station  / Eversholt Street,51.52918,-0.13294,bus,"1, 253, N20, N253, N5",490000077A
-Euston Underground Station,51.528186,51.528186,tube,northern,940GZZLUEUS
-Euston Underground Station,51.528186,51.528186,tube,victoria,940GZZLUEUS
+Euston Underground Station,51.528186,-0.132822,tube,northern,940GZZLUEUS
+Euston Underground Station,51.528186,-0.132822,tube,victoria,940GZZLUEUS
 Eveline Road,51.41027,-0.16209,bus,"127, 152, 201, 264, 270, 280, 355, N44, S1",490013565N1
 Eveline Road,51.41061,-0.16182,bus,"264, 270, 280, 355, N44, S1",490013565N2
 Eveline Road,51.41188,-0.16141,bus,"264, 270, 280, 355, N44, S1",490013565S2
@@ -6834,7 +6834,7 @@ Fairlop Outdoor Activity Centre,51.59871,0.10312,bus,462,490000382Z
 Fairlop Outdoor Activity Centre,51.59895,0.1033,bus,462,490000382Y
 Fairlop Station,51.5953,0.09087,bus,462,490000079W
 Fairlop Station,51.5955,0.09124,bus,462,490000079E
-Fairlop Underground Station,51.595618,51.595618,tube,central,940GZZLUFLP
+Fairlop Underground Station,51.595618,0.09602,tube,central,940GZZLUFLP
 Fairlop Waters,51.59659,0.09547,bus,462,490000381Y
 Fairlop Waters,51.59703,0.09657,bus,462,490000381Z
 Fairplay Farm,51.55061,0.29459,bus,unknown,490005385S
@@ -6934,9 +6934,9 @@ Farringdon,51.520214,-0.105054,elizabeth-line,"Circle, Elizabeth line, Hammersmi
 Farringdon Road,51.52218,-0.10774,bus,"243, 55, N55",490001988X
 Farringdon Station,51.52024,-0.10582,bus,"341, 40, 63, N63",490000080B
 Farringdon Station,51.52042,-0.10604,bus,"341, 40, 63, N63",490000080A
-Farringdon Underground Station,51.520252,51.520252,tube,circle,940GZZLUFCN
-Farringdon Underground Station,51.520252,51.520252,tube,hammersmith-city,940GZZLUFCN
-Farringdon Underground Station,51.520252,51.520252,tube,metropolitan,940GZZLUFCN
+Farringdon Underground Station,51.520252,-0.10593,tube,circle,940GZZLUFCN
+Farringdon Underground Station,51.520252,-0.10593,tube,hammersmith-city,940GZZLUFCN
+Farringdon Underground Station,51.520252,-0.10593,tube,metropolitan,940GZZLUFCN
 Farthing Street,51.34247,0.0511,bus,146,490006764W
 Farthing Street,51.34377,0.05026,bus,146,490006764S
 Farthing Way,51.32209,-0.13498,bus,404,490002189Z
@@ -7111,14 +7111,14 @@ Finsbury Park Station,51.56564,-0.10701,bus,W7,490000083A
 Finsbury Park Station,51.56566,-0.10702,bus,210,490000083C
 Finsbury Park Station,51.56571,-0.10705,bus,W3,490000083B
 Finsbury Park Station,51.56603,-0.10777,bus,unknown,490000083E
-Finsbury Park Underground Station,51.564158,51.564158,tube,piccadilly,940GZZLUFPK
-Finsbury Park Underground Station,51.564158,51.564158,tube,victoria,940GZZLUFPK
+Finsbury Park Underground Station,51.564158,-0.10483,tube,piccadilly,940GZZLUFPK
+Finsbury Park Underground Station,51.564158,-0.10483,tube,victoria,940GZZLUFPK
 Finsbury Square,51.52002,-0.08738,bus,"214, 43",490015209C
 Finsbury Square,51.52057,-0.08576,bus,unknown,490006850G
 Finsbury Square,51.52069,-0.08577,bus,"141, 21, 214, 43, 76, N271",490006850H
 Finsbury Square,51.52123,-0.08726,bus,"141, 21, 76, N271",490015209D
 Finsbury Square,51.52159,-0.08605,bus,unknown,490006850F
-Finsbury Square / Moorgate,0.0,0.0,bus,unknown,490G000282
+Finsbury Square / Moorgate,51.52009,-0.08733,bus,unknown,490G000282
 Finsbury Square / Moorgate,51.52009,-0.08733,bus,"141, 153, 21, 43, 76",490015209K
 Finsbury Square / Moorgate,51.52033,-0.08617,bus,unknown,490006850J
 Finsbury Street,51.52065,-0.08838,bus,153,490003831E
@@ -7823,8 +7823,8 @@ Goldhawk Road / Young's Corner,51.49341,-0.24676,bus,"110, 190, 267, H91, N11, N
 Goldhawk Road / Young's Corner,51.49342,-0.24654,bus,237,490007273L
 Goldhawk Road Station,51.50223,-0.22721,bus,"237, 94",490000088Z
 Goldhawk Road Station,51.50235,-0.22734,bus,"237, 94",490000088Y
-Goldhawk Road Underground Station,51.502005,51.502005,tube,circle,940GZZLUGHK
-Goldhawk Road Underground Station,51.502005,51.502005,tube,hammersmith-city,940GZZLUGHK
+Goldhawk Road Underground Station,51.502005,-0.23775,tube,circle,940GZZLUGHK
+Goldhawk Road Underground Station,51.502005,-0.23775,tube,hammersmith-city,940GZZLUGHK
 Goldie Leigh,51.47779,0.11725,bus,B11,490001975Z
 Goldingham Avenue,51.654837,0.085734,bus,"20, 677",150042005005
 Goldingham Avenue,51.654954,0.085739,bus,"20, 677",150042005006
@@ -7840,7 +7840,7 @@ Golfside Close,51.62278,-0.16623,bus,"234, 383, 634",490007280S
 Golfside Close,51.62299,-0.16667,bus,"234, 383, 634",490007280N
 Goodge Street Station,51.52059,-0.13423,bus,"24, 29, 390, 73, N20, N253, N279, N29, N5, N73",490005084Z
 Goodge Street Station,51.52113,-0.13505,bus,"24, 29, 390, 73, N20, N253, N279, N29, N5, N73",490000089A
-Goodge Street Underground Station,51.520599,51.520599,tube,northern,940GZZLUGDG
+Goodge Street Underground Station,51.520599,-0.1346399999999999,tube,northern,940GZZLUGDG
 Goodinge Health Centre,51.54782,-0.12562,bus,393,490018537W
 Goodmayes High Road,51.56739,0.11106,bus,"364, EL3",490007286B
 Goodmayes High Road,51.56784,0.11074,bus,"364, EL3",490007286A
@@ -8041,9 +8041,9 @@ Great Portland St Stn  / Euston Rd,51.52402,-0.14291,bus,"18, 205, 27, 30, N205,
 Great Portland Street Station,51.52297,-0.14392,bus,"453, 88, N18",490000091E
 Great Portland Street Station,51.52346,-0.14431,bus,"453, 88, N18",490000091F
 Great Portland Street Station,51.5239,-0.14387,bus,"18, 205, 27, 30, N205, N27",490000091G
-Great Portland Street Underground Station,51.52384,51.52384,tube,circle,940GZZLUGPS
-Great Portland Street Underground Station,51.52384,51.52384,tube,hammersmith-city,940GZZLUGPS
-Great Portland Street Underground Station,51.52384,51.52384,tube,metropolitan,940GZZLUGPS
+Great Portland Street Underground Station,51.52384,-0.14339,tube,circle,940GZZLUGPS
+Great Portland Street Underground Station,51.52384,-0.14339,tube,hammersmith-city,940GZZLUGPS
+Great Portland Street Underground Station,51.52384,-0.14339,tube,metropolitan,940GZZLUGPS
 Great Smith Street / Westminster Abbey,51.49869,-0.13144,bus,"11, 148, 24, 26, N11, N136, N26, N44",490014495V
 Great South West Road,51.45319,-0.44548,bus,203,490007415W
 Great South West Road,51.45341,-0.44595,bus,203,490007415E
@@ -8175,7 +8175,7 @@ Greenford Road Roundabout,51.53577,-0.3454,bus,95,490009855W
 Greenford Station,51.54201,-0.34617,bus,"105, 92, E6",490015198B
 Greenford Station,51.54268,-0.34484,bus,"105, E6",490000092W1
 Greenford Station   / Rockware Avenue,51.5432,-0.34547,bus,395,490013515KK
-Greenford Underground Station,51.542424,51.542424,tube,central,940GZZLUGFD
+Greenford Underground Station,51.542424,-0.345789,tube,central,940GZZLUGFD
 Greenhill Way,51.58187,-0.33402,bus,182,490007458P
 Greenhill Way,51.58189,-0.33626,bus,182,490007458K
 Greenhill Way / Lycee International,51.56689,-0.2725,bus,206,490015753N
@@ -8205,7 +8205,7 @@ Greenways,51.370565,-0.342394,bus,K3,40004406966A
 Greenwich,51.478235,-0.014096,bus,"DLR, Southeastern, Thameslink",HUBGNW
 Greenwich Church Street,51.4812,-0.00998,bus,"188, 199, N1, N199",490007507B
 Greenwich Community College,51.4909,0.08027,bus,"122, 177, 180, 244, 301, 380, 422, 469, 472, 672, 96, 99, N1",490014924D
-Greenwich DLR Station,51.478087,51.478087,dlr,dlr,940GZZDLGRE
+Greenwich DLR Station,51.478087,-0.00843,dlr,dlr,940GZZDLGRE
 Greenwich Heights,51.4746,0.04794,bus,"161, 178, 244, 386, 486",490007509S
 Greenwich Heights,51.47476,0.04807,bus,"161, 178, 244, 386, 486",490007509N
 Greenwich High Road,51.47694,-0.0158,bus,unknown,490020094W
@@ -8359,13 +8359,13 @@ Gunnersbury Avenue,51.51177,-0.29253,bus,"483, N83",490007603S
 Gunnersbury Avenue,51.5122,-0.29219,bus,"483, N83",490007603T
 Gunnersbury Park,51.50091,-0.28894,bus,"E3, N11",490010522W
 Gunnersbury Park,51.50091,-0.28805,bus,"E3, N11",490010522E
-Gunnersbury Rail Station,51.491678,51.491678,overground,mildmay,910GGNRSBRY
+Gunnersbury Rail Station,51.491678,-0.2837199999999999,overground,mildmay,910GGNRSBRY
 Gunnersbury Station,51.49049,-0.27385,bus,440,490000094D
 Gunnersbury Station,51.49059,-0.27426,bus,440,490000094C
 Gunnersbury Station,51.49227,-0.27518,bus,"110, 237, 267, H91, N9",490000094A
 Gunnersbury Station,51.4924,-0.27399,bus,unknown,490000094Z
 Gunnersbury Station,51.49244,-0.27578,bus,"110, 237, 267, 440, H91, N9",490000094B
-Gunnersbury Underground Station,51.491803,51.491803,tube,district,940GZZLUGBY
+Gunnersbury Underground Station,51.491803,-0.2837199999999999,tube,district,940GZZLUGBY
 Gunter Grove,51.48169,-0.1842,bus,"328, C3, N31",490007608N
 Gunter Grove,51.60414,-0.26034,bus,"114, 204, 251, 605, N5",490006942W
 Gunter Grove,51.60434,-0.25993,bus,"114, 204, 251, 605, N5",490007607E
@@ -8492,7 +8492,7 @@ Hainault Street,51.55932,0.07601,bus,"147, 169, 25, 425, 86, N25, N86, W19",4900
 Hainault Street,51.55959,0.07589,bus,"123, 147, 167, 169, 179, 25, 364, 425, 462, 667, 677, N25, W19",490007657S
 Hainault Street,51.55967,0.07696,bus,"123, 128, 145, 147, 150, 167, 169, 179, 25, 364, 366, 425, 462, 667, 677, 679, 86, N25, N86, W19",490007657W
 Hainault Street,51.55988,0.07732,bus,"128, 145, 150, 366, 679, 86, N86",490007657T
-Hainault Underground Station,51.603659,51.603659,tube,central,940GZZLUHLT
+Hainault Underground Station,51.603659,0.10257,tube,central,940GZZLUHLT
 Halbutt Street,51.54563,0.14796,bus,"173, 174, 175, 673",490007661S
 Halbutt Street,51.5465,0.14771,bus,"173, 174, 175",490007661N
 Halcot Avenue,51.45276,0.15199,bus,"132, 229, 492, 601, 669, B12, N21",490007662S
@@ -8581,10 +8581,10 @@ Hamlet Road,51.41576,-0.07192,bus,"157, 249, 358, 410, 432, N3",490007700S
 Hammelton Road,51.40972,0.01421,bus,"126, 261, 314, 336, 638",490015515B
 Hammelton Road,51.41038,0.01435,bus,"126, 261, 314, 336, 638",490015515S
 Hammersmith,51.492304,-0.223619,bus,"110, 190, 211, 218, 220, 267, 27, 283, 295, 306, 533, 72, 9, Circle, District, H91, Hammersmith & City, N11, N266, N27, N33, N72, N9, N97, Piccadilly",HUBHMS
-Hammersmith (Dist&Picc Line) Underground Station,51.4923,51.4923,tube,district,940GZZLUHSD
-Hammersmith (Dist&Picc Line) Underground Station,51.4923,51.4923,tube,piccadilly,940GZZLUHSD
-Hammersmith (H&C Line) Underground Station,51.49331,51.49331,tube,circle,940GZZLUHSC
-Hammersmith (H&C Line) Underground Station,51.49331,51.49331,tube,hammersmith-city,940GZZLUHSC
+Hammersmith (Dist&Picc Line) Underground Station,51.4923,-0.22388,tube,district,940GZZLUHSD
+Hammersmith (Dist&Picc Line) Underground Station,51.4923,-0.22388,tube,piccadilly,940GZZLUHSD
+Hammersmith (H&C Line) Underground Station,51.49331,-0.22388,tube,circle,940GZZLUHSC
+Hammersmith (H&C Line) Underground Station,51.49331,-0.22388,tube,hammersmith-city,940GZZLUHSC
 Hammersmith Bridge / North Side,51.48965,-0.22904,bus,unknown,490018948N
 Hammersmith Bridge Road,51.49023,-0.22848,bus,72,490007703ZN
 Hammersmith Bridge Road,51.49158,-0.22663,bus,"533, 72",490007703K
@@ -8789,12 +8789,12 @@ Harlesden Jubilee Clock,51.53481,-0.24816,bus,"220, 228, 266, 487, N266",4900078
 Harlesden Jubilee Clock,51.53603,-0.24771,bus,"18, 220, 228, 260, 266, 487, N18, N266",490007803X
 Harlesden Police Station,51.54109,-0.2544,bus,"260, 266, N266",490007804N
 Harlesden Police Station,51.54121,-0.25434,bus,"260, 266, N266",490007804S
-Harlesden Rail Station,51.536289,51.536289,overground,lioness,910GHARLSDN
+Harlesden Rail Station,51.536289,-0.2544,overground,lioness,910GHARLSDN
 Harlesden Road,51.53668,-0.24035,bus,187,490014969L
 Harlesden Road,51.53675,-0.2402,bus,187,490014969K
 Harlesden Station,51.53627,-0.25699,bus,"187, 224, 226, 228, 260, 487",490000100S
 Harlesden Station,51.53631,-0.25712,bus,"187, 224, 226, 228, 260, 487",490000100N
-Harlesden Underground Station,51.53631,51.53631,tube,bakerloo,940GZZLUHSN
+Harlesden Underground Station,51.53631,-0.2544,tube,bakerloo,940GZZLUHSN
 Harley Gardens,51.36055,0.08486,bus,R4,490016102W1
 Harley Gardens,51.36273,0.08416,bus,R4,490016102E1
 Harley Street,51.52317,-0.14957,bus,"18, 205, 27, 30, 453, N18, N205, N27",490007807W
@@ -8826,7 +8826,7 @@ Harold Wood Library,51.59469,0.23589,bus,496,490003498W
 Harold Wood Library,51.5947,0.23556,bus,496,490003498E
 Harold Wood Neighbourhood Centre,51.5895,0.23418,bus,346,490007590W
 Harold Wood Neighbourhood Centre,51.58973,0.23442,bus,346,490007590E
-Harold Wood Rail Station,51.592766,51.592766,elizabeth-line,elizabeth,910GHRLDWOD
+Harold Wood Rail Station,51.592766,0.23247,elizabeth-line,elizabeth,910GHRLDWOD
 Harold Wood Station,51.59299,0.23288,bus,"256, 294, 346, 496, 646, 656",490001137B
 Harold Wood Station,51.59345,0.23347,bus,496,490001137C
 Harold Wood Station,51.59386,0.23247,bus,"256, 294, 646, 656",490001137A
@@ -8859,12 +8859,12 @@ Harrodian School,51.48103,-0.24735,bus,533,490007840S
 Harrods,51.49943,-0.16423,bus,"14, 74, C1, N74, N97",490007841KB
 Harrods,51.49946,-0.16367,bus,"14, 74, C1, N74, N97",490007841KA
 Harrow & Wealdstone,51.592216,-0.334896,bus,"Bakerloo, Lioness, West Midlands Trains",HUBHRW
-Harrow & Wealdstone Rail Station,51.592169,51.592169,overground,lioness,910GHROW
+Harrow & Wealdstone Rail Station,51.592169,-0.33404,overground,lioness,910GHROW
 Harrow & Wealdstone Station,51.59229,-0.33408,bus,"140, 182, 186, 258, 340, 640, N140, N18",490015249N
 Harrow & Wealdstone Station,51.59231,-0.33392,bus,"140, 182, 186, 258, 340, 640, N140, N18",490015249M
 Harrow & Wealdstone Station,51.59313,-0.33592,bus,H9,490000101J
 Harrow & Wealdstone Station,51.59322,-0.33575,bus,H10,490000101K
-Harrow & Wealdstone Underground Station,51.592268,51.592268,tube,bakerloo,940GZZLUHAW
+Harrow & Wealdstone Underground Station,51.592268,-0.33404,tube,bakerloo,940GZZLUHAW
 Harrow Arts Centre,51.6088,-0.36361,bus,"H12, H14",490007842W
 Harrow Arts Centre,51.60916,-0.36413,bus,"H12, H14",490007842E
 Harrow Bus Station,51.57996,-0.33741,bus,"114, 140, 182, 183, 186, 223, 258, 340, 395, 483, 640, H10, H11, H14, H17, H18, H19, H9, N140, N18, SL10, SL9",490007845A
@@ -8926,7 +8926,7 @@ Harrow Weald Bus Garage,51.60641,-0.33993,bus,"H12, H19",490007870S
 Harrow-on-the-Hill,51.579197,-0.337226,bus,"114, 140, 182, 183, 186, 223, 258, 340, 395, 483, 640, Chiltern Railways, H10, H11, H14, H17, H18, H19, H9, Metropolitan, N140, N18, SL10, SL9",HUBHOH
 Harrow-On-The-Hill Station,51.57798,-0.33762,bus,unknown,490000102N
 Harrow-On-The-Hill Station,51.57818,-0.33748,bus,unknown,490000102S
-Harrow-on-the-Hill Underground Station,51.579195,51.579195,tube,metropolitan,940GZZLUHOH
+Harrow-on-the-Hill Underground Station,51.579195,-0.33748,tube,metropolitan,940GZZLUHOH
 Hartfield Crescent,51.36825,0.01428,bus,"246, 654, 664",490007871E
 Hartfield Crescent,51.3686,0.01273,bus,"246, 654, 664",490007871W
 Hartford Road,51.44482,0.15229,bus,"132, 229, 492, 601, 669, B12, N21",490007872J
@@ -8963,7 +8963,7 @@ Hastings Road,51.5919,-0.0856,bus,W4,490002208Z
 Hastings Road / Trinity Church,51.37855,0.04204,bus,320,490007894S
 Hatch End / Telephone Exchange,51.60739,-0.37526,bus,"H12, H14",490007896W
 Hatch End / Telephone Exchange,51.60757,-0.37498,bus,"H12, H14",490007896E
-Hatch End Rail Station,51.609417,51.609417,overground,lioness,910GHTCHEND
+Hatch End Rail Station,51.609417,-0.14841,overground,lioness,910GHTCHEND
 Hatch End Station,51.60873,-0.37007,bus,"H12, H14",490001142A
 Hatch End Station,51.60886,-0.37038,bus,"H12, H14",490001142B
 Hatch Lane,51.61875,0.00373,bus,"212, 357, 657",490005174W
@@ -8981,7 +8981,7 @@ Hatton Cross Station,51.46688,-0.42352,bus,unknown,490000103B
 Hatton Cross Station,51.46692,-0.4232,bus,"203, H25, H26",490000103Z
 Hatton Cross Station,51.46699,-0.42333,bus,unknown,490000103A
 Hatton Cross Station,51.46734,-0.42285,bus,"285, 423, 90, H25, H26, SL7",490000103F
-Hatton Cross Underground Station,51.466747,51.466747,tube,piccadilly,940GZZLUHNX
+Hatton Cross Underground Station,51.466747,-0.4233449999999999,tube,piccadilly,940GZZLUHNX
 Hatton Garden,51.52197,-0.10891,bus,"243, 55, N55",490007901D
 Hatton Garden,51.52213,-0.10857,bus,"243, 55, N55",490007901E
 Hatton Green,51.46375,-0.41613,bus,"285, 490, 90",490007902N
@@ -9258,8 +9258,8 @@ Heathrow Terminal 4,51.45936,-0.44551,bus,unknown,490000104GG
 Heathrow Terminal 4,51.45944,-0.44537,bus,unknown,490000104HH
 Heathrow Terminal 4,51.45947,-0.446,bus,unknown,490000104AA
 Heathrow Terminal 4,51.45958,-0.44584,bus,unknown,490000104BB
-Heathrow Terminal 4 Rail Station,51.458268,51.458268,elizabeth-line,elizabeth,910GHTRWTM4
-Heathrow Terminal 4 Underground Station,51.458524,51.458524,tube,piccadilly,940GZZLUHR4
+Heathrow Terminal 4 Rail Station,51.458268,-0.453306,elizabeth-line,elizabeth,910GHTRWTM4
+Heathrow Terminal 4 Underground Station,51.458524,-0.453306,tube,piccadilly,940GZZLUHR4
 Heathrow Terminal 5,51.46999,-0.48971,bus,unknown,490016430ZZ
 Heathrow Terminal 5,51.47042,-0.48951,bus,unknown,49001643016
 Heathrow Terminal 5,51.47043,-0.48984,bus,unknown,49001643017
@@ -9285,11 +9285,11 @@ Heathrow Terminal 5,51.47297,-0.48989,bus,unknown,49001643029
 Heathrow Terminal 5,51.47307,-0.48987,bus,unknown,49001643030
 Heathrow Terminal 5,51.47314,-0.48967,bus,"350, 423, 482, 490, N9",4900164301H
 Heathrow Terminal 5,51.47316,-0.48985,bus,unknown,49001643031
-Heathrow Terminal 5 Rail Station,51.470053,51.470053,elizabeth-line,elizabeth,910GHTRWTM5
-Heathrow Terminal 5 Underground Station,51.470052,51.470052,tube,piccadilly,940GZZLUHR5
+Heathrow Terminal 5 Rail Station,51.470053,-0.453306,elizabeth-line,elizabeth,910GHTRWTM5
+Heathrow Terminal 5 Underground Station,51.470052,-0.453306,tube,piccadilly,940GZZLUHR5
 Heathrow Terminals 2 & 3,51.471618,-0.454037,bus,"105, 111, 278, 285, A10, Elizabeth line, Heathrow Express, N140, N9, Piccadilly, SL7, SL9, U3",HUBH13
-Heathrow Terminals 2 & 3 Rail Station,51.471987,51.471987,elizabeth-line,elizabeth,910GHTRWAPT
-Heathrow Terminals 2 & 3 Underground Station,51.471235,51.471235,tube,piccadilly,940GZZLUHRC
+Heathrow Terminals 2 & 3 Rail Station,51.471987,-0.453306,elizabeth-line,elizabeth,910GHTRWAPT
+Heathrow Terminals 2 & 3 Underground Station,51.471235,-0.453306,tube,piccadilly,940GZZLUHRC
 Heathview Road,51.39853,-0.11643,bus,"109, 60, N109",490008030S
 Heathville Road,51.57303,-0.12063,bus,W7,490008031CK
 Heathway,51.54017,0.14682,bus,145,490008035F
@@ -9435,7 +9435,7 @@ Heron Flight Avenue,51.54026,0.2021,bus,252,490013382N
 Heron Flight Avenue,51.54052,0.20251,bus,252,490013382S
 Heron Quays,51.50234,-0.02469,bus,D8,490008097N
 Heron Quays,51.503,-0.02515,bus,D8,490008097E
-Heron Quays DLR Station,51.503379,51.503379,dlr,dlr,940GZZDLHEQ
+Heron Quays DLR Station,51.503379,0.03562,dlr,dlr,940GZZDLHEQ
 Herongate Road,51.562,0.03562,bus,"101, W19",490008095S
 Heronsgate Primary School,51.49364,0.08288,bus,"244, 380",490008098S
 Heronsgate Primary School,51.49382,0.08309,bus,"244, 380",490008098N
@@ -9555,8 +9555,8 @@ High Street Kensington Station,51.50072,-0.19425,bus,"9, N9",490000110B
 High Street Kensington Station,51.50098,-0.19341,bus,"27, 28, 328, 49, N27, N28, N31",490000110A
 High Street Kensington Station,51.50132,-0.19223,bus,"28, 328, 49, N28, N31",490000110E
 High Street Kensington Station,51.50135,-0.192,bus,"27, 9, N27, N9",490000110F
-High Street Kensington Underground Station,51.501055,51.501055,tube,circle,940GZZLUHSK
-High Street Kensington Underground Station,51.501055,51.501055,tube,district,940GZZLUHSK
+High Street Kensington Underground Station,51.501055,-0.09814,tube,circle,940GZZLUHSK
+High Street Kensington Underground Station,51.501055,-0.09814,tube,district,940GZZLUHSK
 High Street Langley,51.493543,-0.546635,bus,81,03700087
 High Street Langley,51.494118,-0.548835,bus,81,03700086
 High Street North,51.53292,0.05309,bus,"101, 115, 147, 238, 300, 304, 325, 376, 474, 5, 58, N15",490006360R
@@ -9585,12 +9585,12 @@ Highams Park Station,51.60835,-0.00021,bus,unknown,4900HGHMSPK1
 Highams Park Station,51.60845,0.0004,bus,"275, 675",490001150S1
 Highams Park Station,51.60846,-0.00071,bus,unknown,4900HGHMSPK3
 Highbury & Islington,51.546269,-0.103538,bus,"19, 21, 263, 30, 393, 4, 43, Great Northern, Mildmay, N19, N271, N277, N41, Victoria, Windrush",HUBHHY
-Highbury & Islington Rail Station,51.546177,51.546177,overground,mildmay,910GHGHI
-Highbury & Islington Rail Station,51.546177,51.546177,overground,windrush,910GHGHI
+Highbury & Islington Rail Station,51.546177,-0.09824,overground,mildmay,910GHGHI
+Highbury & Islington Rail Station,51.546177,-0.09824,overground,windrush,910GHGHI
 Highbury & Islington Station,51.5466,-0.10388,bus,unknown,490000108RR
 Highbury & Islington Station,51.54679,-0.10423,bus,"21, 263, 393, 43, N271, N41",490000108B
 Highbury & Islington Station,51.54686,-0.10466,bus,"21, 263, 393, 43, N271, N41",490000108A
-Highbury & Islington Underground Station,51.54635,51.54635,tube,victoria,940GZZLUHAI
+Highbury & Islington Underground Station,51.54635,-0.09824,tube,victoria,940GZZLUHAI
 Highbury Barn,51.55286,-0.09832,bus,"19, 236, 263, 4, N19",490008616S
 Highbury Barn,51.55294,-0.09878,bus,263,490000333Z
 Highbury Barn,51.55417,-0.09824,bus,"19, 236, 4, N19",490008616N
@@ -9816,14 +9816,14 @@ Holiday Inn,51.609827,0.267691,bus,"498, 608",150037001002
 Holiday Inn / Staybridge Suites,51.48329,-0.45979,bus,unknown,490000937Z
 Holiday Inn Express T5,51.48933,-0.53689,bus,unknown,490020166N
 Holiday Inn M4 J4 / Green Motion,51.49479,-0.45619,bus,unknown,490020168S
-Holiday Inn T5,0.0,0.0,bus,unknown,490G00020156
+Holiday Inn T5,51.609637,0.267292,bus,unknown,490G00020156
 Holland Avenue,51.41441,-0.24837,bus,57,490008282E
 Holland Avenue,51.41447,-0.2489,bus,57,490008282W
 Holland Gardens,51.49882,-0.209,bus,"49, C1",490008286N
 Holland Park,51.50759,-0.20386,bus,"148, 228, 31, 94, N207",490000113A
 Holland Park Station,51.50696,-0.20612,bus,"148, 228, 31, 94, N207",490000113G
 Holland Park Station,51.50761,-0.20484,bus,"148, 228, 31, 94, N207",490000113T
-Holland Park Underground Station,51.507143,51.507143,tube,central,940GZZLUHPK
+Holland Park Underground Station,51.507143,-0.20612,tube,central,940GZZLUHPK
 Holland Rd / Kensington Olympia Stn,51.49709,-0.20666,bus,"49, C1",490010149J
 Holland Road,51.49697,-0.2052,bus,"27, 28, 9, N27, N28, N9",490008287E
 Holland Road / Upper Addison Gardens,51.50344,-0.21523,bus,"49, C1",490013928N
@@ -9850,7 +9850,7 @@ Holloway Road,51.55834,-0.12119,bus,4,490016647E
 Holloway Road / Camden Road,51.55682,-0.11532,bus,"153, 254, 4",490008296N
 Holloway Road Station,51.55208,-0.11144,bus,"153, 21, 263, 393, 43, N271, N41",490000114Y
 Holloway Road Station,51.55289,-0.11282,bus,"153, 21, 263, 393, 43, N271, N41",490000114U
-Holloway Road Underground Station,51.552697,51.552697,tube,piccadilly,940GZZLUHWY
+Holloway Road Underground Station,51.552697,-0.12037,tube,piccadilly,940GZZLUHWY
 Holly Bush Lane,51.42137,-0.37522,bus,111,490008299N
 Holly Bush Lane,51.4218,-0.37532,bus,111,490008299S
 Holly Cottage,51.67837,-0.13069,bus,313,490008301S
@@ -9932,7 +9932,7 @@ Honey Hill,51.54778,-0.46477,bus,U2,490008333W
 Honey Hill,51.54818,-0.46323,bus,U2,490008333E
 Honeypot Lane,51.59563,-0.29546,bus,"114, 324",490008334W
 Honeypot Lane Centre,51.60576,-0.30018,bus,"79, N98",490008335N
-Honor Oak Park Rail Station,51.449989,51.449989,overground,windrush,910GHONROPK
+Honor Oak Park Rail Station,51.449989,-0.0452199999999999,overground,windrush,910GHONROPK
 Honor Oak Park Station,51.44958,-0.04578,bus,"P12, P4",490001154W
 Honor Oak Park Station,51.44959,-0.04466,bus,"P12, P4",490001154E
 Honor Oak Road,51.4404,-0.05796,bus,"176, 185, 197, 356",490008337W
@@ -9974,7 +9974,7 @@ Hornchurch Station,51.55469,0.21965,bus,"193, 252, 256, 652",490000115M
 Hornchurch Town Centre,51.56138,0.22068,bus,252,490013249N
 Hornchurch Town Centre,51.56161,0.22058,bus,"165, 193, 248, 256, 370, 372, 646",490008347G
 Hornchurch Town Centre,51.56164,0.22133,bus,"165, 193, 248, 252, 256, 370, 372, 646, 652",490015350F
-Hornchurch Underground Station,51.554093,51.554093,tube,district,940GZZLUHCH
+Hornchurch Underground Station,51.554093,0.21921,tube,district,940GZZLUHCH
 Hornet Way,51.5119,0.08083,bus,"262, 366, N551",490018760S
 Hornet Way,51.51275,0.08091,bus,"262, 366, N551",490018760N
 Horniman Drive,51.44456,-0.05506,bus,P4,490008349S
@@ -10060,7 +10060,7 @@ Hounslow West Station,51.47294,-0.38566,bus,"203, 222, 482, 81, H32, H98, N9",49
 Hounslow West Station,51.47329,-0.38708,bus,unknown,490000118Z
 Hounslow West Stn  / Vicarage Farm Rd,51.473469,-0.386544,bus,unknown,490G000053
 Hounslow West Stn  / Vicarage Farm Rd,51.47368,-0.38662,bus,"482, H32, H91",490000118D
-Hounslow West Underground Station,51.473469,51.473469,tube,piccadilly,940GZZLUHWT
+Hounslow West Underground Station,51.473469,-0.364585,tube,piccadilly,940GZZLUHWT
 Houston Road,51.43372,-0.03666,bus,"181, 202",490008404N
 Houston Road,51.43421,-0.03579,bus,"181, 202",490008404S
 Hoveton Road,51.50896,0.11639,bus,"177, 229, 401, 472, 601, 602, 669, N1",490008405W
@@ -10160,7 +10160,7 @@ Hyde Park Corner Station,51.50297,-0.15391,bus,52,490000119S
 Hyde Park Corner Station,51.50302,-0.15351,bus,"14, 19, 22, 9, N19, N22, N9, N97",490000119T
 Hyde Park Corner Station,51.50304,-0.15316,bus,"137, 74, N137, N74",490000119W
 HYDE PARK CORNER STATION (W1),51.50278,-0.15313,bus,unknown,490000119L
-Hyde Park Corner Underground Station,51.503035,51.503035,tube,piccadilly,940GZZLUHPC
+Hyde Park Corner Underground Station,51.503035,-0.153635,tube,piccadilly,940GZZLUHPC
 Hyde Park Street,51.51246,-0.16693,bus,"148, 274, 94, N207",490008446W
 Hyde Park Street,51.51257,-0.16703,bus,"148, 274, 94, N207",490008446E
 Hydethorpe Road,51.44551,-0.13691,bus,255,490020143G
@@ -10218,7 +10218,7 @@ Imperial War Museum,51.49703,-0.10929,bus,"344, 360",490015351E
 Imperial Way,51.35898,-0.11703,bus,"119, 289, 439",490008475S
 Imperial Way,51.35919,-0.11728,bus,"119, 289, 439",490008475N
 Imperial Wharf,51.47555,-0.183084,bus,"306, C3, Mildmay",HUBIMP
-Imperial Wharf Rail Station,51.474949,51.474949,overground,mildmay,910GCSEAH
+Imperial Wharf Rail Station,51.474949,-0.148145,overground,mildmay,910GCSEAH
 Imperial Wharf Station  / Imperial Road,51.47323,-0.1839,bus,"306, C3",490005070N
 Imperial Wharf Stn  / Chelsea Harbour,51.47448,-0.1852,bus,306,490016613S
 Imperial Wharf Stn  / Chelsea Harbour,51.47555,-0.18309,bus,C3,490005071E
@@ -10268,7 +10268,7 @@ Irving Grove,51.46964,-0.11987,bus,"196, 2, 333, 345, N2",490008500S
 Isabella Plantation,51.43076,-0.27813,bus,unknown,490001999Z
 Isis Street,51.43891,-0.18677,bus,"270, 44, 77, N44",490008502S
 Isis Street,51.4395,-0.18696,bus,"270, 44, 77, N44",490008502N
-Island Gardens DLR Station,51.487811,51.487811,dlr,dlr,940GZZDLISL
+Island Gardens DLR Station,51.487811,-0.01541,dlr,dlr,940GZZDLISL
 Island Gardens Station,51.48778,-0.00971,bus,"135, D7, N550",490002048Z
 Island Gardens Station,51.4879,-0.00995,bus,"135, D7, N550",490002048X
 Islay Gardens,51.46152,-0.39228,bus,"116, 117, 235, 635",490008506W
@@ -10300,7 +10300,7 @@ Iveagh Avenue,51.53488,-0.28243,bus,"112, 224",490008521N
 Iveagh Avenue,51.53709,-0.28376,bus,112,490008521W
 Iveagh Avenue,51.53785,-0.28284,bus,112,490008521E
 Iver Lane,51.52963,-0.48379,bus,unknown,490016045W
-Iver Rail Station,51.508503,51.508503,elizabeth-line,elizabeth,910GIVER
+Iver Rail Station,51.508503,-0.0826649999999999,elizabeth-line,elizabeth,910GIVER
 Ivers Way,51.35081,-0.02316,bus,"130, 314",490008522E
 Ivinghoe Road,51.54656,0.11343,bus,368,490008523S
 Ivinghoe Road,51.54677,0.11331,bus,368,490008523N
@@ -10512,22 +10512,22 @@ Kennington Road / Imperial War Museum,51.49563,-0.11134,bus,"159, 360, 59, N109"
 Kennington Road / Imperial War Museum,51.49597,-0.11135,bus,"3, N3",490008473F
 Kennington Station,51.48761,-0.10679,bus,"133, 155, 333, 415, N133, N155",490000121B
 Kennington Station,51.48875,-0.10543,bus,"133, 155, 333, 415, N133, N155",490000121S
-Kennington Underground Station,51.488337,51.488337,tube,northern,940GZZLUKNG
+Kennington Underground Station,51.488337,-0.11061,tube,northern,940GZZLUKNG
 Kensal Green,51.530545,-0.22505,bus,"Bakerloo, Lioness",HUBKNL
 Kensal Green Cemetery,51.52832,-0.21726,bus,"18, N18",490014700W
-Kensal Green Rail Station,51.53054,51.53054,overground,lioness,910GKENSLG
+Kensal Green Rail Station,51.53054,-0.21915,overground,lioness,910GKENSLG
 Kensal Green Station,51.52984,-0.22353,bus,"18, N18",490000122W
 Kensal Green Station,51.53014,-0.2248,bus,"18, N18",490000122E
-Kensal Green Underground Station,51.530539,51.530539,tube,bakerloo,940GZZLUKSL
+Kensal Green Underground Station,51.530539,-0.21915,tube,bakerloo,940GZZLUKSL
 Kensal House,51.52549,-0.21462,bus,"228, 23, 295, 316, 452, 52, 70",490004737S
 Kensal House,51.52554,-0.21487,bus,"228, 23, 295, 316, 452, 52, 70",490004737R
-Kensal Rise Rail Station,51.534554,51.534554,overground,mildmay,910GKENR
+Kensal Rise Rail Station,51.534554,-0.21915,overground,mildmay,910GKENR
 Kensal Rise Station,51.5337,-0.21915,bus,"187, 28, 302, 52, 6",490001161N
 Kensal Rise Station,51.53394,-0.21917,bus,302,490001161S
 Kensal Rise Station,51.5344,-0.21905,bus,"187, 302, 52, 6",490001161S1
 Kensington (Olympia),51.496156,-0.210502,bus,"28, 306, 49, C1, District, Mildmay, N28",HUBKPA
-Kensington (Olympia) Rail Station,51.497899,51.497899,overground,mildmay,910GKENOLYM
-Kensington (Olympia) Underground Station,51.497624,51.497624,tube,district,940GZZLUKOY
+Kensington (Olympia) Rail Station,51.497899,-0.192115,overground,mildmay,910GKENOLYM
+Kensington (Olympia) Underground Station,51.497624,-0.192115,tube,district,940GZZLUKOY
 Kensington Avenue,51.41125,-0.10875,bus,"250, N250",490008650S
 Kensington Avenue,51.41181,-0.11008,bus,"250, N250",490008650N
 Kensington Church Street / Holland St,51.5031,-0.19165,bus,"27, 28, 328, 452, 52, 70, N27, N28, N31",490008288H
@@ -10569,7 +10569,7 @@ Kentish Town Road / Prince of Wales Road,51.54593,-0.14166,bus,"134, 214, 46, 88
 Kentish Town Station,51.55021,-0.14071,bus,"134, 214, 393, 88, N20",490000123A
 Kentish Town Station,51.55092,-0.13906,bus,393,490000123E
 Kentish Town Station,51.55137,-0.14098,bus,"134, 214, 88, N20",490000123B
-Kentish Town Underground Station,51.550312,51.550312,tube,northern,940GZZLUKSH
+Kentish Town Underground Station,51.550312,-0.14115,tube,northern,940GZZLUKSH
 Kentish Town West Rail Station,51.546548,-0.146655,overground,"134, 214, 24, 393, 46, 88, Mildmay, N20",910GKNTSHTW
 Kentish Town West Station,51.54626,-0.14762,bus,"393, 46",490001165C
 Kentish Town West Station,51.54643,-0.14652,bus,unknown,4900KNTSHTW1
@@ -10586,14 +10586,14 @@ Kenton Library,51.59313,-0.31041,bus,114,490008669E
 Kenton Library,51.59336,-0.31131,bus,H19,490005230N
 Kenton Park Avenue,51.58718,-0.30288,bus,183,490013499N
 Kenton Park Avenue,51.58725,-0.30369,bus,183,490013499E
-Kenton Rail Station,51.581802,51.581802,overground,lioness,910GKTON
+Kenton Rail Station,51.581802,-0.308448,overground,lioness,910GKTON
 Kenton Road,51.57533,-0.3334,bus,"258, H17",490008672S
 Kenton Road,51.58718,-0.30728,bus,"114, H19, H9",490008670N
 Kenton Road / Kenton Lane,51.5868,-0.30616,bus,"183, SL10",490008667E
 Kenton Road / Well Street,51.54491,-0.04502,bus,"26, 30, N26",490015363W
 Kenton Station,51.58109,-0.31859,bus,"114, 183, 223, H10, H18, SL10",490000124II
 Kenton Station,51.58136,-0.31844,bus,"114, 183, 223, H19, H9, SL10",490000124HH
-Kenton Underground Station,51.581756,51.581756,tube,bakerloo,940GZZLUKEN
+Kenton Underground Station,51.581756,-0.308448,tube,bakerloo,940GZZLUKEN
 Kenwood Avenue,51.64439,-0.12385,bus,377,490023118S
 Kenwood Avenue,51.64504,-0.12335,bus,377,490023119
 Kenwood Drive,51.39929,-0.01347,bus,"162, 358, N3",490008674W
@@ -10624,14 +10624,14 @@ Kew Gardens,51.477069,-0.285148,bus,"65, District, Mildmay, N65",HUBKWG
 Kew Gardens / Lion Gate,51.47104,-0.29352,bus,"65, N65",490008692N
 Kew Gardens / Lion Gate,51.47127,-0.29328,bus,"65, N65",490008692S
 Kew Gardens Hotel,51.47613,-0.28679,bus,110,490008694C
-Kew Gardens Rail Station,51.477073,51.477073,overground,mildmay,910GKEWGRDN
+Kew Gardens Rail Station,51.477073,-0.28684,overground,mildmay,910GKEWGRDN
 Kew Gardens Road,51.47989,-0.28763,bus,110,490008695G
 Kew Gardens Road,51.48001,-0.28918,bus,"65, N65",490008695H
 Kew Gardens Road,51.48062,-0.28884,bus,"110, 65, N65",490008695J
 Kew Gardens Station,51.47662,-0.28664,bus,110,490000125B
 Kew Gardens Station,51.47716,-0.28599,bus,unknown,490000125A
 Kew Gardens Station,51.47781,-0.28684,bus,110,490000125D
-Kew Gardens Underground Station,51.477058,51.477058,tube,district,940GZZLUKWG
+Kew Gardens Underground Station,51.477058,-0.28684,tube,district,940GZZLUKWG
 Kew Green,51.48486,-0.28728,bus,"110, 65, N65",490008696M
 Kew Pier,51.486419,-0.286431,bus,"110, 65, N65",930GKEW
 Kew Pier,51.48646,-0.28662,bus,unknown,4900KEW0
@@ -10675,7 +10675,7 @@ Kilburn Park Station,51.5355,-0.19327,bus,"206, 31, 316, 32, 328, 632, N28, N31"
 Kilburn Park Underground Station,51.534979,-0.194232,tube,"316, 6, Bakerloo",940GZZLUKPK
 Kilburn Station,51.54638,-0.20326,bus,"16, 189, 316, 32, 632, N32",490000126A
 Kilburn Station,51.54742,-0.20412,bus,"16, 189, 316, 32, 632, N32",490000126B
-Kilburn Underground Station,51.547183,51.547183,tube,jubilee,940GZZLUKBN
+Kilburn Underground Station,51.547183,-0.19369,tube,jubilee,940GZZLUKBN
 Killick Street,51.53388,-0.11819,bus,"17, 259, 91, N91",490008714S
 Killick Street,51.53404,-0.11818,bus,"17, 259, 91, N91",490008714N
 Kilmorie Road,51.43672,-0.04012,bus,75,490008716E
@@ -10761,12 +10761,12 @@ King's Cross & St Pancras International,51.531683,-0.123538,bus,"17, 205, 214, 2
 King's Cross / Caledonian Road,51.53084,-0.12052,bus,"205, 214, 30, 476, 73, N205, N73",490001172X
 King's Cross Road,51.53111,-0.11856,bus,"205, 214, 30, 476, 73, N205, N73",490001172K
 King's Cross Road / Pentonville Road,51.53052,-0.11768,bus,"17, 259, 46, 63, N63",490010929L
-King's Cross St. Pancras Underground Station,51.530663,51.530663,tube,circle,940GZZLUKSX
-King's Cross St. Pancras Underground Station,51.530663,51.530663,tube,hammersmith-city,940GZZLUKSX
-King's Cross St. Pancras Underground Station,51.530663,51.530663,tube,metropolitan,940GZZLUKSX
-King's Cross St. Pancras Underground Station,51.530663,51.530663,tube,northern,940GZZLUKSX
-King's Cross St. Pancras Underground Station,51.530663,51.530663,tube,piccadilly,940GZZLUKSX
-King's Cross St. Pancras Underground Station,51.530663,51.530663,tube,victoria,940GZZLUKSX
+King's Cross St. Pancras Underground Station,51.530663,-0.12308,tube,circle,940GZZLUKSX
+King's Cross St. Pancras Underground Station,51.530663,-0.12308,tube,hammersmith-city,940GZZLUKSX
+King's Cross St. Pancras Underground Station,51.530663,-0.12308,tube,metropolitan,940GZZLUKSX
+King's Cross St. Pancras Underground Station,51.530663,-0.12308,tube,northern,940GZZLUKSX
+King's Cross St. Pancras Underground Station,51.530663,-0.12308,tube,piccadilly,940GZZLUKSX
+King's Cross St. Pancras Underground Station,51.530663,-0.12308,tube,victoria,940GZZLUKSX
 King's Cross Station,51.5304,-0.12308,bus,"46, 63, N63",490000129D
 King's Cross Station,51.53047,-0.12169,bus,"205, 30, 390, 73, 91, N205, N73, N91",490000129R
 King's Cross Station,51.5305,-0.12307,bus,"205, 214, 30, 73, N205, N73",490000129E
@@ -11056,7 +11056,7 @@ Lambeth North Station,51.49793,-0.11219,bus,"159, 59, N109",490000132G
 Lambeth North Station,51.49811,-0.11197,bus,"159, 3, 59, N109, N3",490000132A
 Lambeth North Station,51.49853,-0.11114,bus,"12, 148, 453, 53, N155, N53",490000132C
 Lambeth North Station,51.49856,-0.11182,bus,"12, 148, 453, 53, N155, N53",490000132B
-Lambeth North Underground Station,51.498808,51.498808,tube,bakerloo,940GZZLULBN
+Lambeth North Underground Station,51.498808,-0.1197749999999999,tube,bakerloo,940GZZLULBN
 Lambeth Palace,51.4944,-0.11997,bus,344,490008917W
 Lambeth Palace,51.49475,-0.11958,bus,unknown,490008917E2
 Lambeth Palace,51.49481,-0.11934,bus,"344, 77, C10",490008917E1
@@ -11097,13 +11097,13 @@ Lancaster Gate Station,51.5116,-0.17523,bus,"148, 94, N207",490000133B
 Lancaster Gate Station,51.5118,-0.17526,bus,"148, 94, N207",490000133Z
 Lancaster Gate Station,51.51213,-0.17603,bus,274,490000133A
 Lancaster Gate Station,51.51259,-0.17591,bus,unknown,490000133N
-Lancaster Gate Underground Station,51.511723,51.511723,tube,central,940GZZLULGT
+Lancaster Gate Underground Station,51.511723,-0.140425,tube,central,940GZZLULGT
 Lancaster Place,51.51045,-0.11872,bus,"1, 139, 172, 176, 188, 243, 341, 59, 68, 76, N1, N171, N343, N68, SL6",490008932T
 Lancaster Place / Somerset House,51.51054,-0.11844,bus,"139, 176, N343",490020255S
 Lancaster Road,51.40396,-0.07588,bus,410,490014226N
 Lancaster Road,51.40412,-0.07558,bus,410,490014226S
 Lancaster Road,51.64344,-0.16884,bus,"326, 383, 626",490008933E
-Lancaster Terrace,0.0,0.0,bus,unknown,490G000043
+Lancaster Terrace,51.51264,-0.1757,bus,unknown,490G000043
 Lancaster Terrace,51.51264,-0.1757,bus,unknown,490000133N1
 Landstead Road,51.47669,0.08457,bus,291,490008935S
 Lanercost Road,51.44058,-0.11375,bus,P13,490005235N
@@ -11116,7 +11116,7 @@ Langdale Gardens,51.68083,-0.03899,bus,"217, 317, 327",490008941W
 Langdale Road,51.39719,-0.11562,bus,"109, 60, N109",490008939S
 Langdale Road,51.39767,-0.11608,bus,"109, 60, N109",490008942N
 Langdon Crescent,51.53028,0.06396,bus,300,490006884S
-Langdon Park DLR Station,51.515172,51.515172,dlr,dlr,940GZZDLLDP
+Langdon Park DLR Station,51.515172,-0.01474,dlr,dlr,940GZZDLLDP
 Langdon Park Road,51.57167,-0.1393,bus,"134, 234, 43, N20",490008943S
 Langdon Park Road,51.57215,-0.14006,bus,"134, 234, 43, N20",490008943N
 Langdon Park Station,51.51441,-0.0147,bus,108,490005608N
@@ -11130,7 +11130,7 @@ Langland Gardens,51.37679,-0.03638,bus,"119, 198",490008946W
 Langland Gardens,51.3769,-0.03797,bus,"119, 198",490008946E
 Langland Gardens,51.55151,-0.18501,bus,"113, 13, N113",490008947N
 Langland Gardens,51.55178,-0.18516,bus,"113, 13, N113",490008947S
-Langley (Berks) Rail Station,51.508062,51.508062,elizabeth-line,elizabeth,910GLANGLEY
+Langley (Berks) Rail Station,51.508062,-0.19043,elizabeth-line,elizabeth,910GLANGLEY
 Langley Avenue,51.37586,-0.22261,bus,"293, 93, S3",490008948S1
 Langley Avenue,51.37644,-0.22225,bus,"293, 93, S3",490008948N1
 Langley Avenue,51.38574,-0.30053,bus,"465, 671, 71, K1, K4, N65",490008949S
@@ -11198,8 +11198,8 @@ Latham Road,51.45283,0.14278,bus,"269, 602, B13",490008989S
 Latham Road,51.4532,0.14283,bus,"269, 602, B13",490008989N
 Latimer Road Station,51.51305,-0.21787,bus,"295, 316",490000134B
 Latimer Road Station,51.51399,-0.21763,bus,"295, 316",490000134A
-Latimer Road Underground Station,51.513389,51.513389,tube,circle,940GZZLULRD
-Latimer Road Underground Station,51.513389,51.513389,tube,hammersmith-city,940GZZLULRD
+Latimer Road Underground Station,51.513389,-0.26782725,tube,circle,940GZZLULRD
+Latimer Road Underground Station,51.513389,-0.26782725,tube,hammersmith-city,940GZZLULRD
 Latymer Court,51.49321,-0.21838,bus,"27, 306, 9, N27, N9",490008990Q
 Latymer Court,51.49336,-0.21862,bus,"27, 306, 9, N27, N9",490008990J
 Latymer Upper School / Playing Fields,51.51666,-0.22888,bus,"272, 283, 7, 70, 72, N7, N72",490014869W
@@ -11343,8 +11343,8 @@ Leicester Avenue,51.39813,-0.12868,bus,"152, 255",490017360E
 Leicester Square Station,51.51055,-0.12847,bus,"176, 24, 29, N20, N279, N29, N41, N5",490000135A
 Leicester Square Station,51.51091,-0.12842,bus,unknown,490000135S
 Leicester Square Station,51.51159,-0.12833,bus,"176, 24, 29, N20, N279, N29, N41, N5",490000135B
-Leicester Square Underground Station,51.511386,51.511386,tube,northern,940GZZLULSQ
-Leicester Square Underground Station,51.511386,51.511386,tube,piccadilly,940GZZLULSQ
+Leicester Square Underground Station,51.511386,-0.12847,tube,northern,940GZZLULSQ
+Leicester Square Underground Station,51.511386,-0.12847,tube,piccadilly,940GZZLULSQ
 Leigham Court Rd / Streatham Hill Stn,51.43769,-0.12662,bus,"417, N137",490001281G
 Leigham Court Rd / Streatham Hill Stn,51.43773,-0.12643,bus,"417, N137",490001281H
 Leigham Court Road,51.4233,-0.1135,bus,"249, 417, N137",490G00009077
@@ -11408,7 +11408,7 @@ Lewisham Clock Tower,51.46266,-0.0103,bus,"108, 261, 273",490009106P
 Lewisham College,51.4683,-0.02556,bus,"136, 21, 321, 436, N136, N21",490009107W
 Lewisham College / Ashmead School,51.4683,-0.02556,bus,"136, 21, 321, 436, N136, N21",490G000635
 Lewisham College / Ashmead School,51.46869,-0.02593,bus,"136, 21, 321, 436, N136, N21",490009107E
-Lewisham DLR Station,51.464665,51.464665,dlr,dlr,940GZZDLLEW
+Lewisham DLR Station,51.464665,-0.01374,dlr,dlr,940GZZDLLEW
 Lewisham Fire Station,51.4567,-0.0139,bus,"136, 185, 199, 208, 47, 54, 75, N136, N199",490009111HN
 Lewisham Fire Station,51.45707,-0.01391,bus,"185, 208, 284, 484, 75, P4",490009111HK
 Lewisham Fire Station,51.4572,-0.01362,bus,"122, 136, 185, 199, 208, 284, 47, 484, 54, 75, N136, N199, P4",490009111HL
@@ -11466,7 +11466,7 @@ Leyton Way,51.57416,0.01457,bus,"257, N55",490009143W
 Leytonstone Fire Station,51.56034,0.00786,bus,"257, N8, W13",490009141N
 Leytonstone Fire Station,51.56034,0.00806,bus,"257, N8, W13",490009141S
 Leytonstone High Road / Thatched House,51.55325,0.00538,bus,"257, 339, N8",490009140S
-Leytonstone High Road Rail Station,51.563554,51.563554,overground,suffragette,910GLYTNSHR
+Leytonstone High Road Rail Station,51.563554,0.0081269999999999,overground,suffragette,910GLYTNSHR
 Leytonstone High Road Station,51.56276,0.00926,bus,"257, N8, W13",490001179N
 Leytonstone High Road Station,51.56366,0.00984,bus,"257, N8, W13",490001179S
 Leytonstone Station,51.56875,0.00905,bus,"145, 66",490000137T
@@ -11504,7 +11504,7 @@ Lime Close,51.3977,0.04601,bus,"336, R7",490010544N
 Lime Tree Avenue,51.31607,-0.13963,bus,404,490002174Y
 Lime Tree Avenue,51.31628,-0.13965,bus,404,490002174Z
 Limehouse,51.512469,-0.039799,bus,"DLR, c2c",HUBLHS
-Limehouse DLR Station,51.512393,51.512393,dlr,dlr,940GZZDLLIM
+Limehouse DLR Station,51.512393,-0.0353995,dlr,dlr,940GZZDLLIM
 Limehouse Police Station,51.511,-0.02714,bus,"135, 277, D3, D7, N277, N550",490009159S
 Limehouse Police Station,51.51108,-0.02764,bus,"135, D3, N550",490014484N
 Limehouse Station,51.51272,-0.04052,bus,"115, 135, 15, D3, N15, N550, N551",490001180W
@@ -11629,10 +11629,10 @@ Liverpool Street Station,51.51801,-0.08274,bus,"153, 344, N133",490000138N
 Liverpool Street Station,51.51807,-0.07997,bus,"149, 42, N242",490000138E
 Liverpool Street Station,51.5182,-0.08251,bus,unknown,490000138C
 Liverpool Street Station,51.51853,-0.07977,bus,unknown,490000138N1
-Liverpool Street Underground Station,51.517372,51.517372,tube,central,940GZZLULVT
-Liverpool Street Underground Station,51.517372,51.517372,tube,circle,940GZZLULVT
-Liverpool Street Underground Station,51.517372,51.517372,tube,hammersmith-city,940GZZLULVT
-Liverpool Street Underground Station,51.517372,51.517372,tube,metropolitan,940GZZLULVT
+Liverpool Street Underground Station,51.517372,-0.08255,tube,central,940GZZLULVT
+Liverpool Street Underground Station,51.517372,-0.08255,tube,circle,940GZZLULVT
+Liverpool Street Underground Station,51.517372,-0.08255,tube,hammersmith-city,940GZZLULVT
+Liverpool Street Underground Station,51.517372,-0.08255,tube,metropolitan,940GZZLULVT
 Livingstone Hospital,51.442626,0.228516,bus,492,2400A060520A
 Livingstone Hospital,51.442695,0.227281,bus,492,2400A019280A
 Llanvanor Road,51.56514,-0.19643,bus,"13, 139, 245, 260, 328, 460",490009232N
@@ -11702,16 +11702,16 @@ London Bridge Station,51.50513,-0.08663,bus,"141, 43",490000139CZ
 London Bridge Station,51.50556,-0.08693,bus,"141, 149, 17, 388, 43, N21, N343",490019954S
 London Bridge Station,51.50569,-0.08588,bus,"343, 381, 47, N199, N381",490000139S
 London Bridge Station,51.50597,-0.08738,bus,"343, 381, 47, N199, N381",490000139R
-London Bridge Underground Station,51.505721,51.505721,tube,jubilee,940GZZLULNB
-London Bridge Underground Station,51.505721,51.505721,tube,northern,940GZZLULNB
+London Bridge Underground Station,51.505721,-0.102,tube,jubilee,940GZZLULNB
+London Bridge Underground Station,51.505721,-0.102,tube,northern,940GZZLULNB
 London Business School,51.5261,-0.16202,bus,"113, 13, 274, N113",490011716S
 London Central Mosque,51.52925,-0.16701,bus,"113, 13, 274, N113",490010816N
 London Central Mosque,51.52937,-0.16686,bus,"113, 13, 274, N113",490010816P
 London City Airport,51.50305,0.05097,bus,"473, 474",490009269A
 London City Airport,51.503419,0.048749,bus,DLR,HUBLCY
-London City Airport DLR Station,51.503416,51.503416,dlr,dlr,940GZZDLLCA
+London City Airport DLR Station,51.503416,-0.102,dlr,dlr,940GZZDLLCA
 London College of Communication,51.49525,-0.10206,bus,"12, 148, 344, 360, 453, 53, C10, N155, N53",490009270Z
-London Euston Rail Station,51.528136,51.528136,overground,lioness,910GEUSTON
+London Euston Rail Station,51.528136,-0.102,overground,lioness,910GEUSTON
 London Eye,51.50071,-0.11898,bus,unknown,490009275W
 London Eye,51.50087,-0.11949,bus,unknown,490009275E
 London Eye,51.50322,-0.11584,bus,unknown,490001473Z
@@ -11724,10 +11724,10 @@ London Hilton Hotel,51.50494,-0.15221,bus,unknown,490009277N
 London Hilton Hotel,51.50509,-0.15211,bus,"13, 137, 148, 2, 23, 36, 390, 6, 74, N137, N2, N32, N74",490009277Y
 London Hilton Hotel,51.50537,-0.15089,bus,"13, 148, 2, 23, 36, 390, 6, N2, N32",490009277B
 London Hilton Hotel,51.50574,-0.15124,bus,"137, 74, N137, N74",490009277S
-London Liverpool Street Rail Station,51.517991,51.517991,elizabeth-line,elizabeth,910GLIVST
-London Liverpool Street Rail Station,51.517991,51.517991,overground,weaver,910GLIVST
+London Liverpool Street Rail Station,51.517991,-0.102,elizabeth-line,elizabeth,910GLIVST
+London Liverpool Street Rail Station,51.517991,-0.102,overground,weaver,910GLIVST
 London Museum of Water and Steam,51.48855,-0.29033,bus,"237, 267, 65, N65, N9",490008690E
-London Paddington Rail Station,51.515996,51.515996,elizabeth-line,elizabeth,910GPADTON
+London Paddington Rail Station,51.515996,-0.102,elizabeth-line,elizabeth,910GPADTON
 London Road,51.434674,-0.505049,bus,"117, 290",400G4402124A
 London Road,51.441648,-0.474057,bus,216,40004402017E
 London Road,51.44215,-0.473911,bus,216,40004402017C
@@ -11894,7 +11894,7 @@ Loseberry Road,51.363115,-0.349156,bus,K3,40004405150A
 Lothair Road,51.5032,-0.307,bus,"65, N65",490012789N
 Lots Road,51.47874,-0.18463,bus,C3,490019613N
 Lots Road,51.4789,-0.18458,bus,C3,490019613S
-Lots Road / Chelsea Harbour Drive,0.0,0.0,bus,unknown,490G000027
+Lots Road / Chelsea Harbour Drive,51.47459,-0.18579,bus,unknown,490G000027
 Lough Road,51.54885,-0.11336,bus,153,490009377N
 Lough Road,51.54892,-0.11282,bus,"153, 17, 21, 259, 263, 274, 393, 43, 91, N271, N41, N91",490009377W
 Loughborough Junction Rail Station,51.466298,-0.102182,bus,"345, 35, 45, P4, Southeastern, Thameslink",910GLBGHJN
@@ -12113,7 +12113,7 @@ Maida Vale,51.52787,-0.18086,bus,"187, 46",490091524N
 Maida Vale Underground Station,51.529777,-0.185758,tube,"16, 98, Bakerloo, N32, N98",940GZZLUMVL
 Maiden Lane,51.448562,0.191298,bus,"428, 96",2400A019720A
 Maiden Lane,51.448635,0.191719,bus,"428, 96",2400A019740A
-Maidenhead Rail Station,51.518669,51.518669,elizabeth-line,elizabeth,910GMDNHEAD
+Maidenhead Rail Station,51.578837,-0.497437,elizabeth-line,elizabeth,910GMDNHEAD
 Main Avenue,51.64497,-0.06613,bus,192,490007819Z
 Main Avenue,51.64511,-0.06511,bus,192,490007819Y
 Main Road,51.305607,0.096029,bus,R10,2400102383
@@ -12347,7 +12347,7 @@ Marble Arch Station,51.51358,-0.15766,bus,"390, 7, 98, N137, N207, N7, N98",4900
 Marble Arch Station,51.51368,-0.15675,bus,"113, 13, 189, 274, 94",490000144L
 Marble Arch Station  / Edgware Road,51.51352,-0.16029,bus,"23, 36, 6, 7, 98, N32, N7, N98",490000144H
 Marble Arch Station  / Park Lane,51.51231,-0.15774,bus,"13, 137, 148, 2, 23, 36, 390, 6, 74, N137, N2, N32, N74",490000144R
-Marble Arch Underground Station,51.513424,51.513424,tube,central,940GZZLUMBA
+Marble Arch Underground Station,51.513424,-0.158445,tube,central,940GZZLUMBA
 Marble Hill Park / Crown Road,51.45169,-0.3168,bus,"33, 490, N22, N33, R68, R70",490005841T
 Marble Hill Park / Crown Road,51.4519,-0.31632,bus,"33, 490, N22, N33, R68, R70",490005841U
 Marbrook Court,51.43304,0.02909,bus,"273, 284",490009634N
@@ -12501,7 +12501,7 @@ Marylebone Station,51.52137,-0.16235,bus,"18, 205, 27, N18, N205, N27",490015502
 Marylebone Station,51.52153,-0.16037,bus,"18, 2, 205, 27, N18, N2, N205, N27",490015502P
 Marylebone Station,51.5223,-0.16276,bus,"2, N2",490000145LA
 Marylebone Station,51.52241,-0.1627,bus,"2, N2",490000145L
-Marylebone Underground Station,51.522322,51.522322,tube,bakerloo,940GZZLUMYB
+Marylebone Underground Station,51.522322,-0.161485,tube,bakerloo,940GZZLUMYB
 Maryrose Way,51.63459,-0.16719,bus,unknown,490002283ZZ
 Maryrose Way,51.63493,-0.16746,bus,unknown,490002283YY
 Masefield Avenue,51.51509,-0.36602,bus,"105, E5",490009712W
@@ -12812,7 +12812,7 @@ Mill Hill Circus / Flower Lane,51.61589,-0.24502,bus,"186, 240, 251, 605, 628, 6
 Mill Hill East Station,51.6085,-0.20961,bus,"221, 240, 382",490000147B
 Mill Hill East Station,51.60855,-0.21016,bus,"221, 240, 382",490000147A
 Mill Hill East Station,51.60865,-0.21014,bus,unknown,490000147E
-Mill Hill East Underground Station,51.608229,51.608229,tube,northern,940GZZLUMHL
+Mill Hill East Underground Station,51.608229,-0.11831,tube,northern,940GZZLUMHL
 Mill Hill Park,51.61161,-0.24132,bus,"113, N113",490009906S
 Mill Hill Park,51.61296,-0.24169,bus,"113, N113",490013916N
 Mill Hill Road,51.50606,-0.27829,bus,"70, E3, N11",490003077P
@@ -12845,7 +12845,7 @@ Millbank,51.49469,-0.12652,bus,"3, C10",490009881W
 Millbank,51.49488,-0.12639,bus,"3, C10",490009881Z
 Millbank Pier,51.492118,-0.125239,bus,"88, C10, RB1, RB2, RB6",930GMBK
 Millbank Pier.,51.49134,-0.12575,bus,unknown,4900MBK0
-Millbank Tower,0.0,0.0,bus,unknown,490G00002301
+Millbank Tower,51.49229,-0.12517,bus,unknown,490G00002301
 Millbank Tower,51.49229,-0.12517,bus,"87, N87",490008915S2
 Millbrook Avenue,51.45904,0.08402,bus,"624, 658, B16",490009882W
 Millbrook Avenue,51.45906,0.08372,bus,"624, 658, B16",490009882E
@@ -13052,19 +13052,19 @@ Monument Station,51.50946,-0.08748,bus,"133, 141, 149, 17, 21, 344, 35, 388, 43,
 Monument Station,51.5095,-0.08703,bus,"133, 141, 149, 17, 21, 35, 388, 43, 47, N133, N199, N21",490009267E
 Monument Station,51.51065,-0.08525,bus,"15, N15",490000148W
 Monument Station,51.51077,-0.08493,bus,"15, N15",490000148K
-Monument Underground Station,51.5107,51.5107,tube,circle,940GZZLUMMT
-Monument Underground Station,51.5107,51.5107,tube,district,940GZZLUMMT
+Monument Underground Station,51.5107,-0.086325,tube,circle,940GZZLUMMT
+Monument Underground Station,51.5107,-0.086325,tube,district,940GZZLUMMT
 Monza Street,51.50638,-0.0535,bus,D3,490014211E
 Moor Bridge,51.47888,-0.49864,bus,81,490010009W
 Moor Bridge,51.47912,-0.49946,bus,81,490010009E
 Moor Lane,51.36239,-0.2917,bus,"467, 671, 71, N65",490003562E
 Moor Lane,51.56163,0.26723,bus,"248, 346, 646",490010014S
 Moor Lane,51.5618,0.26699,bus,"248, 646",490010014N
-Moor Park Underground Station,51.629845,51.629845,tube,metropolitan,940GZZLUMPK
+Moor Park Underground Station,51.629845,-0.088285,tube,metropolitan,940GZZLUMPK
 Moorcroft Lane,51.52088,-0.45553,bus,U5,490003823S
 Moorcroft Lane,51.5223,-0.4565,bus,U5,490003823N
 Moorehead Way / Pinto Way,51.459782,0.022384,bus,"335, B16",490020132S
-Moorehead Way / Weigall Road,0.0,0.0,bus,unknown,490G00019673
+Moorehead Way / Weigall Road,51.459394,0.022454,bus,unknown,490G00019673
 Moorehead Way / Weigall Road,51.459394,0.022454,bus,"335, B16",490019673N
 Moores Road,51.234385,-0.326881,bus,465,40004408112A
 Moores Road,51.234417,-0.327209,bus,465,40004408112B
@@ -13075,10 +13075,10 @@ Moorfields Eye Hospital,51.52822,-0.08881,bus,"135, 141, 205, 21, 214, 43, 76, N
 Moorgate,51.518338,-0.088627,bus,"100, 76, Circle, Great Northern, Hammersmith & City, Metropolitan, Northern",HUBZMG
 Moorgate Station,51.5178,-0.0884,bus,"141, 76",490000149Z
 Moorgate Station,51.51862,-0.08817,bus,"141, 153, 21, 43, 76",490000149B
-Moorgate Underground Station,51.518176,51.518176,tube,circle,940GZZLUMGT
-Moorgate Underground Station,51.518176,51.518176,tube,hammersmith-city,940GZZLUMGT
-Moorgate Underground Station,51.518176,51.518176,tube,metropolitan,940GZZLUMGT
-Moorgate Underground Station,51.518176,51.518176,tube,northern,940GZZLUMGT
+Moorgate Underground Station,51.518176,-0.0885135,tube,circle,940GZZLUMGT
+Moorgate Underground Station,51.518176,-0.0885135,tube,hammersmith-city,940GZZLUMGT
+Moorgate Underground Station,51.518176,-0.0885135,tube,metropolitan,940GZZLUMGT
+Moorgate Underground Station,51.518176,-0.0885135,tube,northern,940GZZLUMGT
 Moorland Road,51.46141,-0.1045,bus,P5,490010013W2
 Moorland Road,51.46179,-0.10454,bus,P5,490010013E2
 Moorland Road,51.46332,-0.1067,bus,"345, 35, 45, P4",490015389W
@@ -13364,7 +13364,7 @@ Neasden Shopping Centre,51.56107,-0.25277,bus,112,490010330JJ
 Neasden Shopping Centre / Birse Crescent,51.55968,-0.25047,bus,"112, 16, 182, 232, 245, 297, 302, N98",490010162N
 Neasden Station,51.55361,-0.24965,bus,297,490000153BB
 Neasden Station,51.55437,-0.24968,bus,297,490000153AA
-Neasden Underground Station,51.553986,51.553986,tube,jubilee,940GZZLUNDN
+Neasden Underground Station,51.553986,-0.24968,tube,jubilee,940GZZLUNDN
 Neasden Underpass,51.55856,-0.25061,bus,"16, 182, 232, 245, 297, 302, N98",490010163N
 Neathouse Place,51.49446,-0.14136,bus,"185, 2, 36, N136, N2",490010164K
 Neathouse Place,51.49536,-0.14189,bus,"185, 2, 36, N136, N2",490010164L
@@ -13453,11 +13453,11 @@ New Cross Bus Garage,51.47423,-0.04467,bus,"172, 21, 453, 53, N21, N53",49001020
 New Cross Bus Garage,51.47425,-0.04526,bus,"136, 171, 177, 343, 36, 436, N136, N171, N343, N89, P13",490010204K
 New Cross Bus Garage,51.4744,-0.04489,bus,"136, 171, 172, 177, 21, 343, 36, 436, 453, 53, N136, N171, N21, N343, N53, N89, P13",490010204G
 New Cross Bus Garage,51.4744,-0.04419,bus,"136, 21, 436, N136, N21",490010204H
-New Cross ELL Rail Station,51.476344,51.476344,overground,windrush,910GNWCRELL
+New Cross ELL Rail Station,51.476344,-0.089,overground,windrush,910GNWCRELL
 New Cross Fire Station,51.47391,-0.04859,bus,"136, 171, 177, 36, 436, N136, N171, N89, P13",490010205A
 New Cross Fire Station,51.47406,-0.04848,bus,"136, 171, 177, 36, 436, N136, N171, N89, P13",490010205E
 New Cross Gate,51.475132,-0.040399,bus,"321, 343, N343, P13, Southern, Windrush",HUBNXG
-New Cross Gate Rail Station,51.475128,51.475128,overground,windrush,910GNEWXGTE
+New Cross Gate Rail Station,51.475128,-0.089,overground,windrush,910GNEWXGTE
 New Cross Gate Station,51.47487,-0.04112,bus,"136, 21, 321, 436, N136, N21",490000156M
 New Cross Gate Station,51.47505,-0.03945,bus,"136, 171, 172, 177, 21, 321, 436, 453, 53, N136, N171, N21, N53, N89",490000156O
 New Cross Gate Station,51.47522,-0.03929,bus,"171, 172, 177, 453, 53, N171, N53, N89",490000156R
@@ -13540,7 +13540,7 @@ Newbury Avenue,51.66894,-0.02681,bus,491,490011175S
 Newbury Park Station,51.5751,0.09182,bus,"296, 396, 66",490000154B
 Newbury Park Station,51.5756,0.09043,bus,"296, 396, 66",490000154A
 Newbury Park Station,51.57562,0.09071,bus,unknown,490000154S
-Newbury Park Underground Station,51.575726,51.575726,tube,central,940GZZLUNBP
+Newbury Park Underground Station,51.575726,0.03181,tube,central,940GZZLUNBP
 Newbury Road / Compass Centre,51.4811,-0.46593,bus,N9,490010197E
 Newfield Rise,51.56225,-0.23169,bus,232,490006095W
 Newham Leisure Centre,51.51844,0.03222,bus,"147, 262, 304, 376, 473",490010216S
@@ -13635,7 +13635,7 @@ Nimrod Road,51.42076,-0.15155,bus,"127, 333, 57",490010284E
 Nimrod Road,51.42081,-0.15254,bus,"127, 333, 57",490010284W
 Nine Elms Station,51.47947,-0.1287,bus,"196, 452, 77, 87, N87",490014679N
 Nine Elms Station,51.48063,-0.1278,bus,"196, 452, 77, 87, N87",490014679S
-Nine Elms Underground Station,51.479912,51.479912,tube,northern,940GZZNEUGST
+Nine Elms Underground Station,51.479912,-0.170125,tube,northern,940GZZNEUGST
 Nineacres Way,51.31466,-0.13182,bus,404,490010285W
 Nineacres Way,51.31472,-0.1313,bus,404,490010285E
 Nobel Drive,51.4808,-0.42652,bus,"105, 111, 222, 81, H98, N9",490015397E
@@ -13732,7 +13732,7 @@ North Dulwich Station,51.45384,-0.08803,bus,"37, 42, P4",490001210S
 North Dulwich Station,51.45403,-0.0886,bus,"37, 42, P4",490001210N
 North Ealing Station,51.51636,-0.29168,bus,"483, N83",490011333B
 North Ealing Station,51.51764,-0.29124,bus,"112, 483, N83",490000158A
-North Ealing Underground Station,51.517505,51.517505,tube,piccadilly,940GZZLUNEN
+North Ealing Underground Station,51.517505,-0.15246,tube,piccadilly,940GZZLUNEN
 North End Lane,51.33817,0.05289,bus,146,490010353W
 North End Lane / Mill Lane,51.34161,0.05643,bus,R8,490000794Z
 North End Lane / Shire Lane,51.35114,0.06591,bus,R8,490000791Z
@@ -13762,7 +13762,7 @@ North Greenwich Station,51.49972,0.00464,bus,"161, 180, 472",490010374A
 North Greenwich Station,51.49978,0.00246,bus,unknown,490010374F
 North Greenwich Station,51.50027,0.00291,bus,132,490010374D
 North Greenwich Station,51.50061,0.00287,bus,"129, 132, 161, 180, 188, 335, 422, 472, 486",490010374E
-North Greenwich Underground Station,51.50047,51.50047,tube,jubilee,940GZZLUNGW
+North Greenwich Underground Station,51.50047,-0.15246,tube,jubilee,940GZZLUNGW
 North Harrow Station,51.58439,-0.36227,bus,H9,490000161A
 North Harrow Station,51.58457,-0.36238,bus,H10,490000161B
 North Harrow Underground Station,51.584872,-0.362408,tube,"183, H18, H19, Metropolitan",940GZZLUNHA
@@ -13806,10 +13806,10 @@ North Street,51.58686,0.17359,bus,103,490007918W
 North Walk,51.35807,-0.02107,bus,"130, 64, 664",490010420W
 North Walk,51.35829,-0.02101,bus,"130, 64, 664",490010420E
 North Wembley,51.56258,-0.303992,bus,"204, 483, 79, Bakerloo, Lioness",HUBNWB
-North Wembley Rail Station,51.562596,51.562596,overground,lioness,910GNWEMBLY
+North Wembley Rail Station,51.562596,-0.15246,overground,lioness,910GNWEMBLY
 North Wembley Station,51.56256,-0.3056,bus,"245, 483",490000163A
 North Wembley Station,51.56262,-0.30608,bus,"245, 483",490000163B
-North Wembley Underground Station,51.562551,51.562551,tube,bakerloo,940GZZLUNWY
+North Wembley Underground Station,51.562551,-0.15246,tube,bakerloo,940GZZLUNWY
 North Woolwich Ferry,51.49892,0.06166,bus,"473, SL2",490010437NZ
 North Woolwich Ferry,51.49899,0.06103,bus,"473, 474, SL2",490010437NB
 North Woolwich Ferry,51.49912,0.06102,bus,"473, 474",490010437NA
@@ -13851,7 +13851,7 @@ Northfields Station,51.49879,-0.31422,bus,"E2, E3, N11",490000159A
 Northfields Station,51.49906,-0.31464,bus,unknown,490000159Z
 Northfields Station,51.49912,-0.31432,bus,unknown,490000159X
 Northfields Station,51.49957,-0.31504,bus,"E2, E3, N11",490000159B
-Northfields Underground Station,51.499319,51.499319,tube,piccadilly,940GZZLUNFD
+Northfields Underground Station,51.499319,-0.31427,tube,piccadilly,940GZZLUNFD
 Northgate,51.60905,-0.43879,bus,331,490004662W
 Northgate,51.60919,-0.43912,bus,331,490004662E
 Northgate Road,51.52587,0.12383,bus,"EL1, EL3",490001988Z
@@ -13878,7 +13878,7 @@ Northolt Station,51.54767,-0.36878,bus,"120, 140, 282, 395, 90, N140, N7, SL9",4
 Northolt Station,51.54848,-0.36741,bus,"120, 140, 282, 395, 90, N140, N7, SL9",490000162B
 Northolt Station,51.54856,-0.3673,bus,unknown,490020254S
 Northolt Station,51.54989,-0.36475,bus,unknown,490000162N
-Northolt Underground Station,51.548236,51.548236,tube,central,940GZZLUNHT
+Northolt Underground Station,51.548236,-0.36851,tube,central,940GZZLUNHT
 Northover,51.42812,0.01356,bus,"136, 181, N136",490010393S
 Northover / Shroffold Road,51.43035,0.01163,bus,"124, 284",490012134S
 Northover / Shroffold Road,51.4304,0.01145,bus,"124, 284",490012134N
@@ -13954,7 +13954,7 @@ Northwood Station,51.61082,-0.42349,bus,331,490000165B
 Northwood Station,51.61112,-0.4237,bus,331,490000165A
 Northwood Station,51.61127,-0.42269,bus,"282, H11",490015504C
 Northwood Station,51.61137,-0.42295,bus,"282, H11",490015504D
-Northwood Underground Station,51.611053,51.611053,tube,metropolitan,940GZZLUNOW
+Northwood Underground Station,51.611053,-0.40969,tube,metropolitan,940GZZLUNOW
 Norwich Road,51.59602,-0.41003,bus,282,490010441S
 Norwich Walk,51.60645,-0.26446,bus,302,490010442S
 Norwood / Crown Point,51.42159,-0.10632,bus,unknown,490019045N
@@ -13969,7 +13969,7 @@ Norwood Green,51.49315,-0.37031,bus,120,490010447N
 Norwood Green,51.49321,-0.36947,bus,unknown,490010447N1
 Norwood Green,51.4939,-0.37084,bus,120,490010447S
 Norwood Junction,51.39702,-0.075216,bus,"130, 157, 197, 312, 410, 75, Southeastern, Southern, Thameslink, Windrush",HUBNWD
-Norwood Junction Rail Station,51.397019,51.397019,overground,windrush,910GNORWDJ
+Norwood Junction Rail Station,51.397019,-0.0995,overground,windrush,910GNORWDJ
 Norwood Junction Station,51.3974,-0.0742,bus,312,490010448S
 Norwood Junction Station,51.39761,-0.07403,bus,197,490001216T
 Norwood Junction Station,51.39863,-0.07511,bus,"130, 196",490001216E
@@ -14212,7 +14212,7 @@ Old Street Station,51.52608,-0.0854,bus,"135, 205, 243, 55, N205, N55",490000169
 Old Street Station,51.52719,-0.08789,bus,135,490015193S
 Old Street Station,51.52734,-0.08836,bus,"205, 214, 43, N205",490010108C
 Old Street Stn   / Moorfields Eye Hosp,51.52738,-0.08791,bus,"141, 21, 76, N271",490015193D
-Old Street Underground Station,51.525864,51.525864,tube,northern,940GZZLUODS
+Old Street Underground Station,51.525864,-0.106165,tube,northern,940GZZLUODS
 Old Tye Avenue,51.31553,0.04085,bus,"684, R8",490010586W
 Old Tye Avenue,51.31568,0.04074,bus,"684, R8",490000801Z
 Oldbury Close,51.3933,0.1195,bus,"B14, R6",490010530W
@@ -14341,7 +14341,7 @@ Osterley Station,51.48065,-0.3518,bus,H91,490000171B
 Osterley Station,51.48087,-0.35191,bus,H91,490000171A
 Osterley Station,51.48093,-0.35156,bus,unknown,49000RB47E
 Osterley Tesco,51.485,-0.3304,bus,H28,490013200E
-Osterley Underground Station,51.481274,51.481274,tube,piccadilly,940GZZLUOSY
+Osterley Underground Station,51.481274,-0.346205,tube,piccadilly,940GZZLUOSY
 Oswald Street,51.55799,-0.04091,bus,"242, N242",490010662E
 Ottaway Street,51.55675,-0.06514,bus,488,490003209N
 Ottaway Street,51.55727,-0.06465,bus,488,490003209S
@@ -14355,7 +14355,7 @@ Oval Station,51.48154,-0.11274,bus,"155, 333, N155",490000172Q
 Oval Station,51.48158,-0.11233,bus,"155, 333, N155",490000172R
 Oval Station,51.48212,-0.11269,bus,"185, 36, 436, N136",490000172D
 Oval Station,51.48239,-0.11275,bus,"185, 36, 436, N136",490000172C
-Oval Underground Station,51.48185,51.48185,tube,northern,940GZZLUOVL
+Oval Underground Station,51.48185,0.10326,tube,northern,940GZZLUOVL
 Overbury Avenue,51.40217,-0.01885,bus,"162, N3",490010668N
 Overbury Avenue,51.40294,-0.0189,bus,"162, N3",490010668S
 Overbury Crescent,51.34031,-0.01781,bus,664,490010669N
@@ -14425,8 +14425,8 @@ Paddenswick Road,51.50002,-0.23722,bus,"237, 94",490010710W
 Paddenswick Road,51.50026,-0.23684,bus,"237, 94",490010710E
 Paddington,51.51562,-0.17445,elizabeth-line,elizabeth,490001221S2
 Paddington,51.516981,-0.17616,elizabeth-line,"16, 205, 23, 27, 36, 46, 7, Bakerloo, Circle, District, Elizabeth line, Great Western Railway, Hammersmith & City, Heathrow Express, N205, N27, N7",HUBPAD
-Paddington (H&C Line)-Underground,51.518187,51.518187,tube,circle,940GZZLUPAH
-Paddington (H&C Line)-Underground,51.518187,51.518187,tube,hammersmith-city,940GZZLUPAH
+Paddington (H&C Line)-Underground,51.518187,-0.178275,tube,circle,940GZZLUPAH
+Paddington (H&C Line)-Underground,51.518187,-0.178275,tube,hammersmith-city,940GZZLUPAH
 Paddington Close,51.52814,-0.38892,bus,"696, E6",490010712N
 Paddington Station,51.51549,-0.1757,bus,"205, 23, 27, 36, 7, N205, N27, N7",490001221F
 Paddington Station,51.51674,-0.17367,bus,"16, 205, 23, 27, 36, 7, N205, N27, N7",490001221H
@@ -14434,9 +14434,9 @@ Paddington Station,51.51739,-0.17949,bus,unknown,490001221CS
 Paddington Station / London Street,51.516581,-0.175689,bus,unknown,490G000921
 Paddington Stn / Eastbourne Terrace,51.51648,-0.17822,bus,"16, 205, 23, 27, 36, 46, 7, N205, N27, N7",490005166Z
 Paddington Stn / Eastbourne Terrace,51.51695,-0.17903,bus,"23, 27, 36, 46, 7, N27, N7",490006321D
-Paddington Underground Station,51.516581,51.516581,tube,bakerloo,940GZZLUPAC
-Paddington Underground Station,51.516581,51.516581,tube,circle,940GZZLUPAC
-Paddington Underground Station,51.516581,51.516581,tube,district,940GZZLUPAC
+Paddington Underground Station,51.516581,-0.178275,tube,bakerloo,940GZZLUPAC
+Paddington Underground Station,51.516581,-0.178275,tube,circle,940GZZLUPAC
+Paddington Underground Station,51.516581,-0.178275,tube,district,940GZZLUPAC
 Paddock Gates,51.40732,-0.32588,bus,"111, 216, 411",490010714E
 Paddock Secondary School,51.46369,-0.25123,bus,969,490000359Z
 Padfield Road,51.46556,-0.1006,bus,P4,490010717E
@@ -14562,7 +14562,7 @@ Park Parade,51.53676,-0.24407,bus,"187, 206, 226",490010792C
 Park Parade,51.53694,-0.24322,bus,"187, 206, 226",490010792D
 Park Rise,51.298813,-0.330349,bus,465,40004408187B
 Park Rise,51.299309,-0.330446,bus,465,40004408187A
-Park Road,0.0,0.0,bus,unknown,490G000248
+Park Road,51.52707,-0.28417,bus,unknown,490G000248
 Park Road,51.37529,-0.15234,bus,151,490010811N
 Park Road,51.37547,-0.15238,bus,151,490010811S
 Park Road,51.39639,-0.08277,bus,"157, 75",490010805E
@@ -14608,7 +14608,7 @@ Park Royal Station,51.52712,-0.28427,bus,"487, 95",490000176M
 Park Royal Station,51.52718,-0.28359,bus,"487, 95",490000176L
 Park Royal Station,51.52888,-0.28191,bus,226,490007599W
 Park Royal Station,51.52896,-0.28173,bus,226,490007599E
-Park Royal Underground Station,51.527123,51.527123,tube,piccadilly,940GZZLUPKR
+Park Royal Underground Station,51.527123,-0.1065349999999999,tube,piccadilly,940GZZLUPKR
 Park Street,51.37343,-0.09822,bus,"109, 119, 166, 312, 405, 407, 412, 433, 466, 468, 60, 645, N109, N68, SL5",490010839C4
 Park Street,51.37349,-0.09793,bus,"166, 312, 405, 407, 412, 466, 60, 645, N68, SL5",490010839C3
 Park Street,51.37364,-0.09767,bus,unknown,490010839C1
@@ -14958,8 +14958,8 @@ Piccadilly Circus,51.50931,-0.13624,bus,"14, 19, 23, 38, 9, N19, N38, N9, N97",4
 Piccadilly Circus,51.50988,-0.13735,bus,"12, 139, 159, 453, 88, 94, N109, N113, N136, N15, N18, N3",490011515W
 Piccadilly Circus,51.50996,-0.13689,bus,"12, 139, 159, 453, 88, 94, N109, N113, N136, N15, N18, N3",490000179F
 Piccadilly Circus,51.5105,-0.13421,bus,unknown,490015185H
-Piccadilly Circus Underground Station,51.51005,51.51005,tube,bakerloo,940GZZLUPCC
-Piccadilly Circus Underground Station,51.51005,51.51005,tube,piccadilly,940GZZLUPCC
+Piccadilly Circus Underground Station,51.51005,-0.13627,tube,bakerloo,940GZZLUPCC
+Piccadilly Circus Underground Station,51.51005,-0.13627,tube,piccadilly,940GZZLUPCC
 Picketts Lock Centre,51.63232,-0.03763,bus,W8,490010990E
 Pickford Lane / Bowford Avenue,51.46816,0.13395,bus,"422, B11, B12",490004216N
 Pickford Lane / Bowford Avenue,51.46861,0.13433,bus,"422, B11, B12",490004216S
@@ -14996,7 +14996,7 @@ Pimlico Station,51.48895,-0.13332,bus,"360, C10",490000180J
 Pimlico Station,51.48914,-0.13334,bus,"360, C10",490000180H
 Pimlico Station,51.48998,-0.13241,bus,"185, 2, 36, N136, N2",490000180A
 Pimlico Station,51.49039,-0.13307,bus,"185, 2, 36, N136, N2",490000180D
-Pimlico Underground Station,51.489097,51.489097,tube,victoria,940GZZLUPCO
+Pimlico Underground Station,51.489097,-0.1353,tube,victoria,940GZZLUPCO
 Pine Coombe,51.36426,-0.05169,bus,"130, 466",490011005S
 Pine Coombe,51.36444,-0.05197,bus,"130, 466",490011005N
 Pine Gardens,51.39213,-0.28175,bus,"665, K2",490011006S
@@ -15066,8 +15066,8 @@ Plaistow Police Station,51.52342,0.02491,bus,"115, 276, 330, 5, N15",490011047E
 Plaistow Police Station,51.52416,0.02643,bus,"115, 276, 330, 5, N15",490011047W
 Plaistow Station,51.53125,0.01825,bus,"241, 262, 473, 69",490000182A
 Plaistow Station,51.53187,0.01714,bus,"241, 262, 473, 69",490000182B
-Plaistow Underground Station,51.531341,51.531341,tube,district,940GZZLUPLW
-Plaistow Underground Station,51.531341,51.531341,tube,hammersmith-city,940GZZLUPLW
+Plaistow Underground Station,51.531341,0.019365,tube,district,940GZZLUPLW
+Plaistow Underground Station,51.531341,0.019365,tube,hammersmith-city,940GZZLUPLW
 Plashet Road,51.53667,0.03482,bus,"104, 330, 376, 58",490011052N
 Plashet Road,51.5377,0.03336,bus,"104, 238",490011052M
 Plashet Road,51.53857,0.03336,bus,"104, 238, 330, 376, 58",490011052D
@@ -15131,7 +15131,7 @@ Pole Hill Road,51.63264,-0.0066,bus,"313, 379, 385",490011083E
 Police Station,51.61879,0.295557,bus,"498, 608",150G00002497
 Polish War Memorial,51.54974,-0.40045,bus,"696, E7",490011084N
 Polish War Memorial,51.55008,-0.40052,bus,"696, E7",490011084S
-Pollard Road,0.0,0.0,bus,unknown,490G00011085
+Pollard Road,51.6272,-0.16131,bus,unknown,490G00011085
 Pollard Road,51.6272,-0.16131,bus,"251, 34",490011085W
 Pollard Road,51.6279,-0.16114,bus,"125, 688",490011085S
 Pollard Road,51.62796,-0.16234,bus,"125, 251, 34, 628, 688",490011085E
@@ -15177,7 +15177,7 @@ Poplar Baptist Church,51.51766,-0.01078,bus,309,490013203E
 Poplar Close,51.55029,-0.03041,bus,"236, 276, N26",490009058N
 Poplar Court,51.45474,-0.3124,bus,"110, 969, H37",490011109W
 Poplar Court,51.45483,-0.31243,bus,"110, 969, H37",490011109E
-Poplar DLR Station,51.507744,51.507744,dlr,dlr,940GZZDLPOP
+Poplar DLR Station,51.507744,-0.01128,dlr,dlr,940GZZDLPOP
 Poplar Drive,51.327705,-0.220385,bus,166,40004409050C
 Poplar High Street,51.50958,-0.01029,bus,unknown,490005635O
 Poplar High Street / Blackwall,51.50883,-0.01078,bus,"15, D6, D7, D8",490011111T
@@ -15307,7 +15307,7 @@ Preston Park,51.56901,-0.30174,bus,223,490002105Z
 Preston Road,51.5625,-0.29092,bus,245,490011178E
 Preston Road Station,51.57189,-0.29468,bus,"204, 223, 79",490000183B
 Preston Road Station,51.57236,-0.2948,bus,"204, 223, 79",490000183A
-Preston Road Underground Station,51.571972,51.571972,tube,metropolitan,940GZZLUPRD
+Preston Road Underground Station,51.571972,-0.29468,tube,metropolitan,940GZZLUPRD
 Pretoria Avenue,51.58748,-0.03723,bus,"123, N73, W11",490013345W
 Pricklers Hill,51.64182,-0.1806,bus,"326, 626",490011180N
 Priestley Gardens,51.57319,0.11242,bus,EL3,490011181S
@@ -15574,7 +15574,7 @@ Queen's Park Station,51.53291,-0.20575,bus,"187, 316, 36, 6",490013353E
 Queen's Park Station,51.53323,-0.20455,bus,"187, 316, 36, 6",490000186A
 Queen's Park Stn   / Victoria Road,51.53502,-0.20484,bus,206,490004442S
 Queen's Park Stn   / Victoria Road,51.53519,-0.2051,bus,206,490004442N
-Queen's Park Underground Station,51.534158,51.534158,tube,bakerloo,940GZZLUQPS
+Queen's Park Underground Station,51.534158,-0.1247399999999999,tube,bakerloo,940GZZLUQPS
 Queen's Ride,51.4652,-0.24468,bus,"33, 337, 493, 969, N33",490011642F
 Queen's Road,51.57587,-0.02979,bus,"158, 58",490011346S
 Queen's Road,51.57674,-0.02998,bus,"158, 58",490011346N
@@ -15592,7 +15592,7 @@ Queens Avenue,51.59185,-0.14309,bus,"102, 134, 234, 299, 43, 634",490015186A
 Queens Avenue,51.59593,-0.31255,bus,"H18, H19",490011323S
 Queens Avenue,51.59668,-0.31307,bus,H19,490011323N
 Queens Market,51.53413,0.03602,bus,"104, 330, 376, 58",490011338S
-Queens Park (London) Rail Station,51.533966,51.533966,overground,lioness,910GQPRK
+Queens Park (London) Rail Station,51.533966,-0.19014,overground,lioness,910GQPRK
 Queens Park Rangers Football Club,51.51075,-0.23008,bus,228,490011342SW
 Queens Park Rangers Football Stadium,51.50994,-0.23296,bus,"228, 283",490011342LP
 Queens Park Station,51.5334,-0.20436,bus,unknown,490000186E
@@ -15624,7 +15624,7 @@ Queensbury Road,51.57472,-0.26232,bus,"302, 83, N83, N98",490011327S
 Queensbury Road,51.57532,-0.26261,bus,"302, 83, N83, N98",490011327N
 Queensbury Station,51.59445,-0.28544,bus,"114, 288, 606, 79, N98",490000185AA
 Queensbury Station,51.59474,-0.28504,bus,"114, 288, 606, 688, 79, N98",490000185BB
-Queensbury Underground Station,51.594188,51.594188,tube,jubilee,940GZZLUQBY
+Queensbury Underground Station,51.594188,-0.28539,tube,jubilee,940GZZLUQBY
 Queensdale Road,51.5062,-0.21439,bus,"295, 316",490011331S
 Queensdale Road,51.50696,-0.21494,bus,"295, 316",490011331N
 Queensmere Centre,51.50917,-0.59427,bus,81,03700330
@@ -15647,7 +15647,7 @@ Queensway Coney Hall,51.3658,0.00403,bus,138,490004012N
 Queensway Station,51.51021,-0.1885,bus,"148, 94, N207",490000187C
 Queensway Station,51.51021,-0.18776,bus,"148, 70, 94, N207",490000187A
 Queensway Station,51.51067,-0.18712,bus,70,490000187B
-Queensway Underground Station,51.510312,51.510312,tube,central,940GZZLUQWY
+Queensway Underground Station,51.510312,-0.18744,tube,central,940GZZLUQWY
 Queenswood Avenue,51.47471,-0.37567,bus,H28,490011370S
 Queenswood Avenue,51.47514,-0.37557,bus,H28,490011370N
 Queenswood Avenue,51.59654,-0.00653,bus,"212, W16",490011369S
@@ -15775,7 +15775,7 @@ Ravenscourt Park Station,51.4929,-0.23583,bus,"110, 190, 267, H91, N11, N9",4900
 Ravenscourt Park Station,51.49327,-0.23712,bus,"110, 190, 267, H91, N11, N9",490011438E
 Ravenscourt Park Station,51.49492,-0.23452,bus,"218, 306, N266",490000188B
 Ravenscourt Park Station,51.49548,-0.23456,bus,"218, 306, N266",490000188A
-Ravenscourt Park Underground Station,51.494122,51.494122,tube,district,940GZZLURVP
+Ravenscourt Park Underground Station,51.494122,-0.235195,tube,district,940GZZLURVP
 Ravenscourt Road,51.40048,0.10366,bus,"B14, R11",490011437E
 Ravenscourt Road,51.40095,0.10279,bus,"B14, R11",490011437W
 Ravenscraig Road,51.61623,-0.13596,bus,"184, 232, 251, 298, 34, 382, N91",490011439W
@@ -15814,7 +15814,7 @@ Raynes Park Station,51.40902,-0.22944,bus,"152, 163, K5",490001237F
 Raynes Park Station,51.40905,-0.23023,bus,unknown,4900RAYNSPK1
 Raynes Park Station,51.40927,-0.23114,bus,"131, 200, 57, N87",490001237A
 Raynes Park Station,51.40968,-0.23078,bus,"131, 200, 57, N87",490001237C
-Reading Rail Station,51.458786,51.458786,elizabeth-line,elizabeth,910GRDNGSTN
+Reading Rail Station,51.458786,-0.354085,elizabeth-line,elizabeth,910GRDNGSTN
 Reading Road,51.55427,-0.35432,bus,398,490018841N
 Reading Road,51.55435,-0.35385,bus,398,490018841S
 Reapers Way,51.46067,-0.34964,bus,"H20, H22",490004919S
@@ -15920,7 +15920,7 @@ Regent's Park Road,51.53804,-0.15131,bus,274,490011514W
 Regent's Park Road,51.53819,-0.15226,bus,274,490011514E
 Regent's Park Station,51.52362,-0.14661,bus,"18, 205, 27, 30, 453, N18, N205, N27",490000191B
 Regent's Park Station,51.52376,-0.14703,bus,"18, 205, 27, 30, 453, N18, N205, N27",490000191A
-Regent's Park Underground Station,51.523344,51.523344,tube,bakerloo,940GZZLURGP
+Regent's Park Underground Station,51.523344,-0.14682,tube,bakerloo,940GZZLURGP
 Regents Canal,51.52433,-0.03669,bus,"205, 25, 339, N205, N25",490007341W
 Regents Canal,51.52435,-0.03709,bus,"205, 25, 339, N205, N25",490007341E
 Regents Court,51.53628,-0.07,bus,236,490011511W
@@ -15971,7 +15971,7 @@ Reynolds Road,51.52747,-0.39852,bus,"696, E6",490014993E
 Richards Avenue,51.57405,0.16841,bus,"686, 86, N86",490011547W
 Richards Avenue,51.57437,0.17002,bus,"686, 86, N86",490011547E
 Richmond,51.463152,-0.301448,bus,"110, 190, 371, 419, 490, 65, District, H37, Mildmay, N22, N65, R68, R70, South Western Railway",HUBRMD
-Richmond (London) Rail Station,51.463061,51.463061,overground,mildmay,910GRICHMND
+Richmond (London) Rail Station,51.463061,-0.29715,overground,mildmay,910GRICHMND
 Richmond / Manor Road,51.46641,-0.28881,bus,R70,490011551E
 Richmond Avenue,51.53934,-0.11377,bus,153,490011592N
 Richmond Avenue,51.53978,-0.11349,bus,153,490011592S
@@ -16009,7 +16009,7 @@ Richmond Station,51.46324,-0.30217,bus,"110, 490, H37, N22, R68, R70",490000192S
 Richmond Station,51.46333,-0.30205,bus,"371, 65, N65",490000192D
 Richmond Station,51.46372,-0.30171,bus,"190, 419",49000192S1
 Richmond Station,51.46386,-0.30133,bus,unknown,49000192N1
-Richmond Underground Station,51.463237,51.463237,tube,district,940GZZLURMD
+Richmond Underground Station,51.463237,-0.29715,tube,district,940GZZLURMD
 Ricketts Hill Road,51.295063,0.036165,bus,464,400G4410805C
 Ricketts Hill Road / Manor House,51.291201,0.032251,bus,464,40004410134A
 Ricketts Hill Road / Manor House,51.295093,0.03598,bus,464,40004410805C
@@ -16017,7 +16017,7 @@ Ricketts Hill Road North,51.303677,0.035184,bus,464,400G4410805D
 Rickman Hill,51.31793,-0.15099,bus,434,490020290S
 Rickman Hill,51.31857,-0.15135,bus,166,490011564W
 Rickmansworth,51.640247,-0.473273,bus,"Chiltern Railways, Metropolitan",HUBRIC
-Rickmansworth Underground Station,51.640207,51.640207,tube,metropolitan,940GZZLURKW
+Rickmansworth Underground Station,51.640207,-0.473273,tube,metropolitan,940GZZLURKW
 Ridding Lane,51.55339,-0.33287,bus,"487, H17",490011567W
 Ridding Lane,51.55353,-0.33333,bus,"487, H17",490011567E
 Riddlesdown,51.33041,-0.09049,bus,"412, 612",490011568E
@@ -16200,8 +16200,8 @@ Romford Market,51.58057,0.18029,bus,"103, 128, 165, 175, 193, 247, 248, 252, 294
 Romford Market,51.58059,0.1831,bus,"165, 193, 248, 252, 294, 365, 649, 650, 651",490011659G
 Romford Market,51.58066,0.18215,bus,"103, 128, 175, 247, 296, 375, 496, 5, 66, 686, 86, N15, N86",490011659E
 Romford Police Station,51.58113,0.18565,bus,"174, 498, 499, 686, N86",490011660NA
-Romford Rail Station,51.574829,51.574829,elizabeth-line,elizabeth,910GROMFORD
-Romford Rail Station,51.574829,51.574829,overground,liberty,910GROMFORD
+Romford Rail Station,51.574829,0.18192,elizabeth-line,elizabeth,910GROMFORD
+Romford Rail Station,51.574829,0.18192,overground,liberty,910GROMFORD
 Romford Road,51.54567,0.02584,bus,"325, 330, 58, 678",490G00006927
 Romford Road,51.54704,0.02552,bus,"330, 58",490006917M
 Romford Road,51.55006,0.04772,bus,"101, 304, 474, W19",490G00011661
@@ -16410,8 +16410,8 @@ Royal Oak Road,51.54642,-0.06036,bus,"242, 277, 38, N242, N277, N38",490010161E
 Royal Oak Station,51.51799,-0.18886,bus,36,490000196B
 Royal Oak Station,51.51963,-0.18946,bus,"18, 36, N18",490000196W
 Royal Oak Station,51.51993,-0.18941,bus,"18, N18",490000196C
-Royal Oak Underground Station,51.519113,51.519113,tube,circle,940GZZLURYO
-Royal Oak Underground Station,51.519113,51.519113,tube,hammersmith-city,940GZZLURYO
+Royal Oak Underground Station,51.519113,-0.13397,tube,circle,940GZZLURYO
+Royal Oak Underground Station,51.519113,-0.13397,tube,hammersmith-city,940GZZLURYO
 Royal Parade,51.412,0.07515,bus,"273, 61, 661",490005197S
 Royal Parade,51.46742,0.00713,bus,"108, 202, 380, 386, 54, 89, N89",490011771E
 Royal Parade,51.46767,0.00759,bus,"108, 202, 380, 386, 54, 89, N89",490011771G
@@ -16421,7 +16421,7 @@ Royal Trinity Hospice,51.46172,-0.14593,bus,"137, N137",490013803E
 Royal Veterinary College,51.53535,-0.13403,bus,"214, 46",490G00011756
 Royal Veterinary College,51.53665,-0.13414,bus,46,490005493N
 Royal Victoria,51.50934,0.018505,bus,"147, 474, DLR, London Cable Car, N551",HUBRVC
-Royal Victoria DLR Station,51.509336,51.509336,dlr,dlr,940GZZDLRVC
+Royal Victoria DLR Station,51.509336,-0.13397,dlr,dlr,940GZZDLRVC
 Royal Victoria Gardens,51.50048,0.0676,bus,474,490011773E
 Royal Victoria Gardens,51.50048,0.0681,bus,474,490011773W
 Royal Victoria Station,51.50901,0.01864,bus,unknown,490002071ZZ
@@ -16439,7 +16439,7 @@ Rugby Road,51.50177,-0.25754,bus,"E3, N11",490011777N
 Rugby Road,51.50233,-0.25775,bus,"E3, N11",490011777S
 Ruislip Gardens Station,51.56027,-0.41081,bus,"696, E7",490000198A
 Ruislip Gardens Station,51.56051,-0.41134,bus,"696, E7",490000198B
-Ruislip Gardens Underground Station,51.560736,51.560736,tube,central,940GZZLURSG
+Ruislip Gardens Underground Station,51.560736,-0.41255,tube,central,940GZZLURSG
 Ruislip Lido,51.59058,-0.43359,bus,H13,490011783W
 Ruislip Lido,51.59065,-0.43356,bus,H13,490011783E
 Ruislip Manor Station,51.57284,-0.41255,bus,"114, 398",490000199A
@@ -16448,8 +16448,8 @@ Ruislip Manor Station,51.57395,-0.41272,bus,unknown,490000199T
 Ruislip Manor Station,51.57423,-0.41213,bus,unknown,490000199S
 Ruislip Manor Station,51.57437,-0.4137,bus,"696, H13",490000199D
 Ruislip Manor Station,51.57456,-0.41407,bus,"696, H13",490000199C
-Ruislip Manor Underground Station,51.573202,51.573202,tube,metropolitan,940GZZLURSM
-Ruislip Manor Underground Station,51.573202,51.573202,tube,piccadilly,940GZZLURSM
+Ruislip Manor Underground Station,51.573202,-0.41255,tube,metropolitan,940GZZLURSM
+Ruislip Manor Underground Station,51.573202,-0.41255,tube,piccadilly,940GZZLURSM
 Ruislip Police Station,51.57635,-0.42786,bus,U10,490011784J
 Ruislip Road,51.53127,-0.36644,bus,"105, 95",490011786S
 Ruislip Road,51.53163,-0.3664,bus,"105, 95",490011786N
@@ -16810,7 +16810,7 @@ Seven Kings Station,51.56401,0.09719,bus,unknown,4900SVNKNGS1
 Seven Kings Station,51.56435,0.09888,bus,"86, N86",490001246A
 Seven Kings Station,51.56447,0.09861,bus,"86, N86",490001246B
 Seven Sisters,51.582931,-0.073306,bus,"149, 243, 259, 279, 318, 349, 41, 476, 76, Greater Anglia, N279, N41, N73, Victoria, W4, Weaver",HUBSVS
-Seven Sisters Rail Station,51.582268,51.582268,overground,weaver,910GSEVNSIS
+Seven Sisters Rail Station,51.582268,0.09136,overground,weaver,910GSEVNSIS
 Seven Sisters Road,51.56064,-0.11544,bus,"91, N91",490008367S
 Seven Sisters Road,51.58217,-0.0725,bus,"149, 243, 318, 349, 476, 76, N73",490015081O
 Seven Sisters Road / Amhurst Park,51.57355,-0.08741,bus,"253, 254, 259, 279, 310, N253, N279",490003306W
@@ -16825,7 +16825,7 @@ Seven Sisters Station,51.58318,-0.07208,bus,"149, 243, 318, 349, 476, 76, N73",4
 Seven Sisters Station,51.58359,-0.07247,bus,"149, 243, 259, 279, 318, 349, 476, 76, N279, N73",490000201J
 Seven Sisters Station,51.58398,-0.07302,bus,"41, N41",490000201D
 Seven Sisters Station,51.58403,-0.07414,bus,"41, N41",490000201C
-Seven Sisters Underground Station,51.58333,51.58333,tube,victoria,940GZZLUSVS
+Seven Sisters Underground Station,51.58333,0.09136,tube,victoria,940GZZLUSVS
 Sevenoaks Road,51.36828,0.09518,bus,R1,490000782Z
 Sevenoaks Road / Cloonmore Avenue,51.36291,0.09136,bus,"358, 654, 684, R10, R11, R5, R8",490010639S1
 Sevenoaks Road / Cloonmore Avenue,51.36325,0.09151,bus,"358, 654, 684, R10, R11, R5, R8",490010639N
@@ -16870,8 +16870,8 @@ Shacklewell Lane / Kingsland High Street,51.55069,-0.07434,bus,"236, 488",490012
 Shadwell,51.511492,-0.056782,bus,"100, 115, 135, 15, D3, DLR, N15, N550, N551, Windrush",HUBSDE
 Shadwell Basin,51.50768,-0.05085,bus,D3,490011246W
 Shadwell Basin,51.50777,-0.05096,bus,D3,490011246N
-Shadwell DLR Station,51.511693,51.511693,dlr,dlr,940GZZDLSHA
-Shadwell Rail Station,51.511284,51.511284,overground,windrush,910GSHADWEL
+Shadwell DLR Station,51.511693,-0.05619,dlr,dlr,940GZZDLSHA
+Shadwell Rail Station,51.511284,-0.05619,overground,windrush,910GSHADWEL
 Shadwell Station,51.51097,-0.05554,bus,"100, D3",490000202A
 Shadwell Station,51.51188,-0.05619,bus,339,490000202D
 Shaef Way,51.41964,-0.32691,bus,481,490012023N
@@ -16945,10 +16945,10 @@ Shell Road / Brookbank Road,51.46274,-0.02157,bus,484,490012059N
 Shelley Avenue,51.54293,0.04991,bus,"101, 304, 474",490012058N2
 Shelley Avenue,51.54345,0.04993,bus,"101, 304, 474",490012058S1
 Shenfield High School,51.637228,0.32694,bus,608,1500IM1438B
-Shenfield Rail Station,51.630877,51.630877,elizabeth-line,elizabeth,910GSHENFLD
+Shenfield Rail Station,51.630877,0.32694,elizabeth-line,elizabeth,910GSHENFLD
 Shenley Road,51.44191,0.232625,bus,492,2400102527
 Shepherd's Bush,51.504791,-0.219213,bus,"Central, Mildmay",HUBSPB
-Shepherd's Bush (Central) Underground Station,51.504376,51.504376,tube,central,940GZZLUSBC
+Shepherd's Bush (Central) Underground Station,51.504376,-0.219785,tube,central,940GZZLUSBC
 Shepherd's Bush Green,51.50458,-0.22074,bus,"220, 237, 272, 283, 72, 95, N72",490G000856
 Shepherd's Bush Green,51.50462,-0.22105,bus,"220, 237, 272, 283, 72, N72",490015059E
 Shepherd's Bush Market Underground Station,51.505579,-0.226375,tube,"148, 207, 220, 228, 237, 260, 272, 283, 295, 72, 94, 95, Circle, Hammersmith & City, N207, N72, SL8",940GZZLUSBM
@@ -16968,7 +16968,7 @@ Shepherds Bush Green,51.50429,-0.22445,bus,"207, 228, 260, 283, N207, SL8",49001
 Shepherds Bush Green,51.50458,-0.22074,bus,95,490015059F
 Shepherds Bush Market Station,51.50559,-0.22737,bus,"207, 228, 260, 283, N207, SL8",490012066A
 Shepherds Bush Market Station,51.50575,-0.22741,bus,"207, 228, 260, 283, N207, SL8",490012066B
-Shepherds Bush Rail Station,51.505285,51.505285,overground,mildmay,910GSHPDSB
+Shepherds Bush Rail Station,51.505285,-0.151687,overground,mildmay,910GSHPDSB
 Shepherds Bush Station,51.50449,-0.21983,bus,295,490015059H
 Shepherds Hill House,51.60988,-0.46574,bus,331,490012071W
 Shepherds Hill House,51.61004,-0.46573,bus,331,490012071E
@@ -17222,7 +17222,7 @@ Slough Grammar School,51.505951,-0.577365,bus,81,037G0308
 Slough Lane,51.5781,-0.26269,bus,"302, 83, N83, N98",490012201S
 Slough Lane,51.5792,-0.26288,bus,"302, 83, N83, N98",490012201N
 Slough Lane,51.58441,-0.26706,bus,"183, 204, 324, 653, 683, N98",490011635W
-Slough Rail Station,51.51188,51.51188,elizabeth-line,elizabeth,910GSLOUGH
+Slough Rail Station,51.51188,-0.26497,elizabeth-line,elizabeth,910GSLOUGH
 Smart Street,51.52989,-0.04446,bus,"8, D6, N8",490012204E
 Smith Close,51.50394,-0.04661,bus,"381, C10, N381",490012208E
 Smith Close,51.50402,-0.04629,bus,"381, C10, N381",490012208W
@@ -17285,7 +17285,7 @@ Sopwith Way,51.48015,-0.149,bus,"137, 211, 44, 452, N137, N44",490012235N
 Sorrel Bank,51.34603,-0.04462,bus,433,490009197W
 Sorrel Bank,51.34619,-0.04466,bus,433,490009197E
 Sorting Office,51.509059,-0.585325,bus,81,037G0310
-South Acton Rail Station,51.499695,51.499695,overground,mildmay,910GSACTON
+South Acton Rail Station,51.499695,-0.11882,overground,mildmay,910GSACTON
 South Africa Road,51.51425,-0.22566,bus,"220, 272, 72, 95, N72",490012238S
 South Avenue,51.6367,-0.00948,bus,379,490012250S
 South Bermondsey Rail Station,51.488136,-0.054678,bus,"1, 381, N1, N381, Southern",910GSBRMNDS
@@ -17323,7 +17323,7 @@ South Grove,51.5709,-0.1488,bus,"143, 210, 263, 310, N271",490012303W
 South Grove,51.57117,-0.14857,bus,"143, 210, 263, 310, N271",490012303E
 South Grove,51.58045,-0.02974,bus,"230, 58, W11, W19",490012304W
 South Grove,51.58097,-0.02878,bus,"230, 58, W11, W19",490012304U
-South Hampstead Rail Station,51.541432,51.541432,overground,lioness,910GSHMPSTD
+South Hampstead Rail Station,51.541432,-0.11882,overground,lioness,910GSHMPSTD
 South Hampstead Station  / Loudoun Road,51.54127,-0.18123,bus,"31, N28, N31",490009371W
 South Hampstead Station  / Loudoun Road,51.54148,-0.18074,bus,"31, N28, N31",490009371Y
 South Harrow Bus Station,51.56493,-0.35222,bus,"487, H12",490000211A
@@ -17344,10 +17344,10 @@ South Kensington Station,51.4945,-0.17458,bus,"430, 70, 74, C1, N74, N97",490000
 South Kensington Station,51.496,-0.17197,bus,unknown,490000212Z
 South Kensington Underground Station,51.494094,-0.174138,tube,"14, 345, 49, Circle, District, Piccadilly",940GZZLUSKS
 South Kenton,51.570229,-0.308448,bus,"Bakerloo, Lioness",HUBSOK
-South Kenton Rail Station,51.570214,51.570214,overground,lioness,910GSKENTON
+South Kenton Rail Station,51.570214,-0.11882,overground,lioness,910GSKENTON
 South Kenton Station,51.57052,-0.3074,bus,223,490000213B
 South Kenton Station,51.57062,-0.30739,bus,223,490000213A
-South Kenton Underground Station,51.570232,51.570232,tube,bakerloo,940GZZLUSKT
+South Kenton Underground Station,51.570232,-0.11882,tube,bakerloo,940GZZLUSKT
 South Lambeth Road / Stockwell Stn,51.47367,-0.12252,bus,"2, 88, N2",490000223A
 South Lambeth Road / Stockwell Stn,51.47388,-0.12239,bus,"196, 2, 88, N2, P5",490000223B
 South Lane,51.39071,-0.26412,bus,"265, 613, 662, 665",490012311S
@@ -17381,7 +17381,7 @@ South Ruislip Station,51.55595,-0.39922,bus,unknown,490000241F
 South Ruislip Station,51.55625,-0.39927,bus,unknown,490000214E
 South Ruislip Station,51.5573,-0.39537,bus,114,490000214B
 South Ruislip Station,51.55834,-0.39707,bus,114,490000214A
-South Ruislip Underground Station,51.556853,51.556853,tube,central,940GZZLUSRP
+South Ruislip Underground Station,51.556853,-0.11882,tube,central,940GZZLUSRP
 South Street,51.230896,-0.333811,bus,465,40004408086A
 South Street,51.434558,-0.508649,bus,"117, 203, 216, 290",40004402209A
 South Street,51.46841,-0.3254,bus,H37,490012336TL
@@ -17397,7 +17397,7 @@ South Terrace / Surbiton Library,51.39264,-0.2985,bus,"281, 406, 418, 662",49001
 South Thames College,51.3925,-0.20367,bus,"154, 80, 93",490010017N
 South Thames College,51.39368,-0.20339,bus,"154, 80, 93",490020191MU
 South Thames College,51.39448,-0.20394,bus,unknown,490020191Z
-South Tottenham Rail Station,51.580372,51.580372,overground,suffragette,910GSTOTNHM
+South Tottenham Rail Station,51.580372,-0.11882,overground,suffragette,910GSTOTNHM
 South Tottenham Station,51.58058,-0.07256,bus,"149, 243, 318, 349, 476, 76, N73",490001264W
 South Tottenham Station,51.58106,-0.07272,bus,"149, 243, 318, 349, 476, 76, N73",490001264OB
 South Vale,51.55916,-0.33507,bus,"92, H17",490013534N
@@ -17412,7 +17412,7 @@ South Wimbledon Underground Station,51.415309,-0.192005,tube,"93, N155, Northern
 South Woodford Station,51.59131,0.02899,bus,"179, N55, W12, W13, W14",490015122C
 South Woodford Station,51.59173,0.02789,bus,"179, N55, W13, W14",490000217E
 South Woodford Station,51.59201,0.02763,bus,"W12, W14",490000217D
-South Woodford Underground Station,51.591907,51.591907,tube,central,940GZZLUSWF
+South Woodford Underground Station,51.591907,-0.11882,tube,central,940GZZLUSWF
 Southall / North Road,51.51085,-0.37302,bus,"195, 207, N207, SL8",490013594K
 Southall / North Road,51.51094,-0.37297,bus,"195, 207, N207, SL8",490013594R
 Southall / Trinity Road,51.51248,-0.38662,bus,"207, 427, N207, SL8",490013805W
@@ -17424,7 +17424,7 @@ Southall Broadway,51.51037,-0.37595,bus,"105, 427, E5",490012241L
 Southall Broadway / St Georges Avenue,51.51147,-0.37795,bus,"207, 427, N207",490012241J
 Southall Park,51.51105,-0.36892,bus,"195, 207, N207",490012244S
 Southall Park,51.51114,-0.36956,bus,"195, 207, N207",490012244T
-Southall Rail Station,51.505957,51.505957,elizabeth-line,elizabeth,910GSTHALL
+Southall Rail Station,51.505957,-0.37612,elizabeth-line,elizabeth,910GSTHALL
 Southall Station,51.50554,-0.3789,bus,"105, 120, 195, 427, 482, E5, H32",490001255O
 Southall Town Hall,51.51076,-0.37527,bus,"105, 120, 482, 95, E5, H32",490012245K
 Southall Town Hall,51.51198,-0.37563,bus,"105, 120, 95, E5",490014102E
@@ -17511,7 +17511,7 @@ Southgate Station,51.63211,-0.1279,bus,"121, 298, 299, 616, N91, W6",490000210C
 Southgate Station,51.63215,-0.12792,bus,"125, 616, 699, W9",490000210B
 Southgate Station,51.63239,-0.12819,bus,"125, 298, 299, 382, 688, 699",490000210G
 Southgate Station,51.63241,-0.12806,bus,"628, 688, W6, W9",490000210H
-Southgate Underground Station,51.632315,51.632315,tube,piccadilly,940GZZLUSGT
+Southgate Underground Station,51.632315,-0.12934,tube,piccadilly,940GZZLUSGT
 Southland Way,51.46108,-0.3499,bus,H20,490004919N1
 Southlands Avenue,51.36057,0.08483,bus,R4,490013825E1
 Southlands Avenue,51.36151,0.08143,bus,R4,490013825Z
@@ -18170,7 +18170,7 @@ St. George's Walk,51.37297,-0.09864,bus,"109, 166, 407, 60, 645",490G00002323
 St. James's Park Underground Station,51.499544,-0.133608,tube,"11, 148, 24, 26, 3, 88, Circle, District, N11, N136, N26, N44",940GZZLUSJP
 St. John's Primary School,51.67918,-0.0972,bus,456,490012742Z
 St. John's Primary School,51.67998,-0.09718,bus,456,490012742S
-St. John's Wood Underground Station,51.534521,51.534521,tube,jubilee,940GZZLUSJW
+St. John's Wood Underground Station,51.534521,-0.1065325,tube,jubilee,940GZZLUSJW
 St. Paul's Underground Station,51.514936,-0.097567,tube,"133, 25, 4, 56, 76, 8, Central, N242, N25, N8",940GZZLUSPU
 St. Thomas More Catholic Church,51.55144,0.10686,bus,"145, 5, EL2, EL3, N15",490007288S
 St. Thomas More Catholic Church,51.55166,0.10687,bus,"145, 5, EL2, EL3, N15",490007288E
@@ -18233,7 +18233,7 @@ Stamford Hill Broadway,51.57308,-0.07163,bus,"253, 254, 310, 318, 349, N253",490
 Stamford Hill Broadway,51.57315,-0.07141,bus,"253, 254, N253",490012524G
 Stamford Hill Library,51.56997,-0.07279,bus,"149, 243, 476, 67, 76, N73",490006261S
 Stamford Hill Library,51.57005,-0.07297,bus,"149, 243, 476, 67, 76, N73",490006261N
-Stamford Hill Rail Station,51.574467,51.574467,overground,weaver,910GSTMFDHL
+Stamford Hill Rail Station,51.574467,-0.07297,overground,weaver,910GSTMFDHL
 Stamford Hill Station,51.57432,-0.07703,bus,"253, 254, 310, N253",490001265B
 Stamford Hill Station,51.5746,-0.07799,bus,"253, 254, 310, N253",490001265A
 Stamford Road,51.53572,0.11149,bus,"368, 62",490009629N
@@ -18300,7 +18300,7 @@ Stanmore Hill,51.61706,-0.31315,bus,"324, 340, H12",490012564F
 Stanmore Station,51.61966,-0.30379,bus,"142, 324, H12, N98",490000219A
 Stanmore Station,51.61973,-0.30298,bus,"H12, N98",490000219N
 Stanmore Station,51.61992,-0.30371,bus,"142, 324",490000219B
-Stanmore Underground Station,51.619839,51.619839,tube,jubilee,940GZZLUSTM
+Stanmore Underground Station,51.619839,-0.31239,tube,jubilee,940GZZLUSTM
 Stannard Road,51.54615,-0.06863,bus,"242, 277, 38, N242, N277, N38",490012569W
 Stannard Road,51.54615,-0.06782,bus,"242, 277, 38, N242, N277, N38",490012569E
 Stansfield Road,51.46631,-0.11684,bus,"196, 2, 322, 333, 345, N2",490012578B
@@ -18401,8 +18401,8 @@ Stepney Green Station,51.5217,-0.04663,bus,"205, 25, N205, N25",490000220W2
 Stepney Green Station,51.52177,-0.04699,bus,"205, 25, N205, N25",490000220E1
 Stepney Green Station,51.52262,-0.04724,bus,309,490000220N
 Stepney Green Station,51.52266,-0.04682,bus,309,490000220S
-Stepney Green Underground Station,51.521858,51.521858,tube,district,940GZZLUSGN
-Stepney Green Underground Station,51.521858,51.521858,tube,hammersmith-city,940GZZLUSGN
+Stepney Green Underground Station,51.521858,-0.046725,tube,district,940GZZLUSGN
+Stepney Green Underground Station,51.521858,-0.046725,tube,hammersmith-city,940GZZLUSGN
 Stepney Methodist Church,51.51311,-0.04345,bus,"115, 135, 15, N15, N550",490012669W
 Stepney Methodist Church,51.51328,-0.04467,bus,"115, 135, 15, N15, N550",490012669E
 Sterling Gardens,51.48133,-0.04166,bus,225,490012674S
@@ -18456,7 +18456,7 @@ Stoke Newington High St / Brooke Road,51.56053,-0.07274,bus,106,490004452T
 Stoke Newington High St / Garnham Street,51.56233,-0.07369,bus,"276, 393, 73",490005312N
 Stoke Newington High Street,51.56065,-0.07344,bus,"393, 476, 73, N73",490004452U
 Stoke Newington Police Station,51.55788,-0.07455,bus,"149, 243, 276, 67, 76",490012839R
-Stoke Newington Rail Station,51.565233,51.565233,overground,weaver,910GSTKNWNG
+Stoke Newington Rail Station,51.565233,-0.0735,overground,weaver,910GSTKNWNG
 Stoke Newington Road / Amhurst Road,51.55622,-0.07449,bus,"149, 243, 67, 76",490003307Q
 Stoke Newington Station,51.56429,-0.0719,bus,393,490001273Y
 Stoke Newington Station,51.56434,-0.07168,bus,393,490001273Z
@@ -18480,7 +18480,7 @@ Stone Park Avenue / Village Way,51.397,-0.02747,bus,352,490015466E
 Stone Park Avenue / Village Way,51.39716,-0.0267,bus,352,490015466W
 Stonebridge Lock,51.59809,-0.05236,bus,192,490016330S
 Stonebridge Park,51.544041,-0.275859,bus,"18, Bakerloo, Lioness, N18",HUBSBP
-Stonebridge Park Rail Station,51.544111,51.544111,overground,lioness,910GSTNBGPK
+Stonebridge Park Rail Station,51.544111,-0.27504,overground,lioness,910GSTNBGPK
 Stonebridge Park Station,51.54403,-0.27512,bus,"112, 440, 79",490000224A
 Stonebridge Park Station,51.54405,-0.27504,bus,unknown,490000224S
 Stonebridge Park Station,51.54411,-0.27566,bus,79,490000224L
@@ -18489,7 +18489,7 @@ Stonebridge Park Station,51.54428,-0.27428,bus,"112, 440",490000224B
 Stonebridge Park Station,51.54444,-0.27564,bus,unknown,49000224SZ
 Stonebridge Park Stn   / Point Place,51.54555,-0.27296,bus,"18, N18",490010337D
 Stonebridge Park Stn   / Point Place,51.54594,-0.27352,bus,"18, N18",490009981N
-Stonebridge Park Underground Station,51.543959,51.543959,tube,bakerloo,940GZZLUSGP
+Stonebridge Park Underground Station,51.543959,-0.27504,tube,bakerloo,940GZZLUSGP
 Stonebridge Rd / Seven Sisters Stn,51.58249,-0.07337,bus,"259, 279, N279",490019455S
 Stonecot Hill / Garth Road,51.38017,-0.21793,bus,"293, 413, 93",490007130S
 Stonecot Hill / Garth Road,51.38096,-0.21726,bus,"293, 413, 93",490007130N
@@ -18519,8 +18519,8 @@ Strait Road / Stansfeld Road,51.50938,0.04927,bus,"376, 678",490012577E
 Stratfield Road,51.657215,-0.281414,bus,292,210021003390
 Stratfield Road,51.657705,-0.282393,bus,292,210021003430
 Stratford,51.541508,-0.00241,bus,"104, 108, 158, 238, 241, 25, 257, 262, 276, 308, 339, 388, 425, 473, 678, 69, 86, 97, Central, D8, DLR, Elizabeth line, Greater Anglia, Jubilee, Mildmay, N205, N25, N8, N86, c2c",HUBSRA
-Stratford (London) Rail Station,51.541895,51.541895,elizabeth-line,elizabeth,910GSTFD
-Stratford (London) Rail Station,51.541895,51.541895,overground,mildmay,910GSTFD
+Stratford (London) Rail Station,51.541895,-0.00257,elizabeth-line,elizabeth,910GSTFD
+Stratford (London) Rail Station,51.541895,-0.00257,overground,mildmay,910GSTFD
 Stratford Broadway,51.54037,0.00268,bus,"104, 238, 241, 262, 276, 473",490012903Z
 Stratford Broadway,51.54057,0.00252,bus,"104, 238, 241, 262, 276, 473, 69",490012903K
 Stratford Bus Station,51.54052,-0.00184,bus,"104, 238, 262, 276, 473",490012904D
@@ -18542,11 +18542,11 @@ Stratford City Bus Station,51.54385,-0.00442,bus,"108, 241, 308, 339, 388, 97, N
 Stratford City Bus Station,51.54398,-0.00374,bus,unknown,490019793C
 Stratford City Bus Station,51.54412,-0.00401,bus,unknown,490019793Y
 Stratford City Bus Station,51.54527,-0.004,bus,unknown,490019793V
-Stratford DLR Station,51.541758,51.541758,dlr,dlr,940GZZDLSTD
+Stratford DLR Station,51.541758,-0.00257,dlr,dlr,940GZZDLSTD
 Stratford High St / Carpenters Road,51.53735,-0.00257,bus,"25, 276, 425, D8, N25, N8",490004815S
 Stratford High St Stn  / Carpenters Rd,51.53689,-0.00366,bus,"25, 276, 425, D8, N25, N8",490014215N
-Stratford High Street DLR Station,51.538196,51.538196,dlr,dlr,940GZZDLSHS
-Stratford International DLR Station,51.545265,51.545265,dlr,dlr,940GZZDLSIT
+Stratford High Street DLR Station,51.538196,-0.00257,dlr,dlr,940GZZDLSHS
+Stratford International DLR Station,51.545265,-0.00257,dlr,dlr,940GZZDLSIT
 Stratford International Station,51.54545,-0.00663,bus,"308, 339, N205",490018554C
 Stratford International Station,51.54556,-0.00908,bus,unknown,490018554W
 Stratford International Station,51.54558,-0.0073,bus,"108, 308, 339, N205",490018554E
@@ -18558,8 +18558,8 @@ Stratford Park,51.53723,0.0072,bus,"104, 238",490006045E
 Stratford Road,51.52913,-0.40361,bus,unknown,490000878Z
 Stratford Road,51.52918,-0.40366,bus,E9,490000878Y
 Stratford School,51.54051,0.02276,bus,"325, 678",490015000N
-Stratford Underground Station,51.541806,51.541806,tube,central,940GZZLUSTD
-Stratford Underground Station,51.541806,51.541806,tube,jubilee,940GZZLUSTD
+Stratford Underground Station,51.541806,-0.00257,tube,central,940GZZLUSTD
+Stratford Underground Station,51.541806,-0.00257,tube,jubilee,940GZZLUSTD
 Strath Terrace,51.46204,-0.17408,bus,"295, C3",490012735S
 Strath Terrace,51.46232,-0.17516,bus,"295, C3",490012735N
 Strathearn Road,51.42634,-0.20089,bus,"156, 493, N87",490012910W
@@ -18904,7 +18904,7 @@ Sydenham Hill / Kirkdale,51.43712,-0.06443,bus,"356, 363, N63",490008849N
 Sydenham Hill Estate,51.43129,-0.06833,bus,"202, 356",490013129W
 Sydenham Hill Estate,51.43132,-0.06732,bus,"202, 356",490013129UB
 Sydenham Police Station,51.43392,-0.05841,bus,122,490013131N2
-Sydenham Rail Station,51.427248,51.427248,overground,windrush,910GSYDENHM
+Sydenham Rail Station,51.427248,-0.06015,overground,windrush,910GSYDENHM
 Sydenham Rise,51.439,-0.06294,bus,356,490013132N1
 Sydenham Rise,51.4394,-0.06312,bus,356,490013132N
 Sydenham Road / Mayow Road,51.42566,-0.04836,bus,"194, 202, 450",490009750P
@@ -18962,7 +18962,7 @@ Tandridge Drive / Crofton Lane,51.37718,0.07781,bus,R7,490016589E
 Tankerville Road,51.41872,-0.13456,bus,"45, 60, N133",490001280SA
 Tanner Street,51.50025,-0.07531,bus,"188, 381, 47, N199, N381",490013154B
 Tanner Street,51.50076,-0.0748,bus,"381, 47, N199, N381",490013154A
-Taplow Rail Station,51.523562,51.523562,elizabeth-line,elizabeth,910GTAPLOW
+Taplow Rail Station,51.561644,-0.057025,elizabeth-line,elizabeth,910GTAPLOW
 Target Roundabout,51.54252,-0.37894,bus,"120, 140, 282, 90, N140, N7",490013155N
 Tarling Road,51.51131,0.01458,bus,"147, 474, N551",490013157E
 Tarnworth Road,51.60353,0.24063,bus,608,490011536W
@@ -19035,8 +19035,8 @@ Temple Sheen Road,51.46413,-0.27277,bus,"33, 337, 493, 969, N33",490013196W
 Temple Sheen Road,51.46422,-0.27177,bus,"33, 337, 493, 969, N33",490013196E
 Temple Station,51.51084,-0.11291,bus,unknown,490000231W
 Temple Station,51.51099,-0.11302,bus,unknown,490000231E
-Temple Underground Station,51.511006,51.511006,tube,circle,940GZZLUTMP
-Temple Underground Station,51.511006,51.511006,tube,district,940GZZLUTMP
+Temple Underground Station,51.511006,-0.19323,tube,circle,940GZZLUTMP
+Temple Underground Station,51.511006,-0.19323,tube,district,940GZZLUTMP
 Tennis Street,51.50098,-0.09028,bus,C10,490017361E
 Tennis Street,51.50103,-0.09145,bus,C10,490017361W
 Tenniswood Road,51.66052,-0.07113,bus,456,490004784Z
@@ -19514,7 +19514,7 @@ Theberton Street / Gibson Sq,51.53751,-0.10567,bus,unknown,490018485W
 Theberton Street / Gibson Sq,51.53756,-0.10517,bus,"19, 30, 341, 38, 4, 43, 476, 56, 73, N19, N277, N38, N41, N73",490018485E
 Theobald Street,51.663683,-0.285941,bus,292,210021003600
 Theobald's Road,51.52106,-0.11312,bus,unknown,490013476N1
-Theobalds Grove Rail Station,51.692457,51.692457,overground,weaver,910GTHBLDSG
+Theobalds Grove Rail Station,51.692457,-0.11288,overground,weaver,910GTHBLDSG
 Theodore Road,51.45137,-0.0062,bus,"181, 225",490013479S
 Theodore Road,51.45162,-0.00665,bus,"181, 225",490013479N
 Therapia Lane,51.38458,-0.13852,bus,"633, S4",490005577S
@@ -19533,7 +19533,7 @@ Therapia Road,51.45183,-0.05952,bus,"363, 63, N63",490006921S
 Thesiger Road,51.41588,-0.0489,bus,"194, 75",490013554W
 Thesiger Road / Whateley Road,51.41577,-0.04714,bus,356,490013554W1
 Thesiger Road / Whateley Road,51.41596,-0.04671,bus,356,490013554E1
-Theydon Bois Underground Station,51.671759,51.671759,tube,central,940GZZLUTHB
+Theydon Bois Underground Station,51.671759,0.103085,tube,central,940GZZLUTHB
 Thicket Crescent,51.36719,-0.18616,bus,S2,490018216N
 Thicket Crescent,51.36748,-0.18609,bus,S2,490018216S
 Thicket Road,51.36557,-0.18585,bus,"154, S3",490015354W
@@ -19723,7 +19723,7 @@ Tooting Bec Station,51.43538,-0.15891,bus,"249, 319",490000233E
 Tooting Bec Station,51.43542,-0.16038,bus,"155, 219, 355, N155",490000233C
 Tooting Bec Station,51.43589,-0.15994,bus,"219, 319",490000233A
 Tooting Bec Station,51.43596,-0.15898,bus,"155, 249, 355, N155",490000233G
-Tooting Bec Underground Station,51.435678,51.435678,tube,northern,940GZZLUTBC
+Tooting Bec Underground Station,51.435678,-0.1627199999999999,tube,northern,940GZZLUTBC
 Tooting Broadway  / Sth Thames College,51.42723,-0.16879,bus,"131, 219, 493, 57, G1, N155",490015513K
 Tooting Broadway Station,51.42686,-0.16661,bus,"127, 333",490000234W1
 Tooting Broadway Station,51.42709,-0.16917,bus,"264, 280, 57",490000234ZZ
@@ -19775,8 +19775,8 @@ Tottenham Court Road Station,51.5161,-0.13407,bus,"390, 55, 73, 98, N207, N25, N
 Tottenham Court Road Station,51.51638,-0.13195,bus,"390, 55, 73, 98, N207, N25, N55, N73, N8, N98",490000235V
 Tottenham Court Road Station,51.51668,-0.12812,bus,"19, 38, 55, 98, N19, N207, N25, N38, N41, N55, N8, N98",490000235X
 Tottenham Court Road Station,51.51767,-0.13154,bus,"24, 29, 390, 73, N20, N253, N279, N29, N5, N73",490000235C
-Tottenham Court Road Underground Station,51.516426,51.516426,tube,central,940GZZLUTCR
-Tottenham Court Road Underground Station,51.516426,51.516426,tube,northern,940GZZLUTCR
+Tottenham Court Road Underground Station,51.516426,-0.07093,tube,central,940GZZLUTCR
+Tottenham Court Road Underground Station,51.516426,-0.07093,tube,northern,940GZZLUTCR
 Tottenham Ct Rd Stn  / Gt Russell St,51.51733,-0.12993,bus,176,490000356NE
 Tottenham Ct Rd Stn  / New Oxford St,51.516426,-0.13041,bus,unknown,490G000030
 Tottenham Ct Rd Stn  / New Oxford St,51.51676,-0.12832,bus,"19, 38, 55, N19, N253, N38, N41, N55",490000235P
@@ -19791,7 +19791,7 @@ Tottenham Hale Bus Station,51.58947,-0.06018,bus,192,490G000667
 Tottenham Hale Retail Park,51.58667,-0.06374,bus,"41, N41, W4",490013729X
 Tottenham Hale Retail Park,51.58756,-0.06371,bus,"41, N41, W4",490013729O
 Tottenham Hale Station,51.58947,-0.06018,bus,192,49009917N
-Tottenham Hale Underground Station,51.588108,51.588108,tube,victoria,940GZZLUTMH
+Tottenham Hale Underground Station,51.588108,-0.07093,tube,victoria,940GZZLUTMH
 Tottenham High Road,51.58895,-0.06947,bus,"123, 230, 76, N73",490013732R
 Tottenham High Road,51.59852,-0.06765,bus,"318, 341, 476",490013731F
 Tottenham High Road,51.59867,-0.06666,bus,"318, 341, 476",490013731E
@@ -19829,12 +19829,12 @@ Tower Bridge Quay,51.50626,-0.07333,bus,unknown,4900STC0
 Tower Bridge Road,51.50184,-0.07932,bus,"381, 47, N199, N381",490013746D
 Tower Bridge Road,51.50272,-0.07798,bus,"381, 47, N199, N381",490013746K
 Tower Gateway,51.510621,-0.074813,bus,"100, 15, 343, 42, 78, DLR, N15, N551",HUBTOG
-Tower Gateway DLR Station,51.510617,51.510617,dlr,dlr,940GZZDLTWG
+Tower Gateway DLR Station,51.510617,-0.077735,dlr,dlr,940GZZDLTWG
 Tower Gateway Station,51.51043,-0.07511,bus,343,490002076Y
 Tower Gateway Station,51.51072,-0.07517,bus,"100, 42, 78, N551",490002076RV
 Tower Hill / Tower Gateway Station,51.50982,-0.07306,bus,"100, 343, 42, 78, N551",490015074Z
-Tower Hill Underground Station,51.509971,51.509971,tube,circle,940GZZLUTWH
-Tower Hill Underground Station,51.509971,51.509971,tube,district,940GZZLUTWH
+Tower Hill Underground Station,51.509971,-0.077735,tube,circle,940GZZLUTWH
+Tower Hill Underground Station,51.509971,-0.077735,tube,district,940GZZLUTWH
 Tower of London,51.50958,-0.07561,bus,"15, N15",490013573X
 Tower of London,51.50968,-0.0751,bus,unknown,490013573WB
 Tower of London,51.50969,-0.07591,bus,"15, N15",490013573W
@@ -20016,7 +20016,7 @@ Tunstall Avenue,51.60758,0.10946,bus,"150, 247, N8",490013454W
 Tunstock Way,51.49021,0.13638,bus,"229, 602, 669",490013841W
 Tunstock Way,51.49043,0.13784,bus,"229, 602, 669",490013841E
 Turing House School Grounds,51.45024,-0.36799,bus,unknown,490002377XX
-Turkey Street Rail Station,51.672628,51.672628,overground,weaver,910GTURKYST
+Turkey Street Rail Station,51.672628,-0.04785,overground,weaver,910GTURKYST
 Turkey Street Station,51.67036,-0.04102,bus,"121, 279, N279",490001299D
 Turkey Street Station,51.6713,-0.04032,bus,"121, 279, N279",490010626C
 Turkey Street Station,51.67228,-0.04785,bus,327,490001299E
@@ -20096,7 +20096,7 @@ Twyford Avenue,51.59008,-0.16003,bus,"102, 234, 603, 653",490013880L
 Twyford Avenue,51.59025,-0.1593,bus,"102, 234, 603, 653",490012392E
 Twyford Crescent,51.50915,-0.2811,bus,218,490013882S
 Twyford Crescent,51.50933,-0.28126,bus,218,490013882N
-Twyford Rail Station,51.475534,51.475534,elizabeth-line,elizabeth,910GTWYFORD
+Twyford Rail Station,51.475534,-0.2811,elizabeth-line,elizabeth,910GTWYFORD
 Tyburn Lane,51.57759,-0.33355,bus,"182, 186, 223, 258, 483, H14, H17, H18, H19, N18",490010958S
 Tyburn Lane,51.57765,-0.33377,bus,"182, 186, 223, 258, 483, H14, H17, H18, N18",490010958N
 Tyers Street,51.49113,-0.11754,bus,360,490016271W
@@ -20183,9 +20183,9 @@ Upminster Bridge Station,51.55905,0.23537,bus,"248, 370, 646, 652",490000243A
 Upminster Bridge Station,51.55906,0.23589,bus,"248, 370, 646, 652",490000243B
 Upminster Bridge Station,51.55908,0.23508,bus,unknown,490000243Z
 Upminster Bridge Station,51.55924,0.23515,bus,unknown,490000243Y
-Upminster Bridge Underground Station,51.55856,51.55856,tube,district,940GZZLUUPB
+Upminster Bridge Underground Station,51.55856,0.24994,tube,district,940GZZLUUPB
 Upminster Park Estate,51.57067,0.2689,bus,"248, 346",490013923N
-Upminster Rail Station,51.559018,51.559018,overground,liberty,910GUPMNSTR
+Upminster Rail Station,51.559018,0.24994,overground,liberty,910GUPMNSTR
 Upminster Station,51.5585,0.25006,bus,"248, 346, 370, 646, 652",490000242A
 Upminster Station,51.55938,0.25059,bus,"248, 346",490000242U
 Upminster Station Forecourt,51.55862,0.25165,bus,"370, 646",490019452E
@@ -20193,7 +20193,7 @@ Upminster Stn   / St Lawrence Road,51.55766,0.24986,bus,"248, 346, 370, 646, 652
 Upminster Stn   / St Lawrence Road,51.55791,0.24994,bus,370,490015474B
 Upminster Tithe Barn Museum,51.56619,0.25493,bus,"248, 346",490013925S
 Upminster Tithe Barn Museum,51.56722,0.25551,bus,"248, 346",490013925N
-Upminster Underground Station,51.559063,51.559063,tube,district,940GZZLUUPM
+Upminster Underground Station,51.559063,0.24994,tube,district,940GZZLUUPM
 Upminster Windmill,51.55767,0.24237,bus,"248, 370, 646, 652",490013926E
 Upminster Windmill,51.55768,0.24181,bus,"248, 370, 646, 652",490013926W
 Upney Station,51.53782,0.1022,bus,62,490000244B
@@ -20378,7 +20378,7 @@ Vauxhall,51.485739,-0.123303,bus,"South Western Railway, Victoria",HUBVXH
 Vauxhall Bridge / Millbank,51.4882,-0.12863,bus,"185, 2, 36, 360, 88, N136, N2",490007550X
 Vauxhall Bridge Road,51.48941,-0.12778,bus,"87, N87",490014018W
 Vauxhall Bridge Road,51.48956,-0.12797,bus,"87, N87",490011094T
-Vauxhall Bridge Road / Victoria Stn,0.0,0.0,bus,unknown,490G000253
+Vauxhall Bridge Road / Victoria Stn,51.49575,-0.14219,bus,unknown,490G000253
 Vauxhall Bridge Road / Victoria Stn,51.49575,-0.14219,bus,unknown,490010164S
 Vauxhall Bus Station,51.48473,-0.12479,bus,"344, 360, 77",490000247J
 Vauxhall Bus Station,51.48485,-0.12454,bus,"156, 452",490000247H
@@ -20396,7 +20396,7 @@ Vauxhall Park,51.48354,-0.12306,bus,"2, 88, N2",490014021V
 Vauxhall Park,51.48373,-0.12331,bus,"2, 88, N2",490014021W
 Vauxhall St George Wharf Pier,51.486281,-0.12689,bus,"156, 344, 436, RB1, RB2, RB6",930GSGW
 Vauxhall St. George Wharf Pier,51.48614,-0.12669,bus,unknown,4900SGW0
-Vauxhall Underground Station,51.485743,51.485743,tube,victoria,940GZZLUVXL
+Vauxhall Underground Station,51.485743,-0.12436,tube,victoria,940GZZLUVXL
 Vectis Road,51.41823,-0.149,bus,"127, 201",490014022S
 Velopark,51.55114,-0.00911,bus,308,490020128S
 Velopark,51.55152,-0.00925,bus,308,490020128N
@@ -20520,9 +20520,9 @@ Victoria Station,51.49656,-0.1442,bus,unknown,490000248ZY
 Victoria Station,51.49789,-0.14255,bus,unknown,490000248Y
 Victoria Station/ Oxford Tube,51.49674,-0.14604,bus,unknown,490007544N1
 Victoria Street,51.48267,0.14396,bus,401,490014074N
-Victoria Underground Station,51.496359,51.496359,tube,circle,940GZZLUVIC
-Victoria Underground Station,51.496359,51.496359,tube,district,940GZZLUVIC
-Victoria Underground Station,51.496359,51.496359,tube,victoria,940GZZLUVIC
+Victoria Underground Station,51.496359,-0.1442,tube,circle,940GZZLUVIC
+Victoria Underground Station,51.496359,-0.1442,tube,district,940GZZLUVIC
+Victoria Underground Station,51.496359,-0.1442,tube,victoria,940GZZLUVIC
 Victoria Way,51.48353,0.0294,bus,380,490015226S
 Victoria Way,51.48355,0.02794,bus,380,490015226W
 Villa Road,51.46742,-0.11292,bus,"133, 159, 3, 415, 59, N109, N133, N3",490014085N
@@ -20684,7 +20684,7 @@ Walthamstow Bus Station,51.58383,-0.02027,bus,"20, 212, 215, 230, 257, 275, 34, 
 Walthamstow Bus Station,51.584,-0.02052,bus,"212, 215, 34, N26, SL1, W11",490014164C
 Walthamstow Bus Station,51.58401,-0.02029,bus,"212, 230, 257, 275, 58, 675, N73",490014164D
 Walthamstow Central,51.582948,-0.019842,bus,"20, 212, 215, 230, 257, 275, 34, 357, 55, 58, 675, 69, 97, N26, N38, N73, SL1, SL2, Victoria, W11, W12, W15, W19, Weaver",HUBWHC
-Walthamstow Central Rail Station,51.582919,51.582919,overground,weaver,910GWLTWCEN
+Walthamstow Central Rail Station,51.582919,-0.02046,overground,weaver,910GWLTWCEN
 Walthamstow Central Station,51.58248,-0.01992,bus,unknown,490000249Z
 Walthamstow Central Station,51.58278,-0.02366,bus,unknown,490011979Z
 Walthamstow Central Station,51.5829,-0.02145,bus,SL2,490000249K
@@ -20692,7 +20692,7 @@ Walthamstow Central Station,51.58296,-0.02149,bus,unknown,490000249RB
 Walthamstow Central Station,51.58298,-0.01831,bus,"357, 97, W15",490000249XX
 Walthamstow Central Station,51.58301,-0.02147,bus,"212, 230, W15, W19",490015259L
 Walthamstow Central Station,51.58308,-0.01854,bus,"357, 97, W15",490000249YY
-Walthamstow Central Underground Station,51.582965,51.582965,tube,victoria,940GZZLUWWL
+Walthamstow Central Underground Station,51.582965,-0.02046,tube,victoria,940GZZLUWWL
 Walthamstow Market,51.58189,-0.03419,bus,"158, 230, W11, W12",490014166R
 Walthamstow Market,51.58536,-0.01948,bus,"215, 275, 34, 357, 675, 97, N26, N73, SL1, SL2",490014165J
 Walthamstow Market,51.58548,-0.0197,bus,"215, 275, 34, 357, 675, 97, N26, N73, SL1, SL2",490014165G
@@ -20700,7 +20700,7 @@ Walthamstow Market / High Street,51.5831,-0.02822,bus,W15,490014168W
 Walthamstow Market / High Street,51.58319,-0.0292,bus,"W12, W15",490014168ZB
 Walthamstow Market / High Street,51.58352,-0.02916,bus,W12,490014168ZA
 Walthamstow Market / High Street,51.58374,-0.02861,bus,W15,490014168V
-Walthamstow Queens Road Rail Station,51.581503,51.581503,overground,suffragette,910GWLTHQRD
+Walthamstow Queens Road Rail Station,51.581503,-0.02046,overground,suffragette,910GWLTHQRD
 Walthamstow Stadium,51.60246,-0.01667,bus,"158, 215, 34, 357, 385, 397, 657, 97, N26, SL1, W11",490014170N
 Walthamstow Stadium,51.60366,-0.01634,bus,"158, 215, 357, 385, 397, 657, 97, N26, W11",490014170S
 Walthamstow Wetlands / Ferry Boat Inn,51.58621,-0.05176,bus,"123, 230, N73",490006818W
@@ -20757,7 +20757,7 @@ Wanstead High St / Wanstead Station,51.57675,0.02739,bus,"101, 308, 66, N55, W12
 Wanstead Lane,51.57285,0.0546,bus,"145, 366",490014203S
 Wanstead Lane,51.57323,0.05411,bus,"145, 366",490014203N
 Wanstead Park Avenue,51.55882,0.04156,bus,"101, W19",490014205N
-Wanstead Park Rail Station,51.551693,51.551693,overground,suffragette,910GWNSTDPK
+Wanstead Park Rail Station,51.551693,0.02691,overground,suffragette,910GWNSTDPK
 Wanstead Park Station,51.55118,0.02525,bus,"308, 330, 58",490001312S
 Wanstead Park Station,51.55134,0.02507,bus,"308, 330, 58",490001312N
 Wanstead Place,51.57799,0.02617,bus,"66, N55, W12, W13",490014206S
@@ -20767,7 +20767,7 @@ Wanstead Road,51.40665,0.02838,bus,"162, 269",490014207W
 Wanstead Station,51.57531,0.02712,bus,"101, 145, 308, N55, N8, W12, W13",490015125B
 Wanstead Station,51.57585,0.0288,bus,"145, 66, N8",490000250A
 Wanstead Station  / George Green,51.57508,0.0267,bus,"101, 145, 308, N55, N8, W12, W13",490015125C
-Wanstead Underground Station,51.575501,51.575501,tube,central,940GZZLUWSD
+Wanstead Underground Station,51.575501,0.02691,tube,central,940GZZLUWSD
 Wapping Health Centre,51.50581,-0.05868,bus,"100, D3",490014209N
 Wapping Health Centre,51.50625,-0.0585,bus,"100, D3",490014209S
 Wapping Rail Station,51.504388,-0.055931,overground,"100, Windrush",910GWAPPING
@@ -20841,7 +20841,7 @@ Warton Road,51.53622,-0.00692,bus,N205,490020204S
 Warton Road,51.53657,-0.00798,bus,N205,490020204E
 Warwick Avenue Station,51.52361,-0.18342,bus,"187, 46, 6",490000253H
 Warwick Avenue Station,51.52369,-0.18358,bus,"187, 46, 6",490000253K
-Warwick Avenue Underground Station,51.523263,51.523263,tube,bakerloo,940GZZLUWKA
+Warwick Avenue Underground Station,51.523263,-0.14165,tube,bakerloo,940GZZLUWKA
 Warwick Gardens,51.49745,-0.2038,bus,"27, 28, 49, 9, C1, N27, N28, N9",490003106E
 Warwick Gardens,51.49753,-0.20318,bus,"27, 28, 49, 9, C1, N27, N28, N9",490003106W
 Warwick Gardens,51.5812,-0.09435,bus,341,490004244HX
@@ -20903,10 +20903,10 @@ Waterloo Station / Tenison Way,51.50405,-0.1124,bus,"139, 176",490000254H
 Waterloo Station / Tenison Way,51.50426,-0.11346,bus,"243, 59",490000254J
 Waterloo Station / Tenison Way,51.50436,-0.11374,bus,"1, 139, 176, 188, 243, 59, 68, N1, N171, N68, SL6",490000254K
 Waterloo Station / Waterloo Road,51.50363,-0.11175,bus,"172, 341, 76, C10",490000254F
-Waterloo Underground Station,51.503299,51.503299,tube,bakerloo,940GZZLUWLO
-Waterloo Underground Station,51.503299,51.503299,tube,jubilee,940GZZLUWLO
-Waterloo Underground Station,51.503299,51.503299,tube,northern,940GZZLUWLO
-Waterloo Underground Station,51.503299,51.503299,tube,waterloo-city,940GZZLUWLO
+Waterloo Underground Station,51.503299,-0.113408,tube,bakerloo,940GZZLUWLO
+Waterloo Underground Station,51.503299,-0.113408,tube,jubilee,940GZZLUWLO
+Waterloo Underground Station,51.503299,-0.113408,tube,northern,940GZZLUWLO
+Waterloo Underground Station,51.503299,-0.113408,tube,waterloo-city,940GZZLUWLO
 Waterlow Park / Lauderdale House,51.56939,-0.14288,bus,"143, 210, 263, 310, N271",490014276S
 Waterlow Road,51.56879,-0.13649,bus,"134, 234, 43, N20",490014277Q
 Waterlow Road,51.56914,-0.13712,bus,"134, 234, 43, N20",490014277N
@@ -20928,15 +20928,15 @@ Waterworks Corner,51.59554,0.01308,bus,"123, 675, 679",490015469E
 Waterworks Corner,51.59678,0.01153,bus,"123, 20, 275, 675, 679",490014288S
 Waterworks Corner,51.5975,0.01175,bus,"20, 275, 675, 679",490014288N
 Watford Field Road,51.650794,-0.388568,bus,"142, 258",210021902110
-Watford High Street Rail Station,51.652655,51.652655,overground,lioness,910GWATFDHS
+Watford High Street Rail Station,51.652655,-0.390842,overground,lioness,910GWATFDHS
 Watford High Street Station,51.651746,-0.390457,bus,"142, 258",210021903640
 Watford High Street Station,51.652309,-0.390842,bus,"142, 258",210021902100
 Watford Junction,51.663908,-0.395928,bus,"Avanti West Coast, Lioness, West Midlands Trains",HUBWFJ
-Watford Junction Rail Station,51.663529,51.663529,overground,lioness,910GWATFJDC
+Watford Junction Rail Station,51.663529,-0.390842,overground,lioness,910GWATFJDC
 Watford Junction Station,51.663079,-0.395926,bus,"142, 258",210021903896
 Watford Junction Station,51.663353,-0.396292,bus,"142, 258",210021903892
 Watford Road,51.61088,-0.41722,bus,unknown,490014304E
-Watford Underground Station,51.657446,51.657446,tube,metropolitan,940GZZLUWAF
+Watford Underground Station,51.657446,-0.390842,tube,metropolitan,940GZZLUWAF
 Watford Way,51.58654,-0.23009,bus,"143, 183, 326, 643, 653, 683",490015519N
 Watford Way / Grahame Park Way,51.6042,-0.2389,bus,"113, N113",490010922N
 Watling Avenue,51.59928,-0.2658,bus,"142, 292, 32, N32",490013255H
@@ -20989,9 +20989,9 @@ Webb Place,51.53062,-0.24818,bus,"228, 266, N266",490014331S
 Wedmore Street,51.56233,-0.12628,bus,"17, 263, 43, N271, N41",490014333N
 Weigall Road,51.45455,0.01966,bus,"122, 178, 321, 621, N21",490014334W
 Weigall Road,51.45461,0.01991,bus,"122, 178, 321, 621, N21",490014334E
-Weigall Road / North Side,0.0,0.0,bus,unknown,490G00014335
+Weigall Road / North Side,51.459377,0.025476,bus,unknown,490G00014335
 Weigall Road / North Side,51.459377,0.025476,bus,"335, B16",490020134E
-Weigall Road / South Side,0.0,0.0,bus,unknown,490G00014336
+Weigall Road / South Side,51.459185,0.024647,bus,unknown,490G00014336
 Weigall Road / South Side,51.459185,0.024647,bus,"335, B16",490020133Z
 Welbeck Avenue,51.53012,-0.40562,bus,E9,490014337S1
 Welbeck Close,51.353763,-0.247036,bus,293,40004406057B
@@ -21064,13 +21064,13 @@ Welsh Tavern,51.44386,0.25009,bus,492,2400A018780A
 Welsh Tavern,51.444054,0.249826,bus,492,2400A018860A
 Wembley Arena,51.5594,-0.2846,bus,"182, 223, 83, N83",490014375G
 Wembley Central,51.55232,-0.296642,bus,"Bakerloo, Lioness, West Midlands Trains",HUBWMB
-Wembley Central Rail Station,51.552325,51.552325,overground,lioness,910GWMBY
+Wembley Central Rail Station,51.552325,-0.28934,overground,lioness,910GWMBY
 Wembley Central Station,51.55159,-0.29717,bus,"223, H17",490000256
 Wembley Central Station,51.55205,-0.29806,bus,"223, 297, 483, 79, 83, N83",490000256E
 Wembley Central Station,51.55224,-0.29779,bus,"18, 182, 204, 92, N18",490000256H
 Wembley Central Station,51.55243,-0.29755,bus,"18, 204, 223, 297, 79, N18",490000256F
 Wembley Central Station,51.55284,-0.29604,bus,"182, 483, 83, 92, N83",490000256G
-Wembley Central Underground Station,51.552304,51.552304,tube,bakerloo,940GZZLUWYC
+Wembley Central Underground Station,51.552304,-0.28934,tube,bakerloo,940GZZLUWYC
 Wembley High Road,51.55455,-0.29349,bus,"18, 182, 204, 223, 297, 483, 79, 83, 92, N18, N83",490014378L
 Wembley Hill Road,51.5588,-0.29091,bus,"182, 204, 223, 297, 483, 79, 83, 92, N83",490014381N
 Wembley Hill Road,51.56004,-0.29011,bus,"182, 204, 223, 297, 483, 79, 83, 92, N83",490014381S
@@ -21083,8 +21083,8 @@ Wembley Park Station,51.5637,-0.27865,bus,"182, 206, 223, 297, 83, N83",49000025
 Wembley Park Station,51.56413,-0.27796,bus,unknown,490000257NB
 Wembley Park Station,51.56462,-0.27811,bus,unknown,490000257E
 Wembley Park Station,51.5651,-0.27747,bus,unknown,490000257RB
-Wembley Park Underground Station,51.563198,51.563198,tube,jubilee,940GZZLUWYP
-Wembley Park Underground Station,51.563198,51.563198,tube,metropolitan,940GZZLUWYP
+Wembley Park Underground Station,51.563198,-0.28934,tube,jubilee,940GZZLUWYP
+Wembley Park Underground Station,51.563198,-0.28934,tube,metropolitan,940GZZLUWYP
 Wembley Stadium Green Coach Parking First Way,51.55635,-0.27632,bus,unknown,490002318WG
 Wembley Stadium Pink Coach Parking South Way,51.5557,-0.2706,bus,unknown,490002311NX
 Wembley Stadium Station,51.55455,-0.28632,bus,unknown,490001320S
@@ -21119,7 +21119,7 @@ Wessex Gardens,51.57192,-0.21102,bus,"113, N113",490014396N
 Wessex Lane,51.5933,0.23073,bus,346,490002168HE
 West Acton Station,51.51695,-0.28122,bus,218,490000258B
 West Acton Station,51.51768,-0.27984,bus,218,490000258A
-West Acton Underground Station,51.518001,51.518001,tube,central,940GZZLUWTA
+West Acton Underground Station,51.518001,-0.17875,tube,central,940GZZLUWTA
 West Approach / Petts Wood Station,51.38849,0.07351,bus,unknown,490001226A
 West Approach / Petts Wood Station,51.38856,0.07337,bus,unknown,490001226AP
 West Approach / Petts Wood Station,51.388619,0.074481,bus,unknown,490G000102
@@ -21128,10 +21128,10 @@ West Barnes Lane / Arthur Road,51.3959,-0.23592,bus,K5,490018779S
 West Barnes Level Crossing,51.40151,-0.23703,bus,"131, K5, N87",490014399S
 West Barnes Level Crossing,51.40299,-0.23672,bus,"131, N87",490014399N
 West Brompton,51.487168,-0.195593,bus,"328, 74, C1, C3, District, Mildmay, N31, N74, N97",HUBWBP
-West Brompton Rail Station,51.487061,51.487061,overground,mildmay,910GWBRMPTN
+West Brompton Rail Station,51.487061,-0.17875,overground,mildmay,910GWBRMPTN
 West Brompton Station,51.48754,-0.19566,bus,"430, 74, N74, N97",490000260P
 West Brompton Station,51.48779,-0.19466,bus,"430, 74, N74, N97",490000260O
-West Brompton Underground Station,51.487268,51.487268,tube,district,940GZZLUWBN
+West Brompton Underground Station,51.487268,-0.17875,tube,district,940GZZLUWBN
 West Cromwell Road,51.49316,-0.20114,bus,"328, C1, C3, N31",490014257E
 West Cromwell Road / Tesco,51.49326,-0.19968,bus,"74, N74, N97",490014256D
 West Cross Centre,51.48399,-0.32449,bus,H91,490014416D
@@ -21144,7 +21144,7 @@ West Croydon Bus Station,51.37906,-0.10124,bus,"166, 264, 403, 407, 645",4900144
 West Croydon Bus Station,51.37907,-0.10148,bus,"109, 198, 250, 289, 60, 64, N109, N250",490014420Y
 West Croydon Bus Station,51.37916,-0.10112,bus,"157, 194, 367, 410, 450, 689, 75, SL6",490014420V
 West Croydon Bus Station,51.37932,-0.10131,bus,"250, 450, SL6",490014420Z
-West Croydon Rail Station,51.378428,51.378428,overground,windrush,910GWCROYDN
+West Croydon Rail Station,51.378428,-0.17875,overground,windrush,910GWCROYDN
 West Croydon Station,51.37838,-0.10313,bus,"198, 250, 289, N250",490001324W1
 West Croydon Station,51.37853,-0.10369,bus,"109, 60, 64, N109",490001324W2
 West Croydon Station,51.37875,-0.10313,bus,"109, 250, 289, 60, N109, N250",490001324W6
@@ -21203,22 +21203,22 @@ West Green Road,51.58793,-0.10123,bus,"141, 29, N29",490014465Z
 West Grove Primary School,51.63659,-0.12739,bus,"121, N91",490006036S
 West Grove Primary School,51.63667,-0.12758,bus,"121, N91",490006036N
 West Ham,51.528178,0.004997,bus,"DLR, District, Hammersmith & City, Jubilee, c2c",HUBWEH
-West Ham DLR Station,51.527894,51.527894,dlr,dlr,940GZZDLWHM
+West Ham DLR Station,51.527894,-0.17875,dlr,dlr,940GZZDLWHM
 West Ham Park,51.53844,0.02263,bus,"325, 678",490014467N
 West Ham Park,51.53936,0.0229,bus,"325, 678",490014467S
 West Ham Station,51.52733,0.00489,bus,276,490000262B
 West Ham Station,51.52794,0.00472,bus,276,490000262A
-West Ham Underground Station,51.528136,51.528136,tube,district,940GZZLUWHM
-West Ham Underground Station,51.528136,51.528136,tube,hammersmith-city,940GZZLUWHM
-West Ham Underground Station,51.528136,51.528136,tube,jubilee,940GZZLUWHM
+West Ham Underground Station,51.528136,-0.17875,tube,district,940GZZLUWHM
+West Ham Underground Station,51.528136,-0.17875,tube,hammersmith-city,940GZZLUWHM
+West Ham Underground Station,51.528136,-0.17875,tube,jubilee,940GZZLUWHM
 West Hampstead,51.547533,-0.191357,bus,"139, 328, C11, Jubilee, Mildmay, Thameslink",HUBWHD
 West Hampstead Police Station,51.55305,-0.19422,bus,"139, 328",490014468N
 West Hampstead Police Station,51.55357,-0.19527,bus,"139, 328",490014468S
-West Hampstead Rail Station,51.547468,51.547468,overground,mildmay,910GWHMDSTD
+West Hampstead Rail Station,51.547468,-0.17875,overground,mildmay,910GWHMDSTD
 West Hampstead Station,51.54672,-0.1911,bus,"139, 328, C11",490000263S
 West Hampstead Station,51.54855,-0.19116,bus,"139, 328, C11",490001330N
 West Hampstead Stn / Broadhurst Gdns,51.54587,-0.19142,bus,"139, 328, C11",490012082A
-West Hampstead Underground Station,51.546638,51.546638,tube,jubilee,940GZZLUWHP
+West Hampstead Underground Station,51.546638,-0.17875,tube,jubilee,940GZZLUWHP
 West Harrow Station,51.58286,-0.3536,bus,unknown,490000264S
 West Harrow Underground Station,51.57971,-0.3534,tube,"114, 140, 183, 640, H11, H18, H19, Metropolitan, N140",940GZZLUWHW
 West Hatch Manor,51.57744,-0.41576,bus,"696, H13",490014761S
@@ -21242,12 +21242,12 @@ West Hill School,51.446839,0.202628,bus,"428, 96",2400A019770A
 West India Avenue,51.50542,-0.02517,bus,"135, 277, D3, D7, D8, N277, N550",490014483D
 West India Avenue,51.50546,-0.02518,bus,"135, 277, D3, D7, D8, N277, N550",490014483E
 West India Avenue,51.50561,-0.02457,bus,"135, 277, D3, D7, D8, N277, N550",490014483C
-West India Quay DLR Station,51.50703,51.50703,dlr,dlr,940GZZDLWIQ
+West India Quay DLR Station,51.50703,-0.17875,dlr,dlr,940GZZDLWIQ
 West Kensington Estate,51.48798,-0.204,bus,"28, 306, N28",490014485N
 West Kensington Estate,51.48803,-0.20381,bus,"28, 306, N28",490014485S
 West Kensington Station,51.48992,-0.20648,bus,"28, 306, N28",490000265B
 West Kensington Station,51.49057,-0.20663,bus,"28, 306, N28",490000265A
-West Kensington Underground Station,51.490459,51.490459,tube,district,940GZZLUWKN
+West Kensington Underground Station,51.490459,-0.17875,tube,district,940GZZLUWKN
 West Lodge,51.44082,-0.24406,bus,"265, 85, 969",490014489W
 West London Mental Health Trust,51.47223,-0.32511,bus,481,490014493HE
 West Mead,51.56039,-0.40009,bus,114,490014491N
@@ -21273,7 +21273,7 @@ West Row,51.52626,-0.21363,bus,23,490008648W
 West Ruislip,51.569721,-0.437816,bus,"Central, Chiltern Railways",HUBWRU
 West Ruislip Station,51.56963,-0.43808,bus,"278, U1, U10",490000267A
 West Ruislip Station,51.57008,-0.43763,bus,"278, U1, U10",490000267B
-West Ruislip Underground Station,51.569688,51.569688,tube,central,940GZZLUWRP
+West Ruislip Underground Station,51.569688,-0.17875,tube,central,940GZZLUWRP
 West Side,51.45487,-0.17917,bus,219,490014515N
 West Side,51.45499,-0.17869,bus,219,490014515S
 West Silvertown DLR Station,51.502838,0.02246,dlr,"330, DLR",940GZZDLWSV
@@ -21411,9 +21411,9 @@ Westminster Stn  / Parliament Square,51.50187,-0.12637,bus,"12, 159, 24, 26, 453
 Westminster Stn  / Parliament Square,51.50248,-0.126,bus,"12, 159, 24, 26, 453, 87, 88, N109, N11, N136, N155, N26, N3, N381, N44, N53, N87",490015048T
 Westminster Stn  / Westminster Pier,51.50103,-0.12525,bus,"11, 148, 3, C10",490014498S
 Westminster Stn  / Westminster Pier,51.5012,-0.12409,bus,"11, 148, 3, C10",490014498Z
-Westminster Underground Station,51.50132,51.50132,tube,circle,940GZZLUWSM
-Westminster Underground Station,51.50132,51.50132,tube,district,940GZZLUWSM
-Westminster Underground Station,51.50132,51.50132,tube,jubilee,940GZZLUWSM
+Westminster Underground Station,51.50132,-0.12986,tube,circle,940GZZLUWSM
+Westminster Underground Station,51.50132,-0.12986,tube,district,940GZZLUWSM
+Westminster Underground Station,51.50132,-0.12986,tube,jubilee,940GZZLUWSM
 Westmoreland Avenue,51.58179,0.21105,bus,294,490014500W
 Westmoreland Road,51.4841,-0.09407,bus,"12, 148, 171, 176, 468, 68, N171, N68, N89",490014501M
 Westmoreland Road,51.4846,-0.09389,bus,"35, 40",490014501L
@@ -21534,7 +21534,7 @@ White Hart Lane,51.60493,-0.08633,bus,"144, 217, 231, 444, 617",490014597N
 White Hart Lane / Selby Road,51.60551,-0.07835,bus,318,4900HC181N
 White Hart Lane / Selby Road,51.6056,-0.07818,bus,318,4900HC174S
 White Hart Lane / Trafalgar Avenue,51.60601,-0.07694,bus,318,4900HC173S
-White Hart Lane Rail Station,51.605037,51.605037,overground,weaver,910GWHHRTLA
+White Hart Lane Rail Station,51.605037,-0.10737,overground,weaver,910GWHHRTLA
 White Hart Lane Station,51.60509,-0.06827,bus,"149, 259, 279, 349, N279",490001335S
 White Hart Lane Station,51.60525,-0.07036,bus,W3,490001335A
 White Hart Lane Station,51.60549,-0.06899,bus,W3,490001335B
@@ -21547,12 +21547,12 @@ White Post Lane,51.54257,-0.02285,bus,unknown,490000297W
 White Post Lane,51.54274,-0.0224,bus,unknown,490000297E
 Whitebeam Avenue / Larch Way,51.38463,0.05613,bus,R3,490014577N2
 Whitechapel,51.519498,-0.059858,elizabeth-line,"205, 25, 254, D3, District, Elizabeth line, Hammersmith & City, N205, N25, N253, Windrush",HUBZWL
-Whitechapel Rail Station,51.519469,51.519469,overground,windrush,910GWCHAPEL
+Whitechapel Rail Station,51.519469,-0.060144,overground,windrush,910GWCHAPEL
 Whitechapel Stn   / Royal London Hosp,51.51942,-0.05878,bus,"205, 25, 254, N205, N25, N253",490009873D
 Whitechapel Stn  / Royal London Hosp,51.51674,-0.06247,bus,"205, 25, 254, D3, N205, N25, N253",490G000793
 Whitechapel Stn  / Royal London Hosp,51.51892,-0.06043,bus,"205, 25, 254, N205, N25, N253",490013541A
-Whitechapel Underground Station,51.519518,51.519518,tube,district,940GZZLUWPL
-Whitechapel Underground Station,51.519518,51.519518,tube,hammersmith-city,940GZZLUWPL
+Whitechapel Underground Station,51.519518,-0.060144,tube,district,940GZZLUWPL
+Whitechapel Underground Station,51.519518,-0.060144,tube,hammersmith-city,940GZZLUWPL
 Whitecroft Way,51.39346,-0.0132,bus,352,490014579SW
 Whitecroft Way,51.39355,-0.01356,bus,352,490014579NE
 Whitefield Avenue,51.3186,-0.11596,bus,312,490014580S
@@ -21707,16 +21707,16 @@ Willesden Green Library,51.54723,-0.22806,bus,"260, 266, 460, 98, N266, N98",490
 Willesden Green Station,51.54888,-0.22152,bus,"260, 266, 460, N266",490000270B
 Willesden Green Station,51.54911,-0.22089,bus,"260, 266, 460, N266",490000270A
 Willesden Green Station,51.54937,-0.2214,bus,unknown,490000270W
-Willesden Green Underground Station,51.549146,51.549146,tube,jubilee,940GZZLUWIG
+Willesden Green Underground Station,51.549146,-0.2379,tube,jubilee,940GZZLUWIG
 Willesden Junction,51.532556,-0.243006,bus,"18, 220, Bakerloo, Lioness, Mildmay, N18",HUBWIJ
-Willesden Junction Rail Station,51.532497,51.532497,overground,lioness,910GWLSDJHL
-Willesden Junction Rail Station,51.532497,51.532497,overground,mildmay,910GWLSDJHL
+Willesden Junction Rail Station,51.532497,-0.2379,overground,lioness,910GWLSDJHL
+Willesden Junction Rail Station,51.532497,-0.2379,overground,mildmay,910GWLSDJHL
 Willesden Junction Station,51.53207,-0.24712,bus,"228, 266, N266",490000271L
 Willesden Junction Station,51.53221,-0.24561,bus,"220, 487",490014692N
 Willesden Junction Station,51.53223,-0.24515,bus,"220, 487",490014692E
 Willesden Junction Station,51.53261,-0.24649,bus,"228, 266, N266",490000271M
 Willesden Junction Station,51.5329,-0.24018,bus,"18, 220, N18",490015057H
-Willesden Junction Underground Station,51.532259,51.532259,tube,bakerloo,940GZZLUWJN
+Willesden Junction Underground Station,51.532259,-0.2379,tube,bakerloo,940GZZLUWJN
 Willesden Lane,51.54163,-0.1987,bus,"98, N98",490015242G
 Willesden Lane,51.54776,-0.22378,bus,"260, 266, 460, N266",490014693D
 Willesden Lane,51.54804,-0.22335,bus,"260, 266, 460, N266",490014693C
@@ -21807,7 +21807,7 @@ Wimbledon Tennis Club & Museum,51.43505,-0.21332,bus,493,490016252S
 Wimbledon Tennis Club & Museum,51.43618,-0.21407,bus,493,490016252E
 Wimbledon Theatre,51.4192,-0.19978,bus,"131, 219, 57, 93",490014742X
 Wimbledon Theatre,51.41929,-0.201,bus,"131, 219, 57, 93",490014742Y
-Wimbledon Underground Station,51.421207,51.421207,tube,district,940GZZLUWIM
+Wimbledon Underground Station,51.421207,-0.204845,tube,district,940GZZLUWIM
 Wimbledon Village / Ridgway,51.4238,-0.21595,bus,200,490014744E
 Wimbledon Village / Ridgway,51.42389,-0.21575,bus,200,490014744W
 Wimbledon War Memorial,51.4262,-0.222,bus,93,490014745E
@@ -21986,8 +21986,8 @@ Wood Lane,51.54387,0.20249,bus,252,490014870N
 Wood Lane / Highgate Station,51.57859,-0.14742,bus,"134, 43",490014875D
 Wood Lane / Highgate Station,51.57866,-0.1476,bus,"134, 43",490014875C
 Wood Lane / Railway Bridge,51.48638,-0.33983,bus,H28,490016406N
-Wood Lane Underground Station,51.509669,51.509669,tube,circle,940GZZLUWLA
-Wood Lane Underground Station,51.509669,51.509669,tube,hammersmith-city,940GZZLUWLA
+Wood Lane Underground Station,51.509669,-0.0988749999999999,tube,circle,940GZZLUWLA
+Wood Lane Underground Station,51.509669,-0.0988749999999999,tube,hammersmith-city,940GZZLUWLA
 Wood Lodge Gardens,51.41288,0.04022,bus,314,490014879N
 Wood Lodge Gardens,51.41299,0.04048,bus,314,490014879S
 Wood Ride,51.6659,-0.17054,bus,399,490019556N
@@ -21997,7 +21997,7 @@ Wood Street,51.59186,-0.00385,bus,"123, 275, 675, SL2",490014907W
 Wood Street,51.59203,-0.00378,bus,"123, 275, 675, SL2",490014907E
 Wood Street Market,51.58819,-0.00399,bus,W16,490005912S
 Wood Street Market,51.58847,-0.00431,bus,W16,490005912N
-Wood Street Rail Station,51.58658,51.58658,overground,weaver,910GWDST
+Wood Street Rail Station,51.58658,-0.0988749999999999,overground,weaver,910GWDST
 Wood Street Station,51.58649,-0.00196,bus,230,490001343A
 Wood Street Station,51.58669,-0.00299,bus,W16,490001343D
 Wood Street Station,51.58681,-0.00338,bus,W16,490001343V
@@ -22058,12 +22058,12 @@ Woodford Station,51.60743,0.03574,bus,"275, W14",490000274A
 Woodford Station,51.60766,0.03647,bus,275,490000274C
 Woodford Station,51.60865,0.03675,bus,W14,490000274B
 Woodford Trading Estate,51.59225,0.04302,bus,"123, 179, 679",490010418W
-Woodford Underground Station,51.606899,51.606899,tube,central,940GZZLUWOF
+Woodford Underground Station,51.606899,0.02776,tube,central,940GZZLUWOF
 Woodford Wells / Horse & Well,51.61704,0.02625,bus,unknown,490015121S1
 Woodgrange Avenue,51.58598,-0.30736,bus,223,490018635W
 Woodgrange Avenue,51.6075,-0.16896,bus,382,490013964W
 Woodgrange Avenue,51.60758,-0.17002,bus,382,490012996E2
-Woodgrange Park Rail Station,51.549264,51.549264,overground,suffragette,910GWDGRNPK
+Woodgrange Park Rail Station,51.549264,0.02441,overground,suffragette,910GWDGRNPK
 Woodgrange Park Station,51.54918,0.04365,bus,"25, 425, 86, N25, N86",490001341G
 Woodgrange Park Station,51.54919,0.04318,bus,"25, 425, 86, N25, N86",490001341H
 Woodgrange Road,51.54646,0.02441,bus,"25, 325, 330, 425, 58, 86, N25, N86",490006917F
@@ -22115,7 +22115,7 @@ Woodside Lane,51.44734,0.12735,bus,"132, N21",490015608W
 Woodside Park Avenue,51.58273,-0.00061,bus,230,490014897N
 Woodside Park Avenue,51.5832,3e-05,bus,230,490014897S
 Woodside Park Station,51.61783,-0.18518,bus,383,490000276W
-Woodside Park Underground Station,51.618014,51.618014,tube,northern,940GZZLUWOP
+Woodside Park Underground Station,51.618014,-0.062935,tube,northern,940GZZLUWOP
 Woodside Road,51.39138,0.04491,bus,336,490014900N
 Woodside Road,51.39232,0.04515,bus,336,490014900S
 Woodside Road,51.45823,0.17083,bus,492,490014899E
@@ -22148,7 +22148,7 @@ Woolwich,51.49119,0.07072,elizabeth-line,"122, 244, 291, 380, 422, 469, 53, 54, 
 Woolwich,51.4914,0.07138,elizabeth-line,"122, 177, 180, 244, 301, 380, 422, 469, 472, 672, 96, 99, N1",490014934E
 Woolwich,51.49186,0.07041,elizabeth-line,elizabeth,4900WOLWXR0
 Woolwich Arsenal,51.489962,0.06917,bus,"161, 177, 178, 180, 301, 386, 472, 51, 658, 672, 96, 99, DLR, N1, Southeastern, Thameslink",HUBWWA
-Woolwich Arsenal DLR Station,51.490009,51.490009,dlr,dlr,940GZZDLWLA
+Woolwich Arsenal DLR Station,51.490009,0.06319,dlr,dlr,940GZZDLWLA
 Woolwich Arsenal Station,51.48922,0.06722,bus,"161, 178, 386",490014933L
 Woolwich Arsenal Station,51.48965,0.06812,bus,"122, 244, 291, 469",490001344J
 Woolwich Arsenal Station,51.48972,0.06734,bus,"161, 178, 291, 386, 51, 53, 54, 658, N53",490001344S

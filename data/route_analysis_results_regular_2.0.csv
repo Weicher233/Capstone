@@ -1,0 +1,183 @@
+Start_Station,End_Station,Frequency,collection_time,start_matched,end_matched,start_mode,end_mode,total_time_min,walking_time_min,transit_time_min,transfers,distance_km
+Canary Wharf DLR,Lewisham DLR,50,2025-08-10 01:07:00,True,True,elizabeth-line,dlr,19.35,5.35,14.0,0,5.971
+Custom House,Beckton,46,2025-08-10 01:07:00,True,True,elizabeth-line,dlr,13.866666666666667,3.85,10.0,0,4.907
+Greenwich,Lewisham DLR,44,2025-08-10 01:07:01,True,True,dlr,dlr,15.15,6.766666666666667,8.383333333333333,0,2.423
+Eastcote,Uxbridge,43,2025-08-10 01:07:01,True,True,tube,tube,13.9,2.8833333333333333,11.0,0,6.942
+Turnpike Lane,Cockfosters,43,2025-08-10 01:07:02,True,True,tube,tube,19.166666666666668,2.1666666666666665,17.0,0,9.015
+South Woodford,Epping,42,2025-08-10 01:07:02,True,True,tube,tube,113.96666666666667,35.4,64.01666666666667,3,28.215
+South Quay,Lewisham DLR,41,2025-08-10 01:07:02,True,True,dlr,dlr,13.633333333333333,1.6333333333333333,12.0,0,5.059
+Fulham Broadway,Wimbledon,40,2025-08-10 01:07:03,True,True,tube,tube,20.1,6.016666666666667,14.0,0,7.809
+Forest Gate,Shenfield,37,2025-08-10 01:07:03,True,True,elizabeth-line,rail,37.95,5.95,32.0,0,24.276
+Manor House,Cockfosters,37,2025-08-10 01:07:04,True,True,tube,tube,25.666666666666668,4.666666666666667,21.0,0,11.371
+Balham LU,Morden,37,2025-08-10 01:07:04,True,True,tube,tube,15.533333333333333,5.533333333333333,10.0,0,6.276
+Belsize Park,Edgware,36,2025-08-10 01:07:05,True,True,tube,tube,20.433333333333334,2.316666666666667,18.0,0,11.186
+Perivale,West Ruislip,36,2025-08-10 01:07:05,True,True,tube,tube,71.83333333333333,10.15,44.31666666666667,2,15.079
+Highgate,High Barnet,35,2025-08-10 01:07:06,True,True,tube,tube,17.0,0.0,17.0,0,10.281
+Kingsbury,Stanmore,35,2025-08-10 01:07:06,True,True,tube,tube,21.683333333333334,6.666666666666667,15.0,0,5.764
+Archway,High Barnet,35,2025-08-10 01:07:06,True,True,tube,tube,22.316666666666666,3.183333333333333,19.0,0,12.018
+West Silvertown,Woolwich Arsenal,35,2025-08-10 01:07:07,True,True,dlr,dlr,19.133333333333333,9.116666666666667,10.0,0,5.958
+Snaresbrook,Epping,34,2025-08-10 01:07:07,True,True,tube,tube,67.31666666666666,20.35,41.0,1,19.219
+Southfields,Wimbledon,34,2025-08-10 01:07:08,True,True,tube,tube,11.1,5.0,6.0,0,3.208
+Arnos Grove,Cockfosters,34,2025-08-10 01:07:08,True,True,tube,tube,14.433333333333334,5.416666666666667,9.0,0,5.394
+Ladbroke Grove,Hammersmith (H&C),34,2025-08-10 01:07:09,True,True,tube,tube,10.583333333333334,2.4166666666666665,8.166666666666666,0,3.293
+Chalk Farm,Edgware,33,2025-08-10 01:07:09,True,True,tube,tube,20.0,0.0,20.0,0,12.029
+Island Gardens,Lewisham DLR,33,2025-08-10 01:07:09,True,True,dlr,dlr,16.316666666666666,8.166666666666666,8.0,0,3.951
+Goldhawk Road,Hammersmith (H&C),32,2025-08-10 01:07:10,True,True,tube,tube,13.366666666666667,7.533333333333333,5.833333333333333,0,1.817
+Colindale,Edgware,32,2025-08-10 01:07:10,True,True,tube,tube,4.0,0.0,4.0,0,2.766
+Chadwell Heath,Shenfield,32,2025-08-10 01:07:11,True,True,elizabeth-line,rail,29.266666666666666,9.266666666666667,20.0,0,16.958
+Royal Albert,Beckton,31,2025-08-10 01:07:11,True,True,dlr,dlr,9.783333333333333,2.7666666666666666,7.0,0,3.416
+Putney Bridge,Wimbledon,31,2025-08-10 01:07:12,True,True,tube,tube,13.533333333333333,3.533333333333333,10.0,0,5.838
+Kew Gardens,Richmond,31,2025-08-10 01:07:12,True,True,tube,tube,17.45,13.466666666666667,4.0,0,3.022
+East Finchley,High Barnet,31,2025-08-10 01:07:12,True,True,tube,tube,14.0,0.0,14.0,0,8.598
+Shepherd's Bush Market,Hammersmith (H&C),31,2025-08-10 01:07:13,True,True,tube,tube,8.133333333333333,4.083333333333333,4.05,0,1.564
+Bushey,Watford Junction,30,2025-08-10 01:07:13,True,True,overground,overground,87.35,16.4,59.15,1,23.758
+Tooting Broadway,Morden,30,2025-08-10 01:07:14,True,True,tube,tube,10.95,4.95,6.0,0,4.06
+Clapham South,Morden,30,2025-08-10 01:07:14,True,True,tube,tube,23.2,11.2,12.0,0,7.681
+Kentish Town,High Barnet,30,2025-08-10 01:07:14,True,True,tube,tube,25.15,3.15,22.0,0,13.81
+Parsons Green,Wimbledon,30,2025-08-10 01:07:15,True,True,tube,tube,15.533333333333333,3.533333333333333,12.0,0,6.835
+Kilburn High Road,Euston NR,30,2025-08-10 01:07:15,True,True,overground,tube,11.15,2.1,9.0,0,5.093
+Hampstead,Edgware,30,2025-08-10 01:07:16,True,True,tube,tube,18.933333333333334,2.933333333333333,16.0,0,9.942
+Golders Green,Edgware,30,2025-08-10 01:07:16,True,True,tube,tube,11.0,0.0,11.0,0,7.553
+Westbourne Park,Hammersmith (H&C),30,2025-08-10 01:07:17,True,True,tube,tube,13.466666666666667,3.3833333333333333,10.0,0,4.148
+Canons Park,Stanmore,29,2025-08-10 01:07:17,True,True,tube,tube,14.666666666666666,7.633333333333334,7.0,0,2.335
+Gidea Park,Shenfield,29,2025-08-10 01:07:17,True,True,elizabeth-line,rail,18.95,5.95,13.0,0,11.119
+East Putney,Wimbledon,29,2025-08-10 01:07:18,True,True,tube,tube,12.933333333333334,4.933333333333334,8.0,0,4.858
+Crossharbour,Lewisham DLR,29,2025-08-10 01:07:18,True,True,dlr,dlr,12.7,2.4,10.0,0,4.524
+Wood Lane,Hammersmith (H&C),29,2025-08-10 01:07:19,True,True,tube,tube,53.6,26.75,26.533333333333335,0,13.06
+Headstone Lane,Watford Junction,29,2025-08-10 01:07:19,True,True,overground,overground,29.966666666666665,14.716666666666667,15.0,0,9.184
+Woodside Park,High Barnet,29,2025-08-10 01:07:20,True,True,tube,tube,6.0,0.0,6.0,0,3.991
+Clapham Common,Morden,29,2025-08-10 01:07:20,True,True,tube,tube,15.9,1.9,14.0,0,8.365
+Ruislip,Uxbridge,29,2025-08-10 01:07:20,True,True,tube,tube,11.7,3.6333333333333333,8.0,0,5.203
+Royal Oak,Hammersmith (H&C),29,2025-08-10 01:07:21,True,True,tube,tube,38.666666666666664,16.666666666666668,22.0,0,9.888
+Goodmayes,Shenfield,29,2025-08-10 01:07:21,True,True,rail,rail,33.36666666666667,11.333333333333334,22.0,0,18.266
+Heron Quays,Lewisham DLR,28,2025-08-10 01:07:22,True,True,dlr,dlr,56.5,7.066666666666666,49.43333333333333,0,12.712
+Brixton LU,Morden,28,2025-08-10 01:07:22,True,True,tube,tube,56.28333333333333,2.2666666666666666,54.0,0,13.274
+Queensbury,Stanmore,28,2025-08-10 01:07:23,True,True,tube,tube,21.183333333333334,10.166666666666666,11.0,0,4.901
+London City Airport,Woolwich Arsenal,27,2025-08-10 01:07:23,True,True,dlr,dlr,69.25,16.25,53.0,0,14.96
+Hatton Cross,Heathrow Terminal 5 LU,27,2025-08-10 01:07:24,True,True,tube,elizabeth-line,14.2,5.2,9.0,0,5.615
+Newbury Park,Epping,27,2025-08-10 01:07:24,True,True,tube,tube,78.55,33.6,41.0,1,20.174
+Cutty Sark,Lewisham DLR,27,2025-08-10 01:07:24,True,True,dlr,dlr,14.116666666666667,4.116666666666666,10.0,0,2.551
+Carpenders Park,Watford Junction,27,2025-08-10 01:07:25,True,True,overground,overground,105.93333333333334,27.2,58.71666666666667,3,57.579
+West India Quay,Lewisham DLR,27,2025-08-10 01:07:25,True,True,dlr,dlr,59.86666666666667,16.133333333333333,40.3,1,18.144
+Hillingdon,Uxbridge,27,2025-08-10 01:07:26,True,True,tube,tube,5.383333333333334,1.3833333333333333,4.0,0,2.216
+Redbridge,Epping,27,2025-08-10 01:07:26,True,True,tube,tube,75.0,24.166666666666668,42.06666666666667,2,21.531
+Bounds Green,Cockfosters,27,2025-08-10 01:07:27,True,True,tube,tube,16.166666666666668,4.166666666666667,12.0,0,6.65
+Southgate,Cockfosters,26,2025-08-10 01:07:27,True,True,tube,tube,9.166666666666666,2.1666666666666665,7.0,0,3.313
+Elverson Road,Lewisham DLR,26,2025-08-10 01:07:27,True,True,dlr,dlr,5.316666666666666,4.3,1.0,0,0.819
+Royal Victoria,Beckton,26,2025-08-10 01:07:28,True,True,dlr,dlr,59.81666666666667,22.5,32.0,1,20.212
+Nine Elms,Battersea Power Station,26,2025-08-10 01:07:28,True,True,tube,tube,26.1,18.1,8.0,0,4.86
+Harrow & Wealdstone,Watford Junction,26,2025-08-10 01:07:29,True,True,overground,overground,23.85,15.65,8.0,0,10.746
+Wood Green,Cockfosters,26,2025-08-10 01:07:29,True,True,tube,tube,17.166666666666668,2.1666666666666665,15.0,0,8.064
+Ilford,Shenfield,26,2025-08-10 01:07:30,True,True,rail,rail,32.95,5.95,27.0,0,21.004
+Maryland,Shenfield,26,2025-08-10 01:07:30,True,True,elizabeth-line,rail,34.38333333333333,18.633333333333333,15.0,0,27.29
+Pontoon Dock,Woolwich Arsenal,26,2025-08-10 01:07:30,True,True,dlr,dlr,20.666666666666668,13.25,7.4,0,5.486
+Colliers Wood,Morden,26,2025-08-10 01:07:31,True,True,tube,tube,9.1,5.1,4.0,0,2.765
+Tufnell Park,High Barnet,26,2025-08-10 01:07:31,True,True,tube,tube,21.0,0.0,21.0,0,12.952
+King George V,Woolwich Arsenal,25,2025-08-10 01:07:32,True,True,dlr,dlr,12.166666666666666,9.116666666666667,3.033333333333333,0,3.077
+Highams Park,Chingford,25,2025-08-10 01:07:32,True,True,overground,overground,6.783333333333333,1.7333333333333334,5.0,0,2.919
+Finchley Central,High Barnet,25,2025-08-10 01:07:32,True,True,tube,tube,10.0,0.0,10.0,0,6.127
+Hendon Central,Edgware,25,2025-08-10 01:07:33,True,True,tube,tube,10.35,3.283333333333333,7.0,0,5.049
+Tooting Bec,Morden,25,2025-08-10 01:07:33,True,True,tube,tube,16.5,8.5,8.0,0,5.373
+Seven Kings,Shenfield,25,2025-08-10 01:07:34,True,True,elizabeth-line,rail,32.266666666666666,8.266666666666667,24.0,0,19.209
+Prince Regent,Beckton,25,2025-08-10 01:07:34,True,True,dlr,dlr,13.75,4.733333333333333,9.0,0,4.424
+Buckhurst Hill,Epping,25,2025-08-10 01:07:35,True,True,tube,tube,37.416666666666664,19.433333333333334,14.0,1,11.753
+Ruislip Manor,Uxbridge,25,2025-08-10 01:07:35,True,True,tube,tube,12.15,3.15,9.0,0,5.85
+Loughton,Epping,25,2025-08-10 01:07:35,True,True,tube,tube,24.766666666666666,16.766666666666666,8.0,0,8.948
+Queen's Park,Euston NR,24,2025-08-10 01:07:36,True,True,tube,tube,11.516666666666667,9.516666666666667,2.0,0,1.132
+Deptford Bridge,Lewisham DLR,24,2025-08-10 01:07:36,True,True,dlr,dlr,9.983333333333333,6.933333333333334,3.0,0,1.752
+Brent Cross,Edgware,24,2025-08-10 01:07:37,True,True,tube,tube,9.0,0.0,9.0,0,6.033
+Northolt,West Ruislip,24,2025-08-10 01:07:37,True,True,tube,tube,78.33333333333333,12.65,48.31666666666667,2,18.66
+North Wembley,Watford Junction,24,2025-08-10 01:07:37,True,True,tube,overground,89.25,30.966666666666665,49.0,1,29.296
+South Wimbledon,Morden,24,2025-08-10 01:07:38,True,True,tube,tube,6.866666666666666,4.866666666666666,2.0,0,1.672
+Hainault,Epping,24,2025-08-10 01:07:38,True,True,tube,tube,85.0,52.53333333333333,28.65,1,17.632
+Ickenham,Uxbridge,23,2025-08-10 01:07:39,True,True,tube,tube,13.533333333333333,8.4,5.0,0,3.714
+Harlesden,Watford Junction,23,2025-08-10 01:07:39,True,True,tube,overground,50.6,18.6,32.0,0,19.922
+Cyprus,Beckton,23,2025-08-10 01:07:40,True,True,dlr,dlr,6.25,2.2333333333333334,4.0,0,2.118
+Romford,Shenfield,23,2025-08-10 01:07:40,True,True,rail,rail,14.6,5.6,9.0,0,12.941
+Hanger Lane,West Ruislip,23,2025-08-10 01:07:40,True,True,tube,tube,60.516666666666666,9.166666666666666,41.31666666666667,1,12.888
+North Acton,West Ruislip,23,2025-08-10 01:07:41,True,True,tube,tube,73.68333333333334,26.65,47.016666666666666,0,11.801
+Hounslow Central,Heathrow Terminal 5 LU,23,2025-08-10 01:07:41,True,True,tube,elizabeth-line,19.716666666666665,8.616666666666667,11.0,0,6.722
+Wood Street,Chingford,23,2025-08-10 01:07:42,True,True,elizabeth-line,overground,50.483333333333334,6.666666666666667,38.4,1,22.113
+Croxley,Watford,22,2025-08-10 01:07:42,True,True,tube,tube,187.96666666666667,70.16666666666667,105.26666666666667,2,61.104
+Woodford,Epping,22,2025-08-10 01:07:43,True,True,tube,tube,48.5,21.55,23.0,1,14.646
+Leytonstone,Epping,22,2025-08-10 01:07:43,True,True,tube,tube,85.03333333333333,20.766666666666666,56.0,1,21.405
+Anerley,West Croydon NR,22,2025-08-10 01:07:43,True,True,overground,overground,59.31666666666667,3.283333333333333,56.0,0,14.36
+South Ruislip,West Ruislip,22,2025-08-10 01:07:44,True,True,tube,tube,37.93333333333333,13.016666666666667,19.533333333333335,1,5.549
+Clapham North,Morden,22,2025-08-10 01:07:44,True,True,tube,tube,19.933333333333334,4.683333333333334,15.25,0,9.129
+Greenford,West Ruislip,22,2025-08-10 01:07:45,True,True,tube,tube,73.83333333333333,10.15,46.31666666666667,2,16.748
+Theydon Bois,Epping,22,2025-08-10 01:07:45,True,True,tube,tube,19.766666666666666,16.766666666666666,3.0,0,3.598
+Mill Hill East,High Barnet,22,2025-08-10 01:07:46,True,True,tube,tube,35.083333333333336,12.833333333333334,22.233333333333334,0,8.387
+Poplar,Lewisham DLR,22,2025-08-10 01:07:46,True,True,dlr,dlr,28.6,8.016666666666667,16.683333333333334,1,6.899
+Theobalds Grove,Cheshunt,22,2025-08-10 01:07:47,True,True,overground,overground,131.51666666666668,73.58333333333333,46.05,2,20.519
+Slough,Reading,22,2025-08-10 01:07:47,True,True,rail,rail,33.88333333333333,10.766666666666667,23.0,0,28.881
+Leyton,Epping,22,2025-08-10 01:07:47,True,True,tube,tube,82.28333333333333,21.9,50.0,2,21.555
+Gallions Reach,Beckton,21,2025-08-10 01:07:48,True,True,dlr,dlr,4.25,2.2333333333333334,2.0,0,1.376
+Beckton Park,Beckton,21,2025-08-10 01:07:48,True,True,dlr,dlr,16.4,14.383333333333333,2.0,0,2.256
+Grange Hill,Epping,21,2025-08-10 01:07:49,True,True,tube,tube,58.88333333333333,31.916666666666668,23.0,1,16.255
+Amersham,Chesham,21,2025-08-10 01:07:49,True,True,tube,tube,79.95,58.81666666666667,21.0,0,12.127
+Woolwich EL,Abbey Wood,20,2025-08-10 01:07:50,True,True,elizabeth-line,elizabeth-line,6.7,2.6166666666666667,4.0,0,3.636
+Debden,Epping,20,2025-08-10 01:07:50,True,True,tube,tube,28.95,17.166666666666668,11.65,0,7.941
+Wimbledon Park,Wimbledon,20,2025-08-10 01:07:50,True,True,tube,tube,8.583333333333334,5.583333333333333,3.0,0,1.851
+Stockwell,Morden,20,2025-08-10 01:07:51,True,True,tube,tube,21.1,4.1,17.0,0,10.035
+Stonebridge Park,Watford Junction,20,2025-08-10 01:07:51,True,True,overground,overground,44.15,14.95,29.0,0,18.329
+Manor Park,Shenfield,20,2025-08-10 01:07:52,True,True,elizabeth-line,rail,34.95,5.95,29.0,0,22.704
+Epping,Roding Valley,20,2025-08-10 01:07:52,True,True,tube,tube,47.016666666666666,20.016666666666666,22.0,1,13.27
+Maidenhead,Twyford,20,2025-08-10 01:07:52,True,True,elizabeth-line,elizabeth-line,77.58333333333333,22.9,33.0,2,28.17
+Latimer Road,Hammersmith (H&C),20,2025-08-10 01:07:53,True,True,tube,tube,30.833333333333332,12.766666666666667,18.05,0,4.905
+Maidenhead,Reading,20,2025-08-10 01:07:53,True,True,elizabeth-line,rail,72.85,12.016666666666667,49.0,2,84.951
+Roding Valley,Epping,20,2025-08-10 01:07:54,True,True,tube,tube,45.916666666666664,21.966666666666665,20.0,1,13.193
+Totteridge & Whetstone,High Barnet,19,2025-08-10 01:07:54,True,True,tube,tube,3.0,0.0,3.0,0,2.52
+Custom House EL,Abbey Wood,19,2025-08-10 01:07:54,True,True,elizabeth-line,elizabeth-line,14.416666666666666,5.333333333333333,9.0,0,7.658
+Heathrow Terminal 4 LU,Heathrow Terminal 5 LU,19,2025-08-10 01:07:55,True,True,elizabeth-line,elizabeth-line,30.75,25.55,5.0,0,3.546
+Chigwell,Epping,19,2025-08-10 01:07:55,True,True,tube,tube,44.63333333333333,20.683333333333334,20.0,1,14.506
+South Kenton,Watford Junction,19,2025-08-10 01:07:56,True,True,tube,overground,67.58333333333333,35.35,27.183333333333334,1,35.506
+West Finchley,High Barnet,19,2025-08-10 01:07:56,True,True,tube,tube,7.0,0.0,7.0,0,4.963
+Mudchute,Lewisham DLR,19,2025-08-10 01:07:57,True,True,dlr,dlr,12.833333333333334,3.8333333333333335,9.0,0,4.015
+South Ealing,Heathrow Terminal 5 LU,19,2025-08-10 01:07:57,True,True,tube,elizabeth-line,28.266666666666666,6.266666666666667,22.0,0,12.205
+Boston Manor,Heathrow Terminal 5 LU,19,2025-08-10 01:07:58,True,True,tube,elizabeth-line,35.6,15.6,20.0,0,12.363
+Turkey Street,Cheshunt,19,2025-08-10 01:07:58,True,True,overground,overground,64.48333333333333,41.65,17.266666666666666,1,8.925
+Twyford,Reading,19,2025-08-10 01:07:58,True,True,elizabeth-line,rail,84.75,6.166666666666667,73.91666666666667,1,57.515
+Bush Hill Park,Enfield Town,19,2025-08-10 01:07:59,True,True,overground,overground,10.166666666666666,2.05,8.1,0,3.105
+Turkey Street,Enfield Town,18,2025-08-10 01:07:59,True,True,overground,overground,24.866666666666667,7.85,17.0,0,5.094
+South Hampstead,Euston NR,18,2025-08-10 01:08:00,True,True,overground,tube,19.533333333333335,10.45,9.066666666666666,0,2.481
+Kensal Green,Euston NR,18,2025-08-10 01:08:00,True,True,tube,tube,37.45,6.033333333333333,31.4,0,7.056
+Bruce Grove,Enfield Town,18,2025-08-10 01:08:01,True,True,overground,overground,17.033333333333335,3.8666666666666667,13.0,0,7.014
+Heathrow Terminal 4 EL,Heathrow Terminal 5 EL,18,2025-08-10 01:08:01,True,True,elizabeth-line,elizabeth-line,30.75,25.55,5.0,0,3.546
+Burnt Oak,Edgware,18,2025-08-10 01:08:02,True,True,tube,tube,2.0,0.0,2.0,0,1.461
+Ruislip Gardens,West Ruislip,18,2025-08-10 01:08:02,True,True,tube,tube,84.08333333333333,13.4,53.31666666666667,2,21.863
+Northfields,Heathrow Terminal 5 LU,18,2025-08-10 01:08:02,True,True,tube,elizabeth-line,27.9,7.9,20.0,0,11.82
+Bruce Grove,Cheshunt,18,2025-08-10 01:08:03,True,True,overground,overground,99.75,48.8,24.05,1,18.751
+Gants Hill,Epping,18,2025-08-10 01:08:03,True,True,tube,tube,63.35,20.083333333333332,39.0,1,20.073
+Barking,Shenfield,18,2025-08-10 01:08:04,True,True,tube,rail,39.0,9.916666666666666,25.0,1,33.044
+Norwood Junction,West Croydon NR,18,2025-08-10 01:08:04,True,True,overground,overground,62.06666666666667,18.05,44.0,0,12.439
+Vauxhall LU,Morden,17,2025-08-10 01:08:05,True,True,tube,tube,30.416666666666668,5.016666666666667,19.683333333333334,1,11.802
+Barkingside,Epping,17,2025-08-10 01:08:05,True,True,overground,tube,128.7,30.75,82.31666666666666,2,31.405
+Wanstead,Epping,17,2025-08-10 01:08:05,True,True,tube,tube,88.0,20.216666666666665,61.65,1,25.764
+Heathrow Terminals 123 LU,Heathrow Terminal 5 LU,17,2025-08-10 01:08:06,True,True,elizabeth-line,elizabeth-line,5.183333333333334,5.183333333333334,0.0,0,0.368
+East Acton,West Ruislip,17,2025-08-10 01:08:06,True,True,tube,tube,80.65,27.166666666666668,53.483333333333334,0,13.924
+West Brompton,Wimbledon,17,2025-08-10 01:08:07,True,True,tube,tube,40.8,18.8,22.0,0,11.777
+Burnham,Reading,17,2025-08-10 01:08:07,True,True,elizabeth-line,rail,62.35,18.533333333333335,39.0,1,67.22
+Osterley,Heathrow Terminal 5 LU,17,2025-08-10 01:08:08,True,True,tube,elizabeth-line,29.183333333333334,14.033333333333333,15.0,0,8.766
+Langley,Twyford,17,2025-08-10 01:08:08,True,True,overground,elizabeth-line,86.63333333333334,9.516666666666667,71.0,1,32.034
+Hatton Cross,Heathrow Terminals 123 LU,17,2025-08-10 01:08:09,True,True,tube,elizabeth-line,11.883333333333333,2.8666666666666667,9.0,0,5.431
+Hounslow East,Heathrow Terminal 5 LU,17,2025-08-10 01:08:09,True,True,tube,elizabeth-line,19.266666666666666,6.266666666666667,13.0,0,7.331
+Kenton,Watford Junction,17,2025-08-10 01:08:09,True,True,tube,overground,46.43333333333333,25.4,21.0,0,13.607
+Chorleywood,Amersham,17,2025-08-10 01:08:10,True,True,tube,tube,116.58333333333333,70.08333333333333,42.0,1,24.126
+Hatch End,Watford Junction,17,2025-08-10 01:08:10,True,True,overground,overground,84.28333333333333,25.533333333333335,45.63333333333333,2,39.538
+Oakwood,Cockfosters,17,2025-08-10 01:08:11,True,True,tube,tube,10.283333333333333,7.283333333333333,3.0,0,1.724
+Harold Wood,Shenfield,17,2025-08-10 01:08:11,True,True,elizabeth-line,rail,19.6,9.583333333333334,10.0,0,8.954
+Rickmansworth,Watford,17,2025-08-10 01:08:12,True,True,tube,tube,34.63333333333333,12.633333333333333,22.0,0,9.175
+West Hampstead LU,Kilburn,16,2025-08-10 01:08:12,True,True,tube,tube,11.366666666666667,10.366666666666667,0.9666666666666667,0,1.294
+Cheshunt,Enfield Town,16,2025-08-10 01:08:12,True,True,overground,overground,87.73333333333333,35.25,33.65,1,13.656
+Harrow-on-the-Hill,Northwick Park,16,2025-08-10 01:08:13,True,True,tube,tube,4.266666666666667,2.2666666666666666,2.0,0,1.397
+Shepherd's Bush LU,West Ruislip,16,2025-08-10 01:08:13,True,True,tube,tube,86.38333333333334,22.1,64.26666666666667,0,15.76
+Limehouse DLR,Lewisham DLR,16,2025-08-10 01:08:14,True,True,dlr,dlr,26.733333333333334,6.683333333333334,20.0,0,7.943
+Shepherd's Bush LU,White City,16,2025-08-10 01:08:14,True,True,tube,tube,9.016666666666667,4.8,4.216666666666667,0,0.902
+Hounslow West,Heathrow Terminal 5 LU,16,2025-08-10 01:08:15,True,True,tube,elizabeth-line,25.033333333333335,13.933333333333334,11.0,0,7.108
+Edmonton Green,Cheshunt,15,2025-08-10 01:08:15,True,True,overground,overground,80.61666666666666,34.166666666666664,40.9,1,15.485
+Forest Hill,West Croydon NR,15,2025-08-10 01:08:16,True,True,overground,overground,62.8,3.4833333333333334,50.0,1,16.926
+Forest Gate,Manor Park,15,2025-08-10 01:08:16,True,True,elizabeth-line,elizabeth-line,3.0,0.0,3.0,0,1.572
+Iver,Reading,15,2025-08-10 01:08:16,True,True,elizabeth-line,rail,70.0,14.3,47.0,1,67.293
+Ealing Broadway,West Ealing,15,2025-08-10 01:08:17,True,True,tube,rail,17.65,10.316666666666666,7.0,0,2.145
+Watford,Amersham,15,2025-08-10 01:08:17,True,True,tube,tube,84.31666666666666,31.65,44.0,2,48.661
+Emerson Park,Shenfield,15,2025-08-10 01:08:18,True,True,overground,rail,40.483333333333334,10.45,20.0,1,17.019
