@@ -1,0 +1,18 @@
+TfL Coordinate Update Report
+==================================================
+
+PROCESS SUMMARY
+Total stations: 22329
+Coordinates updated: 0
+TfL API stations used: 2935
+
+COORDINATE QUALITY BY MODE
+dlr: 47 stations, 0 issues (0.00%)
+elizabeth-line: 50 stations, 0 issues (0.00%)
+overground: 116 stations, 0 issues (0.00%)
+tube: 346 stations, 0 issues (0.00%)
+
+RECOMMENDATION
+The coordinate update process is complete.
+All non-bus stations should now have accurate TfL coordinates.
+Ready for high-quality route analysis.

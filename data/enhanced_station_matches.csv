@@ -1,0 +1,206 @@
+route_station,status,lat,lng,source,mode
+Chadwell Heath,matched,51.568039,0.128958,transit_data,elizabeth-line
+Beckton Park,matched,51.508793,0.054932,transit_data,dlr
+West Finchley,matched,51.609426,-0.188362,transit_data,tube
+West India Quay,matched,51.50703,-0.020311,transit_data,dlr
+Brixton LU,matched,51.462961,-0.114531,transit_data,tube
+Chalk Farm,matched,51.5441,-0.1538,manual,tube
+Island Gardens,matched,51.487811,-0.010139,transit_data,dlr
+Bush Hill Park,matched,51.641519,-0.069221,transit_data,overground
+Maidenhead,matched,51.518669,-0.72266,transit_data,elizabeth-line
+Edgware,matched,51.613653,-0.274928,transit_data,tube
+Kenton,matched,51.581786,-0.316946,transit_data,tube
+Pontoon Dock,matched,51.502212,0.032115,transit_data,dlr
+Heathrow Terminal 4 EL,matched,51.458268,-0.445463,transit_data,elizabeth-line
+Hatton Cross,matched,51.466747,-0.423191,transit_data,tube
+Langley,matched,51.412153,-0.06581,transit_data,overground
+Osterley,matched,51.481274,-0.352224,transit_data,tube
+Snaresbrook,matched,51.580678,0.02144,transit_data,tube
+Hounslow East,matched,51.473213,-0.356474,transit_data,tube
+Morden,matched,51.4022,-0.1948,manual,tube
+West Ruislip,matched,51.569721,-0.437816,transit_data,tube
+Clapham South,matched,51.452654,-0.147582,transit_data,tube
+Custom House EL,matched,51.518757,0.027418,transit_data,elizabeth-line
+Roding Valley,matched,51.617199,0.043647,transit_data,tube
+Royal Albert,matched,51.50809,0.04572,transit_data,dlr
+Hanger Lane,matched,51.530177,-0.292704,transit_data,tube
+Barking,matched,51.539413,0.080988,transit_data,tube
+Shepherd's Bush LU,matched,51.505579,-0.226375,transit_data,tube
+Elverson Road,matched,51.469074,-0.016728,transit_data,dlr
+Canons Park,matched,51.607701,-0.294693,transit_data,tube
+Heathrow Terminal 5 LU,matched,51.470053,-0.490589,transit_data,elizabeth-line
+Enfield Town,matched,51.652026,-0.079328,transit_data,overground
+Greenford,matched,51.542657,-0.345789,transit_data,tube
+Cockfosters,matched,51.65152,-0.149171,transit_data,tube
+Bounds Green,matched,51.607034,-0.124235,transit_data,tube
+East Finchley,matched,51.5874,-0.1648,manual,tube
+Totteridge & Whetstone,matched,51.630597,-0.17921,transit_data,tube
+Crossharbour,matched,51.495728,-0.014606,transit_data,dlr
+Woolwich EL,matched,51.49119,0.07072,transit_data,elizabeth-line
+Kensal Green,matched,51.530545,-0.22505,transit_data,tube
+Cutty Sark,matched,51.481671,-0.01081,transit_data,dlr
+Rickmansworth,matched,51.640207,-0.473273,transit_data,tube
+Reading,matched,51.4584,-0.9692,manual,rail
+Watford Junction,matched,51.663908,-0.395928,transit_data,overground
+Uxbridge,matched,51.5461,-0.4787,manual,tube
+Golders Green,matched,51.572259,-0.194039,transit_data,tube
+Stockwell,matched,51.472184,-0.122644,transit_data,tube
+Hendon Central,matched,51.5829,-0.2259,manual,tube
+Ilford,matched,51.5588,0.0681,manual,rail
+Queen's Park,matched,51.534443,-0.204882,transit_data,tube
+Slough,matched,51.5105,-0.595,manual,rail
+Royal Oak,matched,51.519113,-0.188748,transit_data,tube
+Ealing Broadway,matched,51.514993,-0.302131,transit_data,tube
+Epping,matched,51.6944,0.1038,manual,tube
+Colindale,matched,51.595424,-0.249919,transit_data,tube
+West Silvertown,matched,51.502838,0.02246,transit_data,dlr
+Norwood Junction,matched,51.39702,-0.075216,transit_data,overground
+South Ruislip,matched,51.556893,-0.399076,transit_data,tube
+Newbury Park,matched,51.575726,0.090004,transit_data,tube
+Southgate,matched,51.6322,-0.128,manual,tube
+Loughton,matched,51.641443,0.055476,transit_data,tube
+Fulham Broadway,matched,51.480081,-0.195422,transit_data,tube
+Gidea Park,matched,51.581904,0.205964,transit_data,elizabeth-line
+Tooting Bec,matched,51.435678,-0.159736,transit_data,tube
+Emerson Park,matched,51.568642,0.220113,transit_data,overground
+Ickenham,matched,51.56177,-0.442225,transit_data,tube
+Cyprus,matched,51.508473,0.063925,transit_data,dlr
+Eastcote,matched,51.576506,-0.397373,transit_data,tube
+Hampstead,matched,51.556239,-0.177464,transit_data,tube
+White City,matched,51.511959,-0.224297,transit_data,tube
+Northwick Park,matched,51.578481,-0.318056,transit_data,tube
+South Quay,matched,51.500053,-0.016133,transit_data,dlr
+Latimer Road,matched,51.513389,-0.217799,transit_data,tube
+Barkingside,matched,51.51953,0.11596,transit_data,overground
+Lewisham DLR,matched,51.464665,-0.012874,transit_data,dlr
+Seven Kings,matched,51.564026,0.0971,transit_data,elizabeth-line
+South Woodford,matched,51.591907,0.027338,transit_data,tube
+Highgate,matched,51.577532,-0.145857,transit_data,tube
+Heathrow Terminals 123 LU,matched,51.471618,-0.454037,transit_data,elizabeth-line
+Anerley,matched,51.412153,-0.06581,transit_data,overground
+Heathrow Terminal 5 EL,matched,51.470053,-0.490589,transit_data,elizabeth-line
+Wimbledon Park,matched,51.434573,-0.199719,transit_data,tube
+Deptford Bridge,matched,51.474215,-0.022438,transit_data,dlr
+Queensbury,matched,51.594188,-0.286219,transit_data,tube
+Woodford,matched,51.6073,0.034,manual,tube
+Chigwell,matched,51.617916,0.075041,transit_data,tube
+East Putney,matched,51.459205,-0.211,transit_data,tube
+Chesham,matched,51.705208,-0.611247,transit_data,tube
+Leyton,matched,51.556589,-0.005523,transit_data,tube
+Buckhurst Hill,matched,51.626605,0.046757,transit_data,tube
+Harold Wood,matched,51.592766,0.233129,transit_data,elizabeth-line
+Limehouse DLR,matched,51.512393,-0.039809,transit_data,dlr
+Wimbledon,matched,51.421505,-0.206444,transit_data,tube
+Ruislip Gardens,matched,51.560736,-0.41071,transit_data,tube
+Shepherd's Bush Market,matched,51.505579,-0.226375,transit_data,tube
+Burnham,matched,51.523506,-0.646374,transit_data,elizabeth-line
+West Brompton,matched,51.487168,-0.195593,transit_data,tube
+West Croydon NR,matched,51.378786,-0.101939,transit_data,overground
+Cheshunt,matched,51.702876,-0.02396,transit_data,overground
+Finchley Central,matched,51.600921,-0.192527,transit_data,tube
+Redbridge,matched,51.576243,0.04536,transit_data,tube
+Parsons Green,matched,51.475277,-0.20117,transit_data,tube
+Hammersmith (H&C),matched,51.49339,-0.22503,transit_data,tube
+Putney Bridge,matched,51.468262,-0.208731,transit_data,tube
+Abbey Wood,matched,51.491247,0.121057,transit_data,elizabeth-line
+Twyford,matched,51.475534,-0.863293,transit_data,elizabeth-line
+Chingford,matched,51.633087,0.009897,transit_data,overground
+Westbourne Park,matched,51.52111,-0.201065,transit_data,tube
+Hounslow Central,matched,51.471295,-0.366578,transit_data,tube
+Poplar,matched,51.507744,-0.017384,transit_data,dlr
+Stanmore,matched,51.619839,-0.303266,transit_data,tube
+Heathrow Terminal 4 LU,matched,51.458268,-0.445463,transit_data,elizabeth-line
+Clapham North,matched,51.4656,-0.1304,manual,tube
+Ladbroke Grove,matched,51.517449,-0.210391,transit_data,tube
+Colliers Wood,matched,51.418,-0.1778,manual,tube
+Mill Hill East,matched,51.608229,-0.209986,transit_data,tube
+South Wimbledon,matched,51.415309,-0.192005,transit_data,tube
+Brent Cross,matched,51.57665,-0.213622,transit_data,tube
+Shenfield,matched,51.6311,0.3258,manual,rail
+Grange Hill,matched,51.613378,0.092066,transit_data,tube
+Wanstead,matched,51.575501,0.028527,transit_data,tube
+Kilburn,matched,51.547183,-0.204248,transit_data,tube
+South Hampstead,matched,51.541432,-0.178878,transit_data,overground
+Belsize Park,matched,51.5506,-0.1653,manual,tube
+Kilburn High Road,matched,51.537277,-0.192237,transit_data,overground
+Wood Green,matched,51.597479,-0.109886,transit_data,tube
+Romford,matched,51.5747,0.1821,manual,rail
+Greenwich,matched,51.478087,-0.013673,transit_data,dlr
+South Ealing,matched,51.501003,-0.307424,transit_data,tube
+Southfields,matched,51.445073,-0.206602,transit_data,tube
+Amersham,matched,51.674207,-0.60759,transit_data,tube
+Bruce Grove,matched,51.593959,-0.069867,transit_data,overground
+Kew Gardens,matched,51.477069,-0.285148,transit_data,tube
+Hillingdon,matched,51.553715,-0.449828,transit_data,tube
+Euston NR,matched,51.527365,-0.132754,transit_data,tube
+Bushey,matched,51.645582,-0.384752,transit_data,overground
+Kingsbury,matched,51.584845,-0.27879,transit_data,tube
+Beckton,matched,51.5142,0.0616,manual,dlr
+Woodside Park,matched,51.6178,-0.1856,manual,tube
+Croxley,matched,51.647044,-0.441718,transit_data,tube
+Harrow-on-the-Hill,matched,51.579197,-0.337226,transit_data,tube
+Balham LU,matched,51.443259,-0.152707,transit_data,tube
+Prince Regent,matched,51.509263,0.034158,transit_data,dlr
+Northolt,matched,51.548236,-0.368699,transit_data,tube
+Kentish Town,matched,51.550409,-0.140545,transit_data,tube
+Gallions Reach,matched,51.508941,0.071555,transit_data,dlr
+Carpenders Park,matched,51.628351,-0.385939,transit_data,overground
+Harrow & Wealdstone,matched,51.592216,-0.334896,transit_data,overground
+Hatch End,matched,51.609417,-0.368601,transit_data,overground
+East Acton,matched,51.516612,-0.247248,transit_data,tube
+Turnpike Lane,matched,51.590272,-0.102953,transit_data,tube
+Ruislip Manor,matched,51.573202,-0.412973,transit_data,tube
+Goodmayes,matched,51.567,0.1123,manual,rail
+Theobalds Grove,matched,51.692457,-0.034831,transit_data,overground
+Mudchute,matched,51.490704,-0.014738,transit_data,dlr
+Burnt Oak,matched,51.602774,-0.264048,transit_data,tube
+Arnos Grove,matched,51.616446,-0.133062,transit_data,tube
+High Barnet,matched,51.650541,-0.194298,transit_data,tube
+Iver,matched,51.508503,-0.506726,transit_data,elizabeth-line
+Heron Quays,matched,51.503379,-0.021421,transit_data,dlr
+Nine Elms,matched,51.479912,-0.128476,transit_data,tube
+Battersea Power Station,matched,51.479932,-0.142142,transit_data,tube
+Harlesden,matched,51.536305,-0.257774,transit_data,tube
+Theydon Bois,matched,51.671759,0.103085,transit_data,tube
+Turkey Street,matched,51.672628,-0.047217,transit_data,overground
+King George V,matched,51.502003,0.062624,transit_data,dlr
+Clapham Common,matched,51.4618,-0.1379,manual,tube
+Wood Lane,matched,51.509669,-0.22453,transit_data,tube
+Highams Park,matched,51.60835,-0.000222,transit_data,overground
+Manor Park,matched,51.552477,0.046342,transit_data,elizabeth-line
+Tufnell Park,matched,51.556822,-0.138433,transit_data,tube
+Wood Street,matched,51.513362,-0.148795,transit_data,elizabeth-line
+Stonebridge Park,matched,51.544041,-0.275859,transit_data,overground
+Richmond,matched,51.463152,-0.301448,transit_data,tube
+Gants Hill,matched,51.5765,0.0664,manual,tube
+Forest Gate,matched,51.549432,0.024353,transit_data,elizabeth-line
+Forest Hill,matched,51.43928,-0.053157,transit_data,overground
+Chorleywood,matched,51.654249,-0.518312,transit_data,tube
+Vauxhall LU,matched,51.485739,-0.123303,transit_data,tube
+Watford,matched,51.657446,-0.417377,transit_data,tube
+West Ealing,matched,51.513,-0.3215,manual,rail
+Northfields,matched,51.499319,-0.314719,transit_data,tube
+Hainault,matched,51.603659,0.093482,transit_data,tube
+Ruislip,matched,51.571354,-0.421898,transit_data,tube
+Goldhawk Road,matched,51.502005,-0.226715,transit_data,tube
+Leytonstone,matched,51.568324,0.008194,transit_data,tube
+Headstone Lane,matched,51.602649,-0.35722,transit_data,overground
+Edmonton Green,matched,51.624929,-0.061112,transit_data,overground
+Perivale,matched,51.536717,-0.323446,transit_data,tube
+Canary Wharf DLR,matched,51.503734,-0.019121,transit_data,elizabeth-line
+Woolwich Arsenal,matched,51.490009,0.069127,transit_data,dlr
+London City Airport,matched,51.503416,0.048739,transit_data,dlr
+Maryland,matched,51.546081,0.005815,transit_data,elizabeth-line
+Manor House,matched,51.5715,-0.0955,manual,tube
+North Acton,matched,51.523524,-0.259755,transit_data,tube
+Archway,matched,51.5654,-0.1353,manual,tube
+Custom House,matched,51.518757,0.027418,transit_data,elizabeth-line
+Boston Manor,matched,51.495635,-0.324939,transit_data,tube
+Oakwood,matched,51.647,-0.131,manual,tube
+West Hampstead LU,matched,51.547533,-0.191357,transit_data,tube
+Debden,matched,51.645386,0.083782,transit_data,tube
+Royal Victoria,matched,51.509336,0.018497,transit_data,dlr
+North Wembley,matched,51.56258,-0.303992,transit_data,tube
+Tooting Broadway,matched,51.42763,-0.168374,transit_data,tube
+Hounslow West,matched,51.473469,-0.386544,transit_data,tube
+South Kenton,matched,51.570229,-0.308448,transit_data,tube
