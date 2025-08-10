@@ -1,0 +1,206 @@
+OD_Station,Matched_Station,Match_Score,Match_Type
+Chadwell Heath,Chadwell Heath Station,1.0,精确匹配
+Beckton Park,Beckton Park Station,1.0,精确匹配
+West Finchley,West Finchley Underground Station,1.0,精确匹配
+West India Quay,West India Quay DLR Station,1.0,精确匹配
+Brixton LU,Brixton Station,0.7470588235294118,相似度匹配
+Chalk Farm,Chalk Farm Underground Station,1.0,精确匹配
+Island Gardens,Island Gardens Station,1.0,精确匹配
+Bush Hill Park,Bush Hill Park Rail Station,1.0,精确匹配
+Maidenhead,Maidenhead Rail Station,1.0,精确匹配
+Edgware,Edgware Underground Station,1.0,精确匹配
+Kenton,Kenton Station,1.0,精确匹配
+Pontoon Dock,Pontoon Dock Station,1.0,精确匹配
+Heathrow Terminal 4 EL,Heathrow Terminal 4 Underground Station,1.0,精确匹配
+Hatton Cross,Hatton Cross Underground Station,1.0,精确匹配
+Langley,Langley Road,0.7210526315789474,相似度匹配
+Osterley,Osterley Underground Station,1.0,精确匹配
+Snaresbrook,Snaresbrook Underground Station,1.0,精确匹配
+Hounslow East,Hounslow East Station,1.0,精确匹配
+Morden,Morden Underground Station,1.0,精确匹配
+West Ruislip,West Ruislip Underground Station,1.0,精确匹配
+Clapham South,Clapham South Underground Station,1.0,精确匹配
+Custom House EL,Custom House Station,1.0,精确匹配
+Roding Valley,Roding Valley Underground Station,1.0,精确匹配
+Royal Albert,Royal Albert DLR Station,1.0,精确匹配
+Hanger Lane,Hanger Lane Underground Station,1.0,精确匹配
+Barking,Barking Underground Station,1.0,精确匹配
+Shepherd's Bush LU,Shepherd's Bush Station,0.878048780487805,相似度匹配
+Elverson Road,Elverson Road,1.0,精确匹配
+Canons Park,Canons Park Underground Station,1.0,精确匹配
+Heathrow Terminal 5 LU,Heathrow Terminal 5,0.878048780487805,相似度匹配
+Enfield Town,Enfield Town Station,1.0,精确匹配
+Greenford,Greenford Underground Station,1.0,精确匹配
+Cockfosters,Cockfosters Underground Station,1.0,精确匹配
+Bounds Green,Bounds Green Station,1.0,精确匹配
+East Finchley,East Finchley Station,1.0,精确匹配
+Totteridge & Whetstone,Totteridge & Whetstone Underground Station,1.0,精确匹配
+Crossharbour,Crossharbour Station,1.0,精确匹配
+Woolwich EL,Woolwich,1.0,精确匹配
+Kensal Green,Kensal Green Rail Station,1.0,精确匹配
+Cutty Sark,Cutty Sark,1.0,精确匹配
+Rickmansworth,Rickmansworth,1.0,精确匹配
+Reading,Reading Rail Station,1.0,精确匹配
+Watford Junction,Watford Junction Rail Station,1.0,精确匹配
+Uxbridge,Uxbridge Station,1.0,精确匹配
+Golders Green,Golders Green Station,1.0,精确匹配
+Stockwell,Stockwell Station,1.0,精确匹配
+Hendon Central,Hendon Central Underground Station,1.0,精确匹配
+Ilford,Ilford Station,1.0,精确匹配
+Queen's Park,Queen's Park Underground Station,1.0,精确匹配
+Slough,Slough Rail Station,1.0,精确匹配
+Royal Oak,Royal Oak Underground Station,1.0,精确匹配
+Ealing Broadway,Ealing Broadway Underground Station,1.0,精确匹配
+Epping,Epping Underground Station,1.0,精确匹配
+Colindale,Colindale Underground Station,1.0,精确匹配
+West Silvertown,West Silvertown Station,1.0,精确匹配
+Norwood Junction,Norwood Junction Station,1.0,精确匹配
+South Ruislip,South Ruislip Underground Station,1.0,精确匹配
+Southgate,Southgate Underground Station,1.0,精确匹配
+Newbury Park,Newbury Park Underground Station,1.0,精确匹配
+Loughton,Loughton Station,1.0,精确匹配
+Gidea Park,Gidea Park Rail Station,1.0,精确匹配
+Tooting Bec,Tooting Bec Underground Station,1.0,精确匹配
+Fulham Broadway,Fulham Broadway Station,1.0,精确匹配
+Emerson Park,Emerson Park Rail Station,1.0,精确匹配
+Ickenham,Ickenham Station,1.0,精确匹配
+Cyprus,Cyprus Station,1.0,精确匹配
+Eastcote,Eastcote Station,1.0,精确匹配
+Hampstead,Hampstead Underground Station,1.0,精确匹配
+White City,White City Station,1.0,精确匹配
+Northwick Park,Northwick Park Underground Station,1.0,精确匹配
+Latimer Road,Latimer Road Underground Station,1.0,精确匹配
+South Quay,South Quay Station,1.0,精确匹配
+Barkingside,Barkingside Underground Station,1.0,精确匹配
+Lewisham DLR,Lewisham,1.0,精确匹配
+Seven Kings,Seven Kings Rail Station,1.0,精确匹配
+South Woodford,South Woodford Underground Station,1.0,精确匹配
+Highgate,Highgate Station,1.0,精确匹配
+Heathrow Terminals 123 LU,Heathrow Terminals 2 & 3 Underground Station,0.511344537815126,相似度匹配
+Anerley,Anerley Rail Station,1.0,精确匹配
+Heathrow Terminal 5 EL,Heathrow Terminal 5 Underground Station,1.0,精确匹配
+Wimbledon Park,Wimbledon Park Underground Station,1.0,精确匹配
+Deptford Bridge,Deptford Bridge Station,1.0,精确匹配
+Queensbury,Queensbury Underground Station,1.0,精确匹配
+Woodford,Woodford Station,1.0,精确匹配
+Chigwell,Chigwell Station,1.0,精确匹配
+East Putney,East Putney Station,1.0,精确匹配
+Chesham,Chesham Underground Station,1.0,精确匹配
+Leyton,Leyton Station,1.0,精确匹配
+Buckhurst Hill,Buckhurst Hill Underground Station,1.0,精确匹配
+Harold Wood,Harold Wood Rail Station,1.0,精确匹配
+Limehouse DLR,Limehouse DLR Station,1.0,精确匹配
+Wimbledon,Wimbledon,1.0,精确匹配
+Ruislip Gardens,Ruislip Gardens Station,1.0,精确匹配
+Shepherd's Bush Market,Shepherd's Bush Market Underground Station,1.0,精确匹配
+Burnham,Burnham Street,0.7,相似度匹配
+West Brompton,West Brompton Station,1.0,精确匹配
+West Croydon NR,West Croydon Rail Station,0.8333333333333333,相似度匹配
+Cheshunt,Cheshunt Rail Station,1.0,精确匹配
+Finchley Central,Finchley Central,1.0,精确匹配
+Redbridge,Redbridge Station,1.0,精确匹配
+Parsons Green,Parsons Green,1.0,精确匹配
+Hammersmith (H&C),Hammersmith (H&C Line) Underground Station,0.8851162790697675,相似度匹配
+Putney Bridge,Putney Bridge,1.0,精确匹配
+Abbey Wood,Abbey Wood,1.0,精确匹配
+Twyford,Twyford Rail Station,1.0,精确匹配
+Chingford,Chingford Station,1.0,精确匹配
+Westbourne Park,Westbourne Park Station,1.0,精确匹配
+Hounslow Central,Hounslow Central Station,1.0,精确匹配
+Poplar,Poplar DLR Station,1.0,精确匹配
+Stanmore,Stanmore Station,1.0,精确匹配
+Heathrow Terminal 4 LU,Heathrow Terminal 4 Rail Station,0.878048780487805,相似度匹配
+Clapham North,Clapham North Station,1.0,精确匹配
+Ladbroke Grove,Ladbroke Grove Underground Station,1.0,精确匹配
+Mill Hill East,Mill Hill East Underground Station,1.0,精确匹配
+Colliers Wood,Colliers Wood Station,1.0,精确匹配
+South Wimbledon,South Wimbledon Station,1.0,精确匹配
+Brent Cross,Brent Cross Underground Station,1.0,精确匹配
+Shenfield,Shenfield Rail Station,1.0,精确匹配
+Wanstead,Wanstead Underground Station,1.0,精确匹配
+Grange Hill,Grange Hill Underground Station,1.0,精确匹配
+Kilburn,Kilburn Station,1.0,精确匹配
+South Hampstead,South Hampstead Rail Station,1.0,精确匹配
+Belsize Park,Belsize Park Underground Station,1.0,精确匹配
+Kilburn High Road,Kilburn High Road,1.0,精确匹配
+Wood Green,Wood Green Underground Station,1.0,精确匹配
+Romford,Romford Station,1.0,精确匹配
+Greenwich,Greenwich DLR Station,1.0,精确匹配
+South Ealing,South Ealing Underground Station,1.0,精确匹配
+Southfields,Southfields Station,1.0,精确匹配
+Bruce Grove,Bruce Grove Rail Station,1.0,精确匹配
+Amersham,Amersham,1.0,精确匹配
+Kew Gardens,Kew Gardens Rail Station,1.0,精确匹配
+Hillingdon,Hillingdon Underground Station,1.0,精确匹配
+Euston NR,Euston Underground Station,0.74,相似度匹配
+Bushey,Bushey Station,1.0,精确匹配
+Kingsbury,Kingsbury Underground Station,1.0,精确匹配
+Beckton,Beckton Station,1.0,精确匹配
+Woodside Park,Woodside Park Underground Station,1.0,精确匹配
+Harrow-on-the-Hill,Harrow-on-the-Hill,1.0,精确匹配
+Croxley,Croxley Underground Station,1.0,精确匹配
+Balham LU,Balham Station,0.74,相似度匹配
+Prince Regent,Prince Regent Station,1.0,精确匹配
+Northolt,Northolt Station,1.0,精确匹配
+Kentish Town,Kentish Town,1.0,精确匹配
+Gallions Reach,Gallions Reach Station,1.0,精确匹配
+Carpenders Park,Carpenders Park Rail Station,1.0,精确匹配
+Harrow & Wealdstone,Harrow & Wealdstone Rail Station,1.0,精确匹配
+Hatch End,Hatch End Rail Station,1.0,精确匹配
+East Acton,East Acton Underground Station,1.0,精确匹配
+Turnpike Lane,Turnpike Lane Underground Station,1.0,精确匹配
+Ruislip Manor,Ruislip Manor Underground Station,1.0,精确匹配
+Goodmayes,Goodmayes Rail Station,1.0,精确匹配
+Burnt Oak,Burnt Oak Underground Station,1.0,精确匹配
+Theobalds Grove,Theobalds Grove Rail Station,1.0,精确匹配
+Mudchute,Mudchute Station,1.0,精确匹配
+Arnos Grove,Arnos Grove Station,1.0,精确匹配
+High Barnet,High Barnet Station,1.0,精确匹配
+Iver,Iver Rail Station,1.0,精确匹配
+Nine Elms,Nine Elms Station,1.0,精确匹配
+Heron Quays,Heron Quays DLR Station,1.0,精确匹配
+Battersea Power Station,Battersea Power Station,1.0,精确匹配
+Harlesden,Harlesden Rail Station,1.0,精确匹配
+Theydon Bois,Theydon Bois Underground Station,1.0,精确匹配
+Turkey Street,Turkey Street Station,1.0,精确匹配
+King George V,King George V DLR Station,1.0,精确匹配
+Clapham Common,Clapham Common Underground Station,1.0,精确匹配
+Wood Lane,Wood Lane Underground Station,1.0,精确匹配
+Highams Park,Highams Park Station,1.0,精确匹配
+Manor Park,Manor Park,1.0,精确匹配
+Tufnell Park,Tufnell Park Underground Station,1.0,精确匹配
+Wood Street,Wood Street Station,1.0,精确匹配
+Stonebridge Park,Stonebridge Park Underground Station,1.0,精确匹配
+Richmond,Richmond Underground Station,1.0,精确匹配
+Gants Hill,Gants Hill Station,1.0,精确匹配
+Forest Gate,Forest Gate Rail Station,1.0,精确匹配
+Forest Hill,Forest Hill Rail Station,1.0,精确匹配
+Chorleywood,Chorleywood Underground Station,1.0,精确匹配
+Vauxhall LU,Vauxhall Underground Station,0.7526315789473683,相似度匹配
+Watford,Watford Underground Station,1.0,精确匹配
+West Ealing,West Ealing Station,1.0,精确匹配
+Northfields,Northfields Station,1.0,精确匹配
+Hainault,Hainault Station,1.0,精确匹配
+Ruislip,Ruislip Station,1.0,精确匹配
+Goldhawk Road,Goldhawk Road Station,1.0,精确匹配
+Leytonstone,Leytonstone Underground Station,1.0,精确匹配
+Headstone Lane,Headstone Lane,1.0,精确匹配
+Edmonton Green,Edmonton Green Station,1.0,精确匹配
+Perivale,Perivale Underground Station,1.0,精确匹配
+Canary Wharf DLR,Canary Wharf Station,1.0,精确匹配
+Woolwich Arsenal,Woolwich Arsenal,1.0,精确匹配
+West Hampstead LU,West Hampstead Station,0.8376344086021505,相似度匹配
+North Acton,North Acton Station,1.0,精确匹配
+Manor House,Manor House Station,1.0,精确匹配
+Boston Manor,Boston Manor Station,1.0,精确匹配
+Archway,Archway Underground Station,1.0,精确匹配
+Custom House,Custom House Station,1.0,精确匹配
+London City Airport,London City Airport,1.0,精确匹配
+Oakwood,Oakwood Underground Station,1.0,精确匹配
+Maryland,Maryland Station,1.0,精确匹配
+Debden,Debden Underground Station,1.0,精确匹配
+Royal Victoria,Royal Victoria Station,1.0,精确匹配
+North Wembley,North Wembley Station,1.0,精确匹配
+Tooting Broadway,Tooting Broadway Underground Station,1.0,精确匹配
+Hounslow West,Hounslow West Station,1.0,精确匹配
+South Kenton,South Kenton,1.0,精确匹配
